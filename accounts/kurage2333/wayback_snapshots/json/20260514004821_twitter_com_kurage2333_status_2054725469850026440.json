@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2054535976538759663",
+    "created_at": "2026-05-14T00:48:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T01:48:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054725469850026440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1695288196635238400",
+          "start": 0,
+          "username": "linyuming5035"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054725469850026440",
+    "in_reply_to_user_id": "1695288196635238400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054668107973788012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linyuming5035 好🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2054535976538759663",
+        "created_at": "2026-05-14T00:48:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T01:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054725469850026440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1695288196635238400",
+              "start": 0,
+              "username": "linyuming5035"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054725469850026440",
+        "in_reply_to_user_id": "1695288196635238400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054668107973788012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linyuming5035 好🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695288196635238400",
+        "conversation_id": "2054535976538759663",
+        "created_at": "2026-05-13T21:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T22:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054668107973788012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054668107973788012",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054535976538759663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 别抽，又呛又恶心味儿还重(◦`~´◦)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 290,
+          "like_count": 3487,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1034
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T04:13:17.000Z",
+        "description": "04年沙比男大一枚",
+        "id": "1695288196635238400",
+        "name": "老林5035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908200584630374400/NY1DaeAf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 10,
+          "like_count": 208,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 239
+        },
+        "username": "linyuming5035",
+        "verified": false
+      }
+    ]
+  }
+}

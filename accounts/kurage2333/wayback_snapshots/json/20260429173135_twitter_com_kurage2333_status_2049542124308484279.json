@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2049247868922540526",
+    "created_at": "2026-04-29T17:31:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T18:31:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049542124308484279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2048553984768856064",
+          "start": 0,
+          "username": "TraceyMurp35377"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049542124308484279",
+    "in_reply_to_user_id": "2048553984768856064",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049390821145805197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TraceyMurp35377 3🤤🍒💗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2049247868922540526",
+        "created_at": "2026-04-29T17:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T18:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049542124308484279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2048553984768856064",
+              "start": 0,
+              "username": "TraceyMurp35377"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049542124308484279",
+        "in_reply_to_user_id": "2048553984768856064",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049390821145805197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TraceyMurp35377 3🤤🍒💗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048553984768856064",
+        "conversation_id": "2049247868922540526",
+        "created_at": "2026-04-29T07:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T08:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049390821145805197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049390821145805197",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049247868922540526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 3🤤🍒💗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼主人：@阿普唑仑 🩵💙互fo/大欢迎！💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 60,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 37,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 240,
+          "like_count": 3214,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 845
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T00:05:06.000Z",
+        "description": "已入驻约p平台:👉https://t.co/JsqXHlLxDe只在平台上约推特绝大部分女主播都入驻的平台，安全可靠.下载直接打开不用注册，日常更新具体位置平台都有显示.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "d93g.top",
+                "end": 32,
+                "expanded_url": "http://d93g.top",
+                "start": 9,
+                "url": "https://t.co/JsqXHlLxDe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "d93g.top",
+                "end": 23,
+                "expanded_url": "http://d93g.top",
+                "start": 0,
+                "url": "https://t.co/JsqXHlLxDe"
+              }
+            ]
+          }
+        },
+        "id": "2048553984768856064",
+        "location": "附近2.88km",
+        "name": "初瑶🌸寻固炮🌸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049390837239324672/hCzeBIs2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 192
+        },
+        "url": "https://t.co/JsqXHlLxDe",
+        "username": "TraceyMurp35377",
+        "verified": false
+      }
+    ]
+  }
+}

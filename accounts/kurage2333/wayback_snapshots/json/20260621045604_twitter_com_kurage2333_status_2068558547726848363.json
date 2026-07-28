@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2068534003817460201",
+    "created_at": "2026-06-21T04:56:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T05:56:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068558547726848363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1834481927505522688",
+          "start": 0,
+          "username": "7_nodesu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068558547726848363",
+    "in_reply_to_user_id": "1834481927505522688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068550990887079983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7_nodesu 小钱钱…不臭…不臭…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2068534003817460201",
+        "created_at": "2026-06-21T04:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T05:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068558547726848363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1834481927505522688",
+              "start": 0,
+              "username": "7_nodesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068558547726848363",
+        "in_reply_to_user_id": "1834481927505522688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068550990887079983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7_nodesu 小钱钱…不臭…不臭…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834481927505522688",
+        "conversation_id": "2068534003817460201",
+        "created_at": "2026-06-21T04:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T05:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068550990887079983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068550990887079983",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068534003817460201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 谢谢妈妈 好可爱好辛苦喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 339,
+          "like_count": 3804,
+          "listed_count": 2,
+          "media_count": 111,
+          "tweet_count": 1321
+        },
+        "url": "",
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-13T06:39:33.000Z",
+        "description": "キメラだよー",
+        "id": "1834481927505522688",
+        "location": "England, United Kingdom",
+        "name": "Shino",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064511341092651008/MDus4QCa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 598,
+          "like_count": 4824,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 2631
+        },
+        "url": "",
+        "username": "7_nodesu",
+        "verified": false
+      }
+    ]
+  }
+}

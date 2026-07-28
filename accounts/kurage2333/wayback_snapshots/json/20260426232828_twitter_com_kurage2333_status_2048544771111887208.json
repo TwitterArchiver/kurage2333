@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2048373372682457127",
+    "created_at": "2026-04-26T23:28:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T00:28:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048544771111887208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032033299980566528",
+          "start": 0,
+          "username": "rinii165892"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048544771111887208",
+    "in_reply_to_user_id": "2032033299980566528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048538650263384117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rinii165892 我不行了多半是的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2048538650263384117].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2048538650263384117",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2048538650263384117"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2048373372682457127",
+        "created_at": "2026-04-26T23:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T00:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048544771111887208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032033299980566528",
+              "start": 0,
+              "username": "rinii165892"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048544771111887208",
+        "in_reply_to_user_id": "2032033299980566528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048538650263384117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rinii165892 我不行了多半是的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼主人：@阿普唑仑 🩵💙互fo/大欢迎！💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 60,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 37,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 224,
+          "like_count": 3142,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 787
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T09:58:00.000Z",
+        "description": "不发帖就是被抓进精神病院了【寻回推u】\n- ✰*🎀 ੈ✩🍥✰*💗 ੈ✩- \n互联网蛆虫，查成分回fo/低龄糖逼，十分抱歉\n宇宙严重失眠 -12现役初中生\n备用号@YiJin_0v0\n^✟❀灵宠@dbdbsjbsja❀原神@hg3551019177402✿永远纪念@wu_si787878❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "YiJin_0v0"
+              },
+              {
+                "end": 107,
+                "start": 96,
+                "username": "dbdbsjbsja"
+              },
+              {
+                "end": 126,
+                "start": 110,
+                "username": "hg3551019177402"
+              },
+              {
+                "end": 143,
+                "start": 131,
+                "username": "wu_si787878"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 0,
+                "url": "https://t.co/Ks0tpHwbNp"
+              }
+            ]
+          }
+        },
+        "id": "2032033299980566528",
+        "location": "你看看你身后",
+        "name": "霖（完全病娇邪恶中2.0）",
+        "pinned_tweet_id": "2038261710612729866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047879655378870272/U6xQrdPQ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1394,
+          "following_count": 886,
+          "like_count": 8850,
+          "listed_count": 4,
+          "media_count": 194,
+          "tweet_count": 4765
+        },
+        "url": "https://t.co/Ks0tpHwbNp",
+        "username": "rinii165892",
+        "verified": false
+      }
+    ]
+  }
+}

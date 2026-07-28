@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2054900160476631420",
+    "created_at": "2026-05-14T14:56:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T15:56:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054939029683179706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1834481927505522688",
+          "start": 0,
+          "username": "7_nodesu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054939029683179706",
+    "in_reply_to_user_id": "1834481927505522688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054915496177250448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7_nodesu 我去不早说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2054900160476631420",
+        "created_at": "2026-05-14T14:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054939029683179706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1834481927505522688",
+              "start": 0,
+              "username": "7_nodesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054939029683179706",
+        "in_reply_to_user_id": "1834481927505522688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054915496177250448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7_nodesu 我去不早说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834481927505522688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2054900160476631420",
+        "created_at": "2026-05-14T13:23:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T14:23:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054915496177250448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054915496177250448",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054900160476631420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 如同原神遇上门酱（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 305,
+          "like_count": 3544,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1077
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-13T06:39:33.000Z",
+        "description": "キメラだよー",
+        "id": "1834481927505522688",
+        "location": "England, United Kingdom",
+        "name": "Shino",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053007435158142980/5b2ij4Lo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 553,
+          "like_count": 4034,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 2552
+        },
+        "username": "7_nodesu",
+        "verified": false
+      }
+    ]
+  }
+}

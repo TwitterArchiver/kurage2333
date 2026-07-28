@@ -1,0 +1,125 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034337515147235328",
+        "3_2034337515138957312"
+      ]
+    },
+    "author_id": "1987604380896600064",
+    "conversation_id": "2034337533652599256",
+    "created_at": "2026-03-18T18:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T19:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034337533652599256"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z1rhvPZkBH",
+          "end": 122,
+          "expanded_url": "https://x.com/kurage2333/status/2034337533652599256/photo/1",
+          "media_key": "3_2034337515147235328",
+          "start": 99,
+          "url": "https://t.co/Z1rhvPZkBH"
+        },
+        {
+          "display_url": "pic.x.com/Z1rhvPZkBH",
+          "end": 122,
+          "expanded_url": "https://x.com/kurage2333/status/2034337533652599256/photo/1",
+          "media_key": "3_2034337515138957312",
+          "start": 99,
+          "url": "https://t.co/Z1rhvPZkBH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034337533652599256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "⁺.⊹ ᜊ自介ᜊ ⊹.⁺\n大家可以叫我琪琪ᦲ ᆺ ᦲ\n09/焦虑症/抑郁症/自残/od/泛性恋\n平时喜欢看小说/画画/一/二次\n喜欢互fo！老大请和我互fo！！\n自残习惯：慢割叠刀/od：阿普牛逼 https://t.co/Z1rhvPZkBH"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2034337533652599256].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2034337533652599256",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2034337533652599256"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1206,
+        "media_key": "3_2034337515147235328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDtrMQ-aEAAmkiv.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1206,
+        "media_key": "3_2034337515138957312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDtrMQ8bwAAWF_-.jpg",
+        "width": 1206
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口🪼咕噜咕噜..... 血臭臭的…. 🩵💙匿名信 https://t.co/RbZP1l5HyJ💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chabao",
+                "end": 53,
+                "expanded_url": "https://ngl.link/chabao",
+                "start": 30,
+                "url": "https://t.co/RbZP1l5HyJ"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体",
+        "pinned_tweet_id": "2034333801590178268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 53,
+          "like_count": 962,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 186
+        },
+        "username": "kurage2333",
+        "verified": false
+      }
+    ]
+  }
+}

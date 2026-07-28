@@ -1,0 +1,500 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040749625578328064",
+        "3_2040749625569873920"
+      ],
+      "media_source_tweet_id": [
+        "2040749630288511298",
+        "2040749630288511298"
+      ]
+    },
+    "author_id": "1987604380896600064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+          "id": "1557696505548394496",
+          "name": "Beauty, Cosmetic & Personal Care Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Beauty",
+          "id": "850395585941086209",
+          "name": "Beauty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Shaving and Grooming",
+          "id": "856575202972413952",
+          "name": "Shaving and grooming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Shaving",
+          "id": "856575648378134528",
+          "name": "Shaving"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Shaving",
+          "id": "856575648378134528",
+          "name": "Shaving"
+        }
+      }
+    ],
+    "conversation_id": "2040859018110153195",
+    "created_at": "2026-04-05T18:28:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T19:28:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040859018110153195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1567993138719109120",
+          "start": 3,
+          "username": "Uru_x_xo0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K3SGd2i1LU",
+          "end": 81,
+          "expanded_url": "https://x.com/Uru_x_xo0/status/2040749630288511298/photo/1",
+          "media_key": "3_2040749625578328064",
+          "start": 58,
+          "url": "https://t.co/K3SGd2i1LU"
+        },
+        {
+          "display_url": "pic.x.com/K3SGd2i1LU",
+          "end": 81,
+          "expanded_url": "https://x.com/Uru_x_xo0/status/2040749630288511298/photo/1",
+          "media_key": "3_2040749625569873920",
+          "start": 58,
+          "url": "https://t.co/K3SGd2i1LU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040859018110153195",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 242
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040749630288511298",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Uru_x_xo0: 腕にケロイド・肥厚性瘢痕の凹凸あるから、毛剃る時のカミソリの向きこれになるの私だけ❓ https://t.co/K3SGd2i1LU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 819,
+        "media_key": "3_2040749625578328064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFIy-NwbkAA7uec.jpg",
+        "width": 576
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2040749625569873920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFIy-NuakAAm30d.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040749625578328064",
+            "3_2040749625569873920"
+          ],
+          "media_source_tweet_id": [
+            "2040749630288511298",
+            "2040749630288511298"
+          ]
+        },
+        "author_id": "1987604380896600064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Shaving and Grooming",
+              "id": "856575202972413952",
+              "name": "Shaving and grooming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Shaving",
+              "id": "856575648378134528",
+              "name": "Shaving"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Shaving",
+              "id": "856575648378134528",
+              "name": "Shaving"
+            }
+          }
+        ],
+        "conversation_id": "2040859018110153195",
+        "created_at": "2026-04-05T18:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T19:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040859018110153195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1567993138719109120",
+              "start": 3,
+              "username": "Uru_x_xo0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K3SGd2i1LU",
+              "end": 81,
+              "expanded_url": "https://x.com/Uru_x_xo0/status/2040749630288511298/photo/1",
+              "media_key": "3_2040749625578328064",
+              "start": 58,
+              "url": "https://t.co/K3SGd2i1LU"
+            },
+            {
+              "display_url": "pic.x.com/K3SGd2i1LU",
+              "end": 81,
+              "expanded_url": "https://x.com/Uru_x_xo0/status/2040749630288511298/photo/1",
+              "media_key": "3_2040749625569873920",
+              "start": 58,
+              "url": "https://t.co/K3SGd2i1LU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040859018110153195",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 242
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040749630288511298",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Uru_x_xo0: 腕にケロイド・肥厚性瘢痕の凹凸あるから、毛剃る時のカミソリの向きこれになるの私だけ❓ https://t.co/K3SGd2i1LU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040749625578328064",
+            "3_2040749625569873920"
+          ]
+        },
+        "author_id": "1567993138719109120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Shaving and Grooming",
+              "id": "856575202972413952",
+              "name": "Shaving and grooming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Shaving",
+              "id": "856575648378134528",
+              "name": "Shaving"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Shaving",
+              "id": "856575648378134528",
+              "name": "Shaving"
+            }
+          }
+        ],
+        "conversation_id": "2040749630288511298",
+        "created_at": "2026-04-05T11:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T12:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040749630288511298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K3SGd2i1LU",
+              "end": 66,
+              "expanded_url": "https://x.com/Uru_x_xo0/status/2040749630288511298/photo/1",
+              "media_key": "3_2040749625578328064",
+              "start": 43,
+              "url": "https://t.co/K3SGd2i1LU"
+            },
+            {
+              "display_url": "pic.x.com/K3SGd2i1LU",
+              "end": 66,
+              "expanded_url": "https://x.com/Uru_x_xo0/status/2040749630288511298/photo/1",
+              "media_key": "3_2040749625569873920",
+              "start": 43,
+              "url": "https://t.co/K3SGd2i1LU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040749630288511298",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 678,
+          "impression_count": 272491,
+          "like_count": 5080,
+          "quote_count": 163,
+          "reply_count": 17,
+          "retweet_count": 242
+        },
+        "reply_settings": "everyone",
+        "text": "腕にケロイド・肥厚性瘢痕の凹凸あるから、毛剃る時のカミソリの向きこれになるの私だけ❓ https://t.co/K3SGd2i1LU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口🪼主人：@阿普唑仑 🩵💙匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 45,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 22,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 112,
+          "like_count": 2305,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 412
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-08T21:48:21.000Z",
+        "description": "雑多垢\nサブ▶︎@uru_subo0\n👊🏻🩸▶︎@ururu_6x6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 8,
+                "username": "uru_subo0"
+              },
+              {
+                "end": 34,
+                "start": 24,
+                "username": "ururu_6x6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/ersqmjzjdm6sq6v",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/ersqmjzjdm6sq6v",
+                "start": 0,
+                "url": "https://t.co/VBTpvWKWCW"
+              }
+            ]
+          }
+        },
+        "id": "1567993138719109120",
+        "location": "マロ受けつけてます",
+        "name": "眠",
+        "pinned_tweet_id": "2034558757301375076",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034582379730477056/bfgSYmd1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1068,
+          "following_count": 295,
+          "like_count": 10071,
+          "listed_count": 21,
+          "media_count": 418,
+          "tweet_count": 2976
+        },
+        "url": "https://t.co/VBTpvWKWCW",
+        "username": "Uru_x_xo0",
+        "verified": false
+      }
+    ]
+  }
+}

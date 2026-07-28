@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054410750622629888"
+      ]
+    },
+    "author_id": "1987604380896600064",
+    "conversation_id": "2054410825243545929",
+    "created_at": "2026-05-13T03:58:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T04:58:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054410825243545929"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GOXW6R5dnC",
+          "end": 27,
+          "expanded_url": "https://x.com/kurage2333/status/2054410825243545929/photo/1",
+          "media_key": "3_2054410750622629888",
+          "start": 4,
+          "url": "https://t.co/GOXW6R5dnC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054410825243545929",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "神医。 https://t.co/GOXW6R5dnC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054410750622629888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIK7sWWbAAAA8aO.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054410750622629888"
+          ]
+        },
+        "author_id": "1987604380896600064",
+        "conversation_id": "2054410825243545929",
+        "created_at": "2026-05-13T03:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T04:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054410825243545929"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GOXW6R5dnC",
+              "end": 27,
+              "expanded_url": "https://x.com/kurage2333/status/2054410825243545929/photo/1",
+              "media_key": "3_2054410750622629888",
+              "start": 4,
+              "url": "https://t.co/GOXW6R5dnC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054410825243545929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神医。 https://t.co/GOXW6R5dnC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 68,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 45,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 294,
+          "like_count": 3409,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 980
+        },
+        "username": "kurage2333",
+        "verified": false
+      }
+    ]
+  }
+}

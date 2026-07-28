@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "1762314143258788088",
+    "created_at": "2026-01-08T02:45:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T03:45:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009093964641743214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2828212668",
+          "start": 0,
+          "username": "AMAZlNGNATURE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009093964641743214",
+    "in_reply_to_user_id": "2828212668",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1762314143258788088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AMAZlNGNATURE Oh my god… this is beautiful🥹"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29966,
+        "height": 1080,
+        "media_key": "7_1762314109196894209",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1762314109196894209/pu/img/HvoNgp46PiwRXGqz.jpg",
+        "public_metrics": {
+          "view_count": 3658868
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1762314109196894209/pu/vid/avc1/320x568/fc5DHgLnQO70USsg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1762314109196894209/pu/vid/avc1/480x852/tOrWt1y6PSbecqwL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1762314109196894209/pu/vid/avc1/608x1080/nRTrVWxuv7UBm-xL.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1762314109196894209/pu/pl/pwFS-5cbuc7rORMO.m3u8?tag=12"
+          }
+        ],
+        "width": 608
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "1762314143258788088",
+        "created_at": "2026-01-08T02:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T03:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009093964641743214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2828212668",
+              "start": 0,
+              "username": "AMAZlNGNATURE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009093964641743214",
+        "in_reply_to_user_id": "2828212668",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1762314143258788088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AMAZlNGNATURE Oh my god… this is beautiful🥹"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1762314109196894209"
+          ]
+        },
+        "author_id": "2828212668",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129086092202860544",
+              "name": "Marine life"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1243205598633590784",
+              "name": "Sharks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1243205598633590784",
+              "name": "Sharks"
+            }
+          }
+        ],
+        "conversation_id": "1762314143258788088",
+        "created_at": "2024-02-27T03:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-02-27T04:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1762314143258788088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qCE8XfI478",
+              "end": 107,
+              "expanded_url": "https://x.com/AMAZlNGNATURE/status/1762314143258788088/video/1",
+              "media_key": "7_1762314109196894209",
+              "start": 84,
+              "url": "https://t.co/qCE8XfI478"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1762314143258788088",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4976,
+          "impression_count": 3393129,
+          "like_count": 78930,
+          "quote_count": 687,
+          "reply_count": 345,
+          "retweet_count": 11333
+        },
+        "reply_settings": "everyone",
+        "text": "A whale shark gliding through bioluminescent algae appears to be swimming in space. https://t.co/qCE8XfI478"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼09/自傷🪼互fo查成分咕噜咕噜..... 血臭臭的…. 🩵💙匿名信 https://t.co/RbZP1l59Jb💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chabao",
+                "end": 59,
+                "expanded_url": "https://ngl.link/chabao",
+                "start": 36,
+                "url": "https://t.co/RbZP1l59Jb"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "咕噜母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 46,
+          "like_count": 663,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 140
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-23T15:27:26.000Z",
+        "description": "Animals 🐿️ Nature 🦋 Discovery 🦖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/amazlng.nature",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/amazlng.nature",
+                "start": 0,
+                "url": "https://t.co/eLQP37nHde"
+              }
+            ]
+          }
+        },
+        "id": "2828212668",
+        "location": "🌍",
+        "name": "Nature is Amazing ☘️",
+        "pinned_tweet_id": "1969432573811060854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/992795937574604802/FMGk7GZN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6372286,
+          "following_count": 47,
+          "like_count": 1368,
+          "listed_count": 11668,
+          "media_count": 24830,
+          "tweet_count": 26407
+        },
+        "url": "https://t.co/eLQP37nHde",
+        "username": "AMAZlNGNATURE",
+        "verified": true
+      }
+    ]
+  }
+}

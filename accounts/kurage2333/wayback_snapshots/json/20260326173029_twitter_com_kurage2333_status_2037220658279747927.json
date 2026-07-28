@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037192621773492224",
+        "3_2037192621790306304",
+        "3_2037192621765107712"
+      ],
+      "media_source_tweet_id": [
+        "2037192636654903344",
+        "2037192636654903344",
+        "2037192636654903344"
+      ]
+    },
+    "author_id": "1987604380896600064",
+    "conversation_id": "2037220658279747927",
+    "created_at": "2026-03-26T17:30:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T18:30:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037220658279747927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1468141721900896259",
+          "start": 3,
+          "username": "o3olyy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uXfA2DXEWr",
+          "end": 47,
+          "expanded_url": "https://x.com/o3olyy/status/2037192636654903344/photo/1",
+          "media_key": "3_2037192621773492224",
+          "start": 24,
+          "url": "https://t.co/uXfA2DXEWr"
+        },
+        {
+          "display_url": "pic.x.com/uXfA2DXEWr",
+          "end": 47,
+          "expanded_url": "https://x.com/o3olyy/status/2037192636654903344/photo/1",
+          "media_key": "3_2037192621790306304",
+          "start": 24,
+          "url": "https://t.co/uXfA2DXEWr"
+        },
+        {
+          "display_url": "pic.x.com/uXfA2DXEWr",
+          "end": 47,
+          "expanded_url": "https://x.com/o3olyy/status/2037192636654903344/photo/1",
+          "media_key": "3_2037192621765107712",
+          "start": 24,
+          "url": "https://t.co/uXfA2DXEWr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037220658279747927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037192636654903344",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @o3olyy: 🔝同类互fo互转大欢迎 https://t.co/uXfA2DXEWr"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2037220658279747927].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2037220658279747927",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2037220658279747927"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_2037192621773492224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEWP5V_bEAASQpp.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037192621790306304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEWP5WDboAAWmuk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2037192621765107712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEWP5V9bIAAmCEp.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037192621773492224",
+            "3_2037192621790306304",
+            "3_2037192621765107712"
+          ]
+        },
+        "author_id": "1468141721900896259",
+        "conversation_id": "2037192636654903344",
+        "created_at": "2026-03-26T15:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T16:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037192636654903344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uXfA2DXEWr",
+              "end": 35,
+              "expanded_url": "https://x.com/o3olyy/status/2037192636654903344/photo/1",
+              "media_key": "3_2037192621773492224",
+              "start": 12,
+              "url": "https://t.co/uXfA2DXEWr"
+            },
+            {
+              "display_url": "pic.x.com/uXfA2DXEWr",
+              "end": 35,
+              "expanded_url": "https://x.com/o3olyy/status/2037192636654903344/photo/1",
+              "media_key": "3_2037192621790306304",
+              "start": 12,
+              "url": "https://t.co/uXfA2DXEWr"
+            },
+            {
+              "display_url": "pic.x.com/uXfA2DXEWr",
+              "end": 35,
+              "expanded_url": "https://x.com/o3olyy/status/2037192636654903344/photo/1",
+              "media_key": "3_2037192621765107712",
+              "start": 12,
+              "url": "https://t.co/uXfA2DXEWr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037192636654903344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "🔝同类互fo互转大欢迎 https://t.co/uXfA2DXEWr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口🪼咕噜咕噜..... 血臭臭的…. 🩵💙匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 53,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 30,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 94,
+          "like_count": 1960,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 312
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-07T08:54:12.000Z",
+        "description": "=真理｜18 ↑｜od 自伤🩹餐券女｜双向｜adhd｜认知障碍｜自杀未遂｜泛性恋｜bart｜绳缚｜我是精日🚫pink\n同类宝宝互fo私我♡\n我穷疯了我很惨 求怜爱 我只是一个可怜的小女孩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/o3olyy",
+                "end": 23,
+                "expanded_url": "http://ngl.link/o3olyy",
+                "start": 0,
+                "url": "https://t.co/Xp1scCAHXW"
+              }
+            ]
+          }
+        },
+        "id": "1468141721900896259",
+        "location": "看看你身后｜🚪52好友位",
+        "name": "真理",
+        "pinned_tweet_id": "2037192636654903344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028928773631188992/y2_EJ7g1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 108,
+          "like_count": 537,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 273
+        },
+        "url": "https://t.co/Xp1scCAHXW",
+        "username": "o3olyy",
+        "verified": false
+      }
+    ]
+  }
+}

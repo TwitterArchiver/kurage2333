@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2049247868922540526",
+    "created_at": "2026-04-29T17:27:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T18:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049541078169378923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1600998695323025409",
+          "start": 0,
+          "username": "xiozixun41"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049541078169378923",
+    "in_reply_to_user_id": "1600998695323025409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049493728084238654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiozixun41 谢谢你小宝…🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2049247868922540526",
+        "created_at": "2026-04-29T17:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T18:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049541078169378923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1600998695323025409",
+              "start": 0,
+              "username": "xiozixun41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049541078169378923",
+        "in_reply_to_user_id": "1600998695323025409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049493728084238654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiozixun41 谢谢你小宝…🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1600998695323025409",
+        "conversation_id": "2049247868922540526",
+        "created_at": "2026-04-29T14:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049493728084238654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049493728084238654",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 256,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049247868922540526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 割深浅跟好不好看有啥关系，别人想割成啥样管得着吗，莫名其妙评论区那些"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼主人：@阿普唑仑 🩵💙互fo/大欢迎！💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 60,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 37,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 240,
+          "like_count": 3202,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 835
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-08T23:40:22.000Z",
+        "description": "随便",
+        "id": "1600998695323025409",
+        "name": "金属笑笑狐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835621213265412096/HOQ-3W12_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 1648,
+          "like_count": 15532,
+          "listed_count": 2,
+          "media_count": 30,
+          "tweet_count": 1176
+        },
+        "username": "xiozixun41",
+        "verified": false
+      }
+    ]
+  }
+}

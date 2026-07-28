@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2054188544919556178",
+    "created_at": "2026-05-12T13:14:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T14:14:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054188544919556178"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/12sgcsb/status…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/12sgcsb/status/2054180517747319205",
+          "start": 9,
+          "url": "https://t.co/fdLdvdwVUb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054188544919556178",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054180517747319205",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的少萝呢！！😭 https://t.co/fdLdvdwVUb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 39479,
+        "height": 1280,
+        "media_key": "7_2054180408632434688",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2054180408632434688/pu/img/1G7N5Tbz3GfOaBdb.jpg",
+        "public_metrics": {
+          "view_count": 17
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2054180408632434688/pu/vid/avc1/320x568/9btAvOV1_SIjbaUL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2054180408632434688/pu/vid/avc1/480x852/9kp64VjixpHSc20Y.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2054180408632434688/pu/vid/avc1/720x1280/rkmvy-pOzN7DkA3W.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2054180408632434688/pu/pl/Vg-g2-fPZsYFUGu6.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2054188544919556178",
+        "created_at": "2026-05-12T13:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T14:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054188544919556178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/12sgcsb/status…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/12sgcsb/status/2054180517747319205",
+              "start": 9,
+              "url": "https://t.co/fdLdvdwVUb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054188544919556178",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054180517747319205",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的少萝呢！！😭 https://t.co/fdLdvdwVUb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2054180408632434688"
+          ]
+        },
+        "author_id": "2039759562815733760",
+        "conversation_id": "2054180517747319205",
+        "created_at": "2026-05-12T12:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T13:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054180517747319205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DWWMMeqq8g",
+              "end": 38,
+              "expanded_url": "https://x.com/12sgcsb/status/2054180517747319205/video/1",
+              "media_key": "7_2054180408632434688",
+              "start": 15,
+              "url": "https://t.co/DWWMMeqq8g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054180517747319205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "仔细看完 认真领悟 参透奥秘 https://t.co/DWWMMeqq8g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 68,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 45,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 332,
+          "following_count": 290,
+          "like_count": 3390,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 967
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T17:39:35.000Z",
+        "description": "12/烟袋/可咨询/不推销了，老实了",
+        "id": "2039759562815733760",
+        "location": "cn",
+        "name": "12（已老实）",
+        "pinned_tweet_id": "2054094373688868965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054091024755269634/yyjNfYaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 61,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 29
+        },
+        "username": "12sgcsb",
+        "verified": false
+      }
+    ]
+  }
+}

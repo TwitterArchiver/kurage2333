@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2042131568802853090",
+    "created_at": "2026-04-09T06:46:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T07:46:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042132023381520545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2013875219392585728",
+          "start": 0,
+          "username": "e57jcetmSs91516"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042132023381520545",
+    "in_reply_to_user_id": "2013875219392585728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042131790991913438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@e57jcetmSs91516 爱你🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2042131568802853090",
+        "created_at": "2026-04-09T06:46:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T07:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042132023381520545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2013875219392585728",
+              "start": 0,
+              "username": "e57jcetmSs91516"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042132023381520545",
+        "in_reply_to_user_id": "2013875219392585728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042131790991913438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@e57jcetmSs91516 爱你🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013875219392585728",
+        "conversation_id": "2042131568802853090",
+        "created_at": "2026-04-09T06:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T07:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042131790991913438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042131790991913438",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042131568802853090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 抱抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口🪼主人：@阿普唑仑 🩵💙匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 45,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 22,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 133,
+          "like_count": 2588,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 492
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T07:24:26.000Z",
+        "description": "姐姐@maitakoo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "maitakoo"
+              }
+            ]
+          }
+        },
+        "id": "2013875219392585728",
+        "location": "🚪52/88/288/520上不封顶（过门不退",
+        "name": "T^T（허월홍）",
+        "pinned_tweet_id": "2029577831198716224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041231901755912192/p1ai90KA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 283,
+          "like_count": 11312,
+          "listed_count": 0,
+          "media_count": 243,
+          "tweet_count": 4781
+        },
+        "username": "e57jcetmSs91516",
+        "verified": false
+      }
+    ]
+  }
+}

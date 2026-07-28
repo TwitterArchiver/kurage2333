@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2008919889495331183",
+    "created_at": "2026-01-07T17:59:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T18:59:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008961687030837358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1735716469638565889",
+          "start": 0,
+          "username": "ZzViSung"
+        },
+        {
+          "end": 21,
+          "id": "1990582437282525187",
+          "start": 10,
+          "username": "YeChuan152"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008961687030837358",
+    "in_reply_to_user_id": "1735716469638565889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008961365822853310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZzViSung @YeChuan152 去去去 滚一边去^ ^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2008919889495331183",
+        "created_at": "2026-01-07T17:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T18:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008961687030837358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1735716469638565889",
+              "start": 0,
+              "username": "ZzViSung"
+            },
+            {
+              "end": 21,
+              "id": "1990582437282525187",
+              "start": 10,
+              "username": "YeChuan152"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008961687030837358",
+        "in_reply_to_user_id": "1735716469638565889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008961365822853310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZzViSung @YeChuan152 去去去 滚一边去^ ^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1735716469638565889",
+        "conversation_id": "2008919889495331183",
+        "created_at": "2026-01-07T17:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T18:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008961365822853310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1990582437282525187",
+              "start": 0,
+              "username": "YeChuan152"
+            },
+            {
+              "end": 23,
+              "id": "1987604380896600064",
+              "start": 12,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008961365822853310",
+        "in_reply_to_user_id": "1990582437282525187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008920538308063683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YeChuan152 @kurage2333 什么生鲜给我来点🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼09/自傷🪼互fo查成分咕噜咕噜..... 血臭臭的…. 🩵💙匿名信 https://t.co/RbZP1l59Jb💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chabao",
+                "end": 59,
+                "expanded_url": "https://ngl.link/chabao",
+                "start": 36,
+                "url": "https://t.co/RbZP1l59Jb"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "咕噜母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 46,
+          "like_count": 627,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 137
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-15T17:40:40.000Z",
+        "description": "💫✨✨✨05男，ip杭州/玩音游🎵/中文+散装英日文 🧊🧊🧊☆彡✨✨✨💫",
+        "id": "1735716469638565889",
+        "location": "圣诞岛",
+        "name": "拜拜氣泡水～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003893244267319298/-AZvrBF5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 84,
+          "like_count": 3987,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 589
+        },
+        "username": "ZzViSung",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-18T00:46:58.000Z",
+        "description": "UoT Biostudying 🎀Love mizuki 🎀/ いつも自分の好きなものを共有します,お会いできてうれしいです /中文/Eng / 日本語(勉強中 🇨🇳🇨🇦🇯🇵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizuki.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://mizuki.dpdns.org/",
+                "start": 0,
+                "url": "https://t.co/9hxt5sxTwW"
+              }
+            ]
+          }
+        },
+        "id": "1990582437282525187",
+        "location": "25時、ナイトコードで。",
+        "name": "YeChuan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990582526457356288/jlgce19k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 117,
+          "like_count": 338,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 196
+        },
+        "url": "https://t.co/9hxt5sxTwW",
+        "username": "YeChuan152",
+        "verified": false
+      }
+    ]
+  }
+}

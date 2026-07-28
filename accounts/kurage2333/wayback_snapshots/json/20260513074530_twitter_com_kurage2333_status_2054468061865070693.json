@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2054129648771153936",
+    "created_at": "2026-05-13T07:45:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T08:45:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054468061865070693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1983831935958052865",
+          "start": 0,
+          "username": "xiaobei226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054468061865070693",
+    "in_reply_to_user_id": "1983831935958052865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054441762241024467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaobei226 特别喜欢黑长直！🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2054129648771153936",
+        "created_at": "2026-05-13T07:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T08:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054468061865070693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1983831935958052865",
+              "start": 0,
+              "username": "xiaobei226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054468061865070693",
+        "in_reply_to_user_id": "1983831935958052865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054441762241024467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaobei226 特别喜欢黑长直！🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983831935958052865",
+        "conversation_id": "2054129648771153936",
+        "created_at": "2026-05-13T06:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T07:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054441762241024467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054441762241024467",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054129648771153936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 黑长直天呢🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 68,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 45,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 294,
+          "like_count": 3418,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 984
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-30T09:42:54.000Z",
+        "description": "不要对wo冷冰冰⋆⁺₊❅.❄️\n 05♓️｜不约不线下不聊骚不搞黄｜当朋友圈发\n俺滴提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/d%E2%80%86d723…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/d%E2%80%86d72380/",
+                "start": 0,
+                "url": "https://t.co/m8MewfZEX7"
+              }
+            ]
+          }
+        },
+        "id": "1983831935958052865",
+        "location": "🍀sub",
+        "name": "点点",
+        "pinned_tweet_id": "2050556673899765788",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030257714610507776/GjhfSMsn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1161,
+          "following_count": 69,
+          "like_count": 12231,
+          "listed_count": 3,
+          "media_count": 160,
+          "tweet_count": 4391
+        },
+        "url": "https://t.co/m8MewfZEX7",
+        "username": "xiaobei226",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2054900160476631420",
+    "created_at": "2026-05-14T15:11:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T16:11:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054942719345393982"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2002701945036009474",
+          "start": 0,
+          "username": "Checkdd3n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054942719345393982",
+    "in_reply_to_user_id": "2002701945036009474",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054940480237109702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Checkdd3n www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2054900160476631420",
+        "created_at": "2026-05-14T15:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T16:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054942719345393982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2002701945036009474",
+              "start": 0,
+              "username": "Checkdd3n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054942719345393982",
+        "in_reply_to_user_id": "2002701945036009474",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054940480237109702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Checkdd3n www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002701945036009474",
+        "conversation_id": "2054900160476631420",
+        "created_at": "2026-05-14T15:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T16:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054940480237109702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054940480237109702",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054900160476631420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 那我呢🤨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 305,
+          "like_count": 3547,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1078
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T11:25:44.000Z",
+        "description": "好玩太好玩了，这里。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/check69429",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/check69429",
+                "start": 0,
+                "url": "https://t.co/rwrhL1VSYZ"
+              }
+            ]
+          }
+        },
+        "id": "2002701945036009474",
+        "name": "Check",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046366608608960512/TVNqAl1f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 190,
+          "like_count": 896,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 374
+        },
+        "url": "https://t.co/rwrhL1VSYZ",
+        "username": "Checkdd3n",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "1987877151635333297",
+    "created_at": "2025-11-10T13:44:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T14:44:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987879056176451996"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1987879056176451996",
+    "in_reply_to_user_id": "1987604380896600064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987877151635333297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "身体像一张绷得过紧的弓，而我，只能在寒风中试图站稳。\n窒息感无时无刻笼罩着我。\n我想下楼去便利店买点吃的，但这个过程，却消耗了我在片刻宁静中储存下来的全部能量。\n回到房间，又一次的崩溃。\n为什么？\n我从未想过，人类的抗压能力，竟然能如此脆弱。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "1987877151635333297",
+        "created_at": "2025-11-10T13:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T14:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987879056176451996"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987879056176451996",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987877151635333297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "身体像一张绷得过紧的弓，而我，只能在寒风中试图站稳。\n窒息感无时无刻笼罩着我。\n我想下楼去便利店买点吃的，但这个过程，却消耗了我在片刻宁静中储存下来的全部能量。\n回到房间，又一次的崩溃。\n为什么？\n我从未想过，人类的抗压能力，竟然能如此脆弱。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "1987877151635333297",
+        "created_at": "2025-11-10T13:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T14:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987877151635333297"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987877151635333297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "崩溃后的宁静，就像单靠一根细线支撑起的桥梁，承受不了一丁点压力。\n我的心，像千万根寒针，无时无刻地在刺痛着我。\n全身的肌肉因过度紧张而颤抖，连最微小的动作，都像在拉扯着神经，甚至我的胃也跟着抽疼。\n呼吸沉重而急促，每一次吸气都带着疼痛，每一次呼气，都像释放不了的焦虑。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "会有很多负面内容不要骂我。",
+        "id": "1987604380896600064",
+        "location": "地球外",
+        "name": "水母体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987606693132546048/h4yJ-0tB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "username": "kurage2333",
+        "verified": false
+      }
+    ]
+  }
+}

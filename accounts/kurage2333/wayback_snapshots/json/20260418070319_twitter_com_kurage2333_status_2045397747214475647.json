@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2045394488538153128",
+    "created_at": "2026-04-18T07:03:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T08:03:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045397747214475647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1538535836148715520",
+          "start": 0,
+          "username": "jinghua77765851"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045397747214475647",
+    "in_reply_to_user_id": "1538535836148715520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045394488538153128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinghua77765851 爱你…抱抱…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045394485602127872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKzcpvbkAAvXBG.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2045394488538153128",
+        "created_at": "2026-04-18T07:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T08:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045397747214475647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1538535836148715520",
+              "start": 0,
+              "username": "jinghua77765851"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045397747214475647",
+        "in_reply_to_user_id": "1538535836148715520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045394488538153128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinghua77765851 爱你…抱抱…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045394485602127872"
+          ]
+        },
+        "author_id": "1538535836148715520",
+        "conversation_id": "2045394488538153128",
+        "created_at": "2026-04-18T06:50:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T07:50:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045394488538153128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iNfb7H3VDS",
+              "end": 27,
+              "expanded_url": "https://x.com/jinghua77765851/status/2045394488538153128/photo/1",
+              "media_key": "3_2045394485602127872",
+              "start": 4,
+              "url": "https://t.co/iNfb7H3VDS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045394488538153128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已注射 https://t.co/iNfb7H3VDS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼主人：@阿普唑仑 🩵💙互fo/大欢迎匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 56,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 33,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 223,
+          "like_count": 2991,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 709
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-19T14:55:11.000Z",
+        "description": "19↑‖每天都想睡覺‖\n互粉查成分回 喜歡聰明人‖",
+        "id": "1538535836148715520",
+        "name": "鏡花生物爹",
+        "pinned_tweet_id": "1970351506923848033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042570703015415813/792SFKWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 187,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 220
+        },
+        "username": "jinghua77765851",
+        "verified": false
+      }
+    ]
+  }
+}

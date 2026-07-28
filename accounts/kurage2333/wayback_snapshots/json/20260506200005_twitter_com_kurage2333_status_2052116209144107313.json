@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2052063062564471195",
+    "created_at": "2026-05-06T20:00:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T21:00:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052116209144107313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2032033299980566528",
+          "start": 0,
+          "username": "iirin_0917"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052116209144107313",
+    "in_reply_to_user_id": "2032033299980566528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052110364029181971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iirin_0917 🤤我爱推特"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2052063062564471195",
+        "created_at": "2026-05-06T20:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T21:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052116209144107313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2032033299980566528",
+              "start": 0,
+              "username": "iirin_0917"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052116209144107313",
+        "in_reply_to_user_id": "2032033299980566528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052110364029181971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iirin_0917 🤤我爱推特"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032033299980566528",
+        "conversation_id": "2052063062564471195",
+        "created_at": "2026-05-06T19:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T20:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052110364029181971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052110364029181971",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052063062564471195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 欢迎回家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼主人：@阿普唑仑 🩵💙互fo/大欢迎！💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 60,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 37,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 249,
+          "like_count": 3249,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 883
+        },
+        "url": "",
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T09:58:00.000Z",
+        "description": "不发帖就是被抓进精神病院了【寻回推u】\n- ✰*🎀 ੈ✩🍥✰*💗 ੈ✩- \n互联网蛆虫，查成分回fo/低龄糖逼，十分抱歉\n宇宙严重失眠 -12现役初中生\n备用号@YiJin_0v0\n^✟❀♠@hg3551019177402✿永远纪念@wu_si787878❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "YiJin_0v0"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "hg3551019177402"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "wu_si787878"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ii_rin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ii_rin",
+                "start": 0,
+                "url": "https://t.co/SjYrlxhZzJ"
+              }
+            ]
+          }
+        },
+        "id": "2032033299980566528",
+        "location": "你看看你身后",
+        "name": "霖（完全病娇邪恶中2.0）",
+        "pinned_tweet_id": "2038261710612729866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047879655378870272/U6xQrdPQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 971,
+          "like_count": 10207,
+          "listed_count": 6,
+          "media_count": 233,
+          "tweet_count": 5539
+        },
+        "url": "https://t.co/SjYrlxhZzJ",
+        "username": "iirin_0917",
+        "verified": false
+      }
+    ]
+  }
+}

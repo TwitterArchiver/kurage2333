@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2052628518828380515",
+    "created_at": "2026-05-08T07:16:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T08:16:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052648733972836445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1753386090143354880",
+          "start": 0,
+          "username": "HanQWQ457437"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052648733972836445",
+    "in_reply_to_user_id": "1753386090143354880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052628518828380515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HanQWQ457437 主人级别。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2037,
+        "media_key": "3_2052628516022493184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxmwpFboAAy13G.jpg",
+        "width": 1464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2052628518828380515",
+        "created_at": "2026-05-08T07:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T08:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052648733972836445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1753386090143354880",
+              "start": 0,
+              "username": "HanQWQ457437"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052648733972836445",
+        "in_reply_to_user_id": "1753386090143354880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052628518828380515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HanQWQ457437 主人级别。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052628516022493184"
+          ]
+        },
+        "author_id": "1753386090143354880",
+        "conversation_id": "2052628518828380515",
+        "created_at": "2026-05-08T05:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T06:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052628518828380515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JvOeTkQZoB",
+              "end": 31,
+              "expanded_url": "https://x.com/HanQWQ457437/status/2052628518828380515/photo/1",
+              "media_key": "3_2052628516022493184",
+              "start": 8,
+              "url": "https://t.co/JvOeTkQZoB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052628518828380515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 435,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有一起挂壁 https://t.co/JvOeTkQZoB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 68,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 45,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 257,
+          "like_count": 3284,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 904
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "description": "08年2月/大一/欢迎找我聊天，我很需要人类陪我🥺  🚪0.0000016394btc",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "i🇦🇺",
+        "pinned_tweet_id": "2038355860112761162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045469978032513024/82RzlDbR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 1479,
+          "like_count": 2150,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 541
+        },
+        "username": "HanQWQ457437",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2037220581456900101",
+    "created_at": "2026-03-26T20:03:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T21:03:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037259244135997933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1834481927505522688",
+          "start": 0,
+          "username": "7_nodesu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037259244135997933",
+    "in_reply_to_user_id": "1834481927505522688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037234525948801488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7_nodesu 好哎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2037220581456900101",
+        "created_at": "2026-03-26T20:03:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T21:03:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037259244135997933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1834481927505522688",
+              "start": 0,
+              "username": "7_nodesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037259244135997933",
+        "in_reply_to_user_id": "1834481927505522688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037234525948801488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7_nodesu 好哎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834481927505522688",
+        "conversation_id": "2037220581456900101",
+        "created_at": "2026-03-26T18:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T19:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037234525948801488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037234525948801488",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037220581456900101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 把我的送给你我需要让它消失一段时间🔞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口🪼咕噜咕噜..... 血臭臭的…. 🩵💙匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 53,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 30,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 94,
+          "like_count": 1962,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 314
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-13T06:39:33.000Z",
+        "description": "awwwww",
+        "id": "1834481927505522688",
+        "location": "England, United Kingdom",
+        "name": "awww",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952301329075904512/LglQJgXi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 445,
+          "like_count": 2535,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 2144
+        },
+        "username": "7_nodesu",
+        "verified": false
+      }
+    ]
+  }
+}

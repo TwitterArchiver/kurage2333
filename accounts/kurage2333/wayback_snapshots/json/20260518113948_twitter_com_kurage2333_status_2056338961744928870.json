@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2056276502451568857",
+    "created_at": "2026-05-18T11:39:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T12:39:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056338961744928870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1980572743230795776",
+          "start": 0,
+          "username": "zake96279450728"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056338961744928870",
+    "in_reply_to_user_id": "1980572743230795776",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056324439239971237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zake96279450728 😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2056276502451568857",
+        "created_at": "2026-05-18T11:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T12:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056338961744928870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1980572743230795776",
+              "start": 0,
+              "username": "zake96279450728"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056338961744928870",
+        "in_reply_to_user_id": "1980572743230795776",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056324439239971237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zake96279450728 😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980572743230795776",
+        "conversation_id": "2056276502451568857",
+        "created_at": "2026-05-18T10:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T11:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056324439239971237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056324439239971237",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056276502451568857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 笑死我了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 338,
+          "like_count": 3566,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 1114
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T09:52:09.000Z",
+        "description": "不聊骚哈小美女，不好意思，我是一个有家庭有恋人孩子的人，我平时发发帖子已经是最大的尺度了，希望你理解，但转账我能接受，多大都能。\n𖦹无性别𖦹泛性恋𖦹不约𖦹可礼貌扩列𖦹发私信前点关注𖦹所有人来和我聊天我好不好🥺𖦹",
+        "id": "1980572743230795776",
+        "location": "-2.1km",
+        "name": "吵闹的绅士猫猫𝖓𝖔𝖎𝖘𝖊𖦹（互fo）",
+        "pinned_tweet_id": "2054117675366805531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055839447988797440/V5Cdl4lq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 140,
+          "like_count": 1170,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 192
+        },
+        "username": "zake96279450728",
+        "verified": false
+      }
+    ]
+  }
+}

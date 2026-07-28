@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2048906782643531990",
+    "created_at": "2026-04-28T21:25:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T22:25:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049238644431696347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1990582437282525187",
+          "start": 0,
+          "username": "YeChuan1123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049238644431696347",
+    "in_reply_to_user_id": "1990582437282525187",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048916695159275624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YeChuan1123 😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2048906782643531990",
+        "created_at": "2026-04-28T21:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T22:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049238644431696347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1990582437282525187",
+              "start": 0,
+              "username": "YeChuan1123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049238644431696347",
+        "in_reply_to_user_id": "1990582437282525187",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048916695159275624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YeChuan1123 😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990582437282525187",
+        "conversation_id": "2048906782643531990",
+        "created_at": "2026-04-28T00:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T01:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048916695159275624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048916695159275624",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048906782643531990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 我偷走了 我今天睡了18小时"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼主人：@阿普唑仑 🩵💙互fo/大欢迎！💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 60,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 37,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 231,
+          "like_count": 3151,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 794
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-18T00:46:58.000Z",
+        "description": "20↑/UoT Biostudying 🇨🇦 🎀Love mizuki & Sylveon🎀\n分享自己爱看的！还有好多碎碎念… 想被摸……请给我很多很多的摸摸 🏳️‍⚧️ MTF 中文/Eng /日本語(勉強中 \n*💖超喜欢两个乖小孩 @blingbling712 @Rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 118,
+                "username": "blingbling712"
+              },
+              {
+                "end": 148,
+                "start": 133,
+                "username": "Rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizuki.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://mizuki.dpdns.org/",
+                "start": 0,
+                "url": "https://t.co/9hxt5syrmu"
+              }
+            ]
+          }
+        },
+        "id": "1990582437282525187",
+        "location": "25時、ナイトコードで。",
+        "name": "YeChuan",
+        "pinned_tweet_id": "2044233070425808920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041554967668883458/GSS53DIK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 241,
+          "like_count": 1398,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 650
+        },
+        "url": "https://t.co/9hxt5syrmu",
+        "username": "YeChuan1123",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2057882181608075395",
+    "created_at": "2026-05-22T17:52:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T18:52:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057882181608075395"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2057882181608075395",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "关于我本人的性格狂贱吊婊装忘恩负义权衡利弊知错不改不知悔改恶毒邪恶满口谎言滥情恶毒歹毒心狠刻薄阴毒刁钻阴险狡诈虚伪自私冷血狠心缺德无情势利心狠手辣蛇蝎心肠人面兽心丧尽天良狼心狗肺阴险狡诈口蜜腹剑笑里藏刀居心叵测心术不正冷酷无情不择手段恶贯满盈伤天害理暴戾歹毒阴鸷好佞卑劣龌龊寡情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2057882181608075395",
+        "created_at": "2026-05-22T17:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T18:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057882181608075395"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057882181608075395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于我本人的性格狂贱吊婊装忘恩负义权衡利弊知错不改不知悔改恶毒邪恶满口谎言滥情恶毒歹毒心狠刻薄阴毒刁钻阴险狡诈虚伪自私冷血狠心缺德无情势利心狠手辣蛇蝎心肠人面兽心丧尽天良狼心狗肺阴险狡诈口蜜腹剑笑里藏刀居心叵测心术不正冷酷无情不择手段恶贯满盈伤天害理暴戾歹毒阴鸷好佞卑劣龌龊寡情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 341,
+          "like_count": 3563,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 1158
+        },
+        "username": "kurage2333",
+        "verified": false
+      }
+    ]
+  }
+}

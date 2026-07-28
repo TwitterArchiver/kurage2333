@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2040856747959844944",
+    "created_at": "2026-04-06T11:27:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T12:27:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041115618402021417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1742117453809725440",
+          "start": 0,
+          "username": "eclia121739922"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041115618402021417",
+    "in_reply_to_user_id": "1742117453809725440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041115503616500161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eclia121739922 我去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2040856747959844944",
+        "created_at": "2026-04-06T11:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T12:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041115618402021417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1742117453809725440",
+              "start": 0,
+              "username": "eclia121739922"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041115618402021417",
+        "in_reply_to_user_id": "1742117453809725440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041115503616500161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eclia121739922 我去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1742117453809725440",
+        "conversation_id": "2040856747959844944",
+        "created_at": "2026-04-06T11:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T12:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041115503616500161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041115503616500161",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040856747959844944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 哥的是德国著名文学家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口🪼主人：@阿普唑仑 🩵💙匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 45,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 22,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 118,
+          "like_count": 2397,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 446
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-02T09:35:55.000Z",
+        "description": "玉玉/精分/08/我是冰西瓜/mtx/伪娘全肯定（x/",
+        "id": "1742117453809725440",
+        "name": "eeeee",
+        "pinned_tweet_id": "1935795793702891698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040821135512834048/dc79F7pA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 264,
+          "like_count": 632,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 509
+        },
+        "username": "eclia121739922",
+        "verified": false
+      }
+    ]
+  }
+}

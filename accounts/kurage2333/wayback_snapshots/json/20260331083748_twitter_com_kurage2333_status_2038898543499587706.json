@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2038579980767223891",
+    "created_at": "2026-03-31T08:37:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T09:37:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038898543499587706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1243590342911410176",
+          "start": 0,
+          "username": "bing2000100830"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038898543499587706",
+    "in_reply_to_user_id": "1243590342911410176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038579980767223891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bing2000100830 我不行了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2038579980767223891",
+        "created_at": "2026-03-31T08:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T09:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038898543499587706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038898543499587706",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038579980767223891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 我不行了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243590342911410176",
+        "conversation_id": "2038579980767223891",
+        "created_at": "2026-03-30T11:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T12:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038579980767223891"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038579980767223891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 993,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小霖.....................神圣的主啊 求你了不要带走我的朋友 不要带走她 不要"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口🪼咕噜咕噜..... 血臭臭的…. 🩵💙匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 53,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 30,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 96,
+          "like_count": 2009,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 337
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "🕯️",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030176214581964800/ytEL2-pP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 756,
+          "like_count": 24551,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1580
+        },
+        "username": "bing2000100830",
+        "verified": false
+      }
+    ]
+  }
+}

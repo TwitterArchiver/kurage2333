@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2035666921811763569",
+    "created_at": "2026-03-22T14:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T15:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035729262142206114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1777129646867542016",
+          "start": 0,
+          "username": "Sunset__3000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035729262142206114",
+    "in_reply_to_user_id": "1777129646867542016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035666921811763569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sunset__3000 不得了，！这个，中推玩了之后。我，变成一只，应声虫？操你妈。，我要，跳？楼。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2035666921811763569",
+        "created_at": "2026-03-22T14:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T15:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035729262142206114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1777129646867542016",
+              "start": 0,
+              "username": "Sunset__3000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035729262142206114",
+        "in_reply_to_user_id": "1777129646867542016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035666921811763569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sunset__3000 不得了，！这个，中推玩了之后。我，变成一只，应声虫？操你妈。，我要，跳？楼。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777129646867542016",
+        "conversation_id": "2035666921811763569",
+        "created_at": "2026-03-22T10:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T11:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035666921811763569"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035666921811763569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 686,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "不得了，！这个，中推玩了之后。我，变成一只，应声虫？操你妈。，我要，跳？楼。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口🪼咕噜咕噜..... 血臭臭的…. 🩵💙匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 53,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 30,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 80,
+          "like_count": 1336,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 239
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T00:21:51.000Z",
+        "description": "o割餐券女 | 精神病 | 家里蹲备考 | 极端悲观主义 | 爱好生化药理板绘 | 对象@phonyR42250💊商 | 同类互fo呀♡漏回提醒我🥹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "phonyR42250"
+              }
+            ]
+          }
+        },
+        "id": "1777129646867542016",
+        "location": "宛平南路600号",
+        "name": "日落三千次",
+        "pinned_tweet_id": "2034272198798811213",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028471926700851200/tjj6_fyG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 303,
+          "like_count": 1232,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 400
+        },
+        "username": "Sunset__3000",
+        "verified": false
+      }
+    ]
+  }
+}

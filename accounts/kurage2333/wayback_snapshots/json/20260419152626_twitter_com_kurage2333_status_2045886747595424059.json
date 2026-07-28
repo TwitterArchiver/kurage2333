@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2045803072396628308",
+    "created_at": "2026-04-19T15:26:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T16:26:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045886747595424059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1985648276046315520",
+          "start": 0,
+          "username": "0o_170o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045886747595424059",
+    "in_reply_to_user_id": "1985648276046315520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045885850802847991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0o_170o 亲亲～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2045803072396628308",
+        "created_at": "2026-04-19T15:26:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T16:26:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045886747595424059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1985648276046315520",
+              "start": 0,
+              "username": "0o_170o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045886747595424059",
+        "in_reply_to_user_id": "1985648276046315520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045885850802847991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0o_170o 亲亲～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1985648276046315520",
+        "conversation_id": "2045803072396628308",
+        "created_at": "2026-04-19T15:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T16:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045885850802847991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045885850802847991",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045803072396628308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 好看！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼主人：@阿普唑仑 🩵💙互fo/大欢迎！💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 60,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 37,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 222,
+          "like_count": 3043,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 736
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-04T10:00:24.000Z",
+        "description": "20↑ 雑多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/minmin425",
+                "end": 23,
+                "expanded_url": "http://paypal.me/minmin425",
+                "start": 0,
+                "url": "https://t.co/83N8HlkAri"
+              }
+            ]
+          }
+        },
+        "id": "1985648276046315520",
+        "location": "吵死了",
+        "name": "四月一日★",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040887994522193920/IR3gnffY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 471,
+          "like_count": 3795,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 1940
+        },
+        "url": "https://t.co/83N8HlkAri",
+        "username": "0o_170o",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2010508646674010510",
+    "created_at": "2026-01-12T10:41:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T11:41:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010663352511647753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "800216648468680706",
+          "start": 0,
+          "username": "umitamago_staff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010663352511647753",
+    "in_reply_to_user_id": "800216648468680706",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010508646674010510",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@umitamago_staff 可愛い！！！！🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25500,
+        "height": 720,
+        "media_key": "13_2010508586376699904",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2010508586376699904/img/KCefrFfiSYjzE4s7.jpg",
+        "public_metrics": {
+          "view_count": 32002
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010508586376699904/vid/avc1/320x320/aUPdW58i984Va52p.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010508586376699904/vid/avc1/540x540/EVnwJT34Z-35X7XS.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2010508586376699904/vid/avc1/720x720/D4fk2nRAzUF5s29-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2010508586376699904/pl/mevT__hYbheuar39.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 1301,
+        "media_key": "3_2010508586351542272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-bC6DtbQAAI1B3.jpg",
+        "width": 1626
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2010508646674010510",
+        "created_at": "2026-01-12T10:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T11:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010663352511647753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "800216648468680706",
+              "start": 0,
+              "username": "umitamago_staff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010663352511647753",
+        "in_reply_to_user_id": "800216648468680706",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010508646674010510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@umitamago_staff 可愛い！！！！🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2010508586376699904",
+            "3_2010508586351542272"
+          ]
+        },
+        "author_id": "800216648468680706",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Meals",
+              "id": "1034860760093024257",
+              "name": "Meals"
+            }
+          }
+        ],
+        "conversation_id": "2010508646674010510",
+        "created_at": "2026-01-12T00:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T01:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010508646674010510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/buNb3Bmq0T",
+              "end": 99,
+              "expanded_url": "https://x.com/umitamago_staff/status/2010508646674010510/video/1",
+              "media_key": "13_2010508586376699904",
+              "start": 76,
+              "url": "https://t.co/buNb3Bmq0T"
+            },
+            {
+              "display_url": "pic.x.com/buNb3Bmq0T",
+              "end": 99,
+              "expanded_url": "https://x.com/umitamago_staff/status/2010508646674010510/video/1",
+              "media_key": "3_2010508586351542272",
+              "start": 76,
+              "url": "https://t.co/buNb3Bmq0T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010508646674010510",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 109,
+          "impression_count": 76582,
+          "like_count": 1901,
+          "quote_count": 15,
+          "reply_count": 3,
+          "retweet_count": 286
+        },
+        "reply_settings": "everyone",
+        "text": "館内１階「うみたまホール」には、天窓のような造りの場所があります\n\nふと見上げると…\nエイがお食事中でした🍽️\n\n食べ方がちょっとアレなのはお許しを🫣 https://t.co/buNb3Bmq0T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼09/自傷🪼互fo查成分咕噜咕噜..... 血臭臭的…. 🩵💙匿名信 https://t.co/RbZP1l59Jb💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chabao",
+                "end": 59,
+                "expanded_url": "https://ngl.link/chabao",
+                "start": 36,
+                "url": "https://t.co/RbZP1l59Jb"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "咕噜母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 46,
+          "like_count": 814,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 151
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-20T05:58:11.000Z",
+        "description": "水族館「うみたまご」は「動物と仲良くなれる水族館」をコンセプトに人と海の動物たちが身近にふれあい、仲良くなる事のできる場所です。ご質問・ご要望は【メールアドレス：info@umitamago.jp】までお問い合わせください。\n【電話番号：097-534-1010】",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "umitamago.jp",
+                "end": 23,
+                "expanded_url": "https://www.umitamago.jp/",
+                "start": 0,
+                "url": "https://t.co/k1l67QurTz"
+              }
+            ]
+          }
+        },
+        "id": "800216648468680706",
+        "location": "大分県大分市大字神崎3078-22",
+        "name": "大分マリーンパレス水族館「うみたまご」",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1592124633901199360/VDSGPdU5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31293,
+          "following_count": 2,
+          "like_count": 9998,
+          "listed_count": 1216,
+          "media_count": 741,
+          "tweet_count": 1255
+        },
+        "url": "https://t.co/k1l67QurTz",
+        "username": "umitamago_staff",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2054823993476288675",
+    "created_at": "2026-05-14T07:28:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T08:28:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054826111029346812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2049429261363163136",
+          "start": 0,
+          "username": "Felixouo2778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054826111029346812",
+    "in_reply_to_user_id": "2049429261363163136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054825439554633979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Felixouo2778 我每次都是洗完澡剪 喷发胶就要得重新洗了。不过我下次洗澡前试试！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2054823993476288675",
+        "created_at": "2026-05-14T07:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T08:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054826111029346812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2049429261363163136",
+              "start": 0,
+              "username": "Felixouo2778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054826111029346812",
+        "in_reply_to_user_id": "2049429261363163136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054825439554633979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Felixouo2778 我每次都是洗完澡剪 喷发胶就要得重新洗了。不过我下次洗澡前试试！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049429261363163136",
+        "conversation_id": "2054823993476288675",
+        "created_at": "2026-05-14T07:25:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T08:25:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054825439554633979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054825439554633979",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054823993476288675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 我只有喷了发胶才能剪齐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 377,
+          "following_count": 300,
+          "like_count": 3518,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1060
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-29T10:04:32.000Z",
+        "description": "🇨🇳\n非理性/彪哥\n这里只有日常因为我这个\n糊逼发朋友圈根本没人鸟",
+        "id": "2049429261363163136",
+        "name": "user9118963138",
+        "pinned_tweet_id": "2054190228307398866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049720001272152065/uwv1LgwT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 27,
+          "like_count": 981,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 21
+        },
+        "username": "Felixouo2778",
+        "verified": false
+      }
+    ]
+  }
+}

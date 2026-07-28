@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2040417308259356719",
+    "created_at": "2026-04-04T16:33:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T17:33:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040467736065884283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2039793628634054656",
+          "start": 0,
+          "username": "Likjiujiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040467736065884283",
+    "in_reply_to_user_id": "2039793628634054656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040464323558981710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Likjiujiu 是的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2040417308259356719",
+        "created_at": "2026-04-04T16:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T17:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040467736065884283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2039793628634054656",
+              "start": 0,
+              "username": "Likjiujiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040467736065884283",
+        "in_reply_to_user_id": "2039793628634054656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040464323558981710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Likjiujiu 是的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039793628634054656",
+        "conversation_id": "2040417308259356719",
+        "created_at": "2026-04-04T16:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T17:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040464323558981710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040464323558981710",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040417308259356719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 好可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口🪼咕噜咕噜..... 血臭臭的…. 🩵💙匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 53,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 30,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 108,
+          "like_count": 2216,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 385
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T19:55:29.000Z",
+        "description": "九九-负能量很多-休学-o抽都有-中郁重焦\n只想做个透明人 不撕逼\n每天挂壁混日子 o起",
+        "id": "2039793628634054656",
+        "location": "未知",
+        "name": "Lik",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039799685268054016/qaR3e5B0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 8,
+          "like_count": 258,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 34
+        },
+        "username": "Likjiujiu",
+        "verified": false
+      }
+    ]
+  }
+}

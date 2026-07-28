@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2045165690043404629",
+    "created_at": "2026-04-17T20:24:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T21:24:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045237059548545390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1916481144243003392",
+          "start": 0,
+          "username": "drabdulhameed07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045237059548545390",
+    "in_reply_to_user_id": "1916481144243003392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045165690043404629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@drabdulhameed07 好可爱…🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26425,
+        "height": 1280,
+        "media_key": "7_2045165635412377600",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2045165635412377600/pu/img/qVcUUBJJilYM6m2w.jpg",
+        "public_metrics": {
+          "view_count": 36
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045165635412377600/pu/vid/avc1/320x568/QZ7HANlKqkgGmU5v.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045165635412377600/pu/vid/avc1/480x852/WFsHsKKLYqQlSmMV.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045165635412377600/pu/vid/avc1/720x1280/W2_gNM-MwVY1CJTg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2045165635412377600/pu/pl/pMmpnSEpH8j9p-bx.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2045165690043404629",
+        "created_at": "2026-04-17T20:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T21:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045237059548545390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1916481144243003392",
+              "start": 0,
+              "username": "drabdulhameed07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045237059548545390",
+        "in_reply_to_user_id": "1916481144243003392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045165690043404629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drabdulhameed07 好可爱…🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2045165635412377600"
+          ]
+        },
+        "author_id": "1916481144243003392",
+        "conversation_id": "2045165690043404629",
+        "created_at": "2026-04-17T15:41:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T16:41:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045165690043404629"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zImFxUo3pg",
+              "end": 57,
+              "expanded_url": "https://x.com/drabdulhameed07/status/2045165690043404629/video/1",
+              "media_key": "7_2045165635412377600",
+              "start": 34,
+              "url": "https://t.co/zImFxUo3pg"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "00618ced243877f2"
+        },
+        "id": "2045165690043404629",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 193,
+          "impression_count": 104814,
+          "like_count": 616,
+          "quote_count": 14,
+          "reply_count": 17,
+          "retweet_count": 81
+        },
+        "reply_settings": "everyone",
+        "text": "Peristalsis of small intestine😱😱💥 https://t.co/zImFxUo3pg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼主人：@阿普唑仑 🩵💙互fo/大欢迎匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 56,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 33,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 217,
+          "like_count": 2983,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 701
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-27T13:15:10.000Z",
+        "description": "Doctor|Gymrat| Defense enthusiast.\n\nMaking medicine easier for peers \nSimplified Insights.\n\nGMMMC SUKKUR.\n\n🚨 Open for collabs🤝 \n📩 DM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@DrabdulHameed…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@DrabdulHameed-l6y",
+                "start": 0,
+                "url": "https://t.co/r3x3bu5tJS"
+              }
+            ]
+          }
+        },
+        "id": "1916481144243003392",
+        "location": "Sukkur, Pakistan. ",
+        "name": "Dr Abdul Hameed 🩺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961469833364869120/ub4vPAhD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24476,
+          "following_count": 3402,
+          "like_count": 19281,
+          "listed_count": 23,
+          "media_count": 4192,
+          "tweet_count": 24229
+        },
+        "url": "https://t.co/r3x3bu5tJS",
+        "username": "drabdulhameed07",
+        "verified": true
+      }
+    ]
+  }
+}

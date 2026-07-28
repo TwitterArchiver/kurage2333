@@ -1,0 +1,125 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036080261847498752",
+        "3_2036080261839147008"
+      ]
+    },
+    "author_id": "1987604380896600064",
+    "conversation_id": "2036080267782496646",
+    "created_at": "2026-03-23T13:58:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T14:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036080267782496646"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/08M4i1zzZN",
+          "end": 42,
+          "expanded_url": "https://x.com/kurage2333/status/2036080267782496646/photo/1",
+          "media_key": "3_2036080261847498752",
+          "start": 19,
+          "url": "https://t.co/08M4i1zzZN"
+        },
+        {
+          "display_url": "pic.x.com/08M4i1zzZN",
+          "end": 42,
+          "expanded_url": "https://x.com/kurage2333/status/2036080267782496646/photo/1",
+          "media_key": "3_2036080261839147008",
+          "start": 19,
+          "url": "https://t.co/08M4i1zzZN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036080267782496646",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1 我也喜欢你❤️\n2 23年的时候 https://t.co/08M4i1zzZN"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2036080267782496646].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2036080267782496646",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2036080267782496646"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2036080261847498752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEGcNeWawAAKvmu.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2036080261839147008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEGcNeUbUAAojsK.jpg",
+        "width": 1024
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口🪼咕噜咕噜..... 血臭臭的…. 🩵💙匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 53,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 30,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 90,
+          "like_count": 1586,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 272
+        },
+        "username": "kurage2333",
+        "verified": false
+      }
+    ]
+  }
+}

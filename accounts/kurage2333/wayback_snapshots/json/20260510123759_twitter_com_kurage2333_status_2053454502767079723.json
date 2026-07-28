@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2053454502767079723",
+    "created_at": "2026-05-10T12:37:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T13:37:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053454502767079723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2053366838248259584",
+          "start": 3,
+          "username": "Cassie2meqwq"
+        },
+        {
+          "end": 33,
+          "id": "1986420391833907200",
+          "start": 22,
+          "username": "hnjn431596"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053454502767079723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053368507442884824",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cassie2meqwq: 我回来了@hnjn431596 这是我的前世，互并寻回中，请帮我转转"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2053454502767079723",
+        "created_at": "2026-05-10T12:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T13:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053454502767079723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2053366838248259584",
+              "start": 3,
+              "username": "Cassie2meqwq"
+            },
+            {
+              "end": 33,
+              "id": "1986420391833907200",
+              "start": 22,
+              "username": "hnjn431596"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053454502767079723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053368507442884824",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cassie2meqwq: 我回来了@hnjn431596 这是我的前世，互并寻回中，请帮我转转"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053366838248259584",
+        "conversation_id": "2053368507442884824",
+        "created_at": "2026-05-10T06:56:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T07:56:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053368507442884824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1986420391833907200",
+              "start": 4,
+              "username": "hnjn431596"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053368507442884824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我回来了@hnjn431596 这是我的前世，互并寻回中，请帮我转转"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 68,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 45,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 268,
+          "like_count": 3327,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 930
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T06:50:59.000Z",
+        "description": "",
+        "id": "2053366838248259584",
+        "name": "酸性(互关寻回中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053367859225714688/_rd_PqiO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 42,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "Cassie2meqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T13:08:45.000Z",
+        "description": "→这是酸性｜已成年｜BD｜OVERDOSE｜MOVIE｜BISEXUAL｜语言是→中韩英｜\n→男生查成分互fo｜女生都fo｜不可接受小粉红｜\n→这里提问(ｼ´･ω･)ﾉｼhttps://t.co/njkFAuFCEs\n喜欢大家爱我",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cassie2me",
+                "end": 108,
+                "expanded_url": "https://ngl.link/cassie2me",
+                "start": 85,
+                "url": "https://t.co/njkFAuFCEs"
+              }
+            ]
+          }
+        },
+        "id": "1986420391833907200",
+        "location": "雨季",
+        "name": "*꒰ঌ മ ˔ മ ໒꒱*",
+        "pinned_tweet_id": "1992215269390119177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041179252637474817/KVzoqq9M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 136,
+          "like_count": 732,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 823
+        },
+        "username": "hnjn431596",
+        "verified": false
+      }
+    ]
+  }
+}

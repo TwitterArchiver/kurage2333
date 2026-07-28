@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2062027485978718620",
+    "created_at": "2026-06-05T00:24:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T01:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062691981508411507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1980572743230795776",
+          "start": 0,
+          "username": "zake96279450728"
+        },
+        {
+          "end": 33,
+          "id": "1638537020619517952",
+          "start": 17,
+          "username": "edc028094126228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062691981508411507",
+    "in_reply_to_user_id": "1980572743230795776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062600391901274170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zake96279450728 @edc028094126228 哈哈哈哈哈哈哈哈哈哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2062027485978718620",
+        "created_at": "2026-06-05T00:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T01:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062691981508411507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1980572743230795776",
+              "start": 0,
+              "username": "zake96279450728"
+            },
+            {
+              "end": 33,
+              "id": "1638537020619517952",
+              "start": 17,
+              "username": "edc028094126228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062691981508411507",
+        "in_reply_to_user_id": "1980572743230795776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062600391901274170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zake96279450728 @edc028094126228 哈哈哈哈哈哈哈哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980572743230795776",
+        "conversation_id": "2062027485978718620",
+        "created_at": "2026-06-04T18:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T19:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062600391901274170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1638537020619517952",
+              "start": 0,
+              "username": "edc028094126228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062600391901274170",
+        "in_reply_to_user_id": "1638537020619517952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062027485978718620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@edc028094126228 没有奶头之人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 355,
+          "like_count": 3745,
+          "listed_count": 2,
+          "media_count": 108,
+          "tweet_count": 1276
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T09:52:09.000Z",
+        "description": "https://t.co/cd9AzFj9RF🏳️‍⚧️𖦹MTX𖦹pan𖦹不约𖦹可礼貌扩列𖦹发私信前点关注𖦹所有人来和我聊天我好不好🥺𖦹",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%9D%8D%E7%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%9D%8D%E7%B8%AE%E6%98%9F%F0%90%8C%8D%F0%90%8C%8F%F0%90%8C%89%F0%90%8C%94%F0%90%8C%84",
+                "start": 0,
+                "url": "https://t.co/cd9AzFj9RF"
+              }
+            ]
+          }
+        },
+        "id": "1980572743230795776",
+        "location": "-2.1km",
+        "name": "𖦹𝖓𝖔𝖎𝖘𝖊𖦹（互fo）",
+        "pinned_tweet_id": "2055929956010754477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056783244709015552/uYnLusz-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 173,
+          "like_count": 2010,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 300
+        },
+        "username": "zake96279450728",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-22T13:44:12.000Z",
+        "description": "直男   三角洲我cnm",
+        "id": "1638537020619517952",
+        "name": "她说那里不能看",
+        "pinned_tweet_id": "2004775531678765115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982102412472041472/JRI38STW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1027,
+          "following_count": 18,
+          "like_count": 390,
+          "listed_count": 3,
+          "media_count": 90,
+          "tweet_count": 256
+        },
+        "username": "edc028094126228",
+        "verified": false
+      }
+    ]
+  }
+}

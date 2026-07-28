@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2056276386466410496"
+      ]
+    },
+    "author_id": "1987604380896600064",
+    "conversation_id": "2056276502451568857",
+    "created_at": "2026-05-18T07:31:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T08:31:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056276502451568857"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nrK4BSYLKP",
+          "end": 28,
+          "expanded_url": "https://x.com/kurage2333/status/2056276502451568857/video/1",
+          "media_key": "13_2056276386466410496",
+          "start": 5,
+          "url": "https://t.co/nrK4BSYLKP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056276502451568857",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "撸管！🤤 https://t.co/nrK4BSYLKP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12715,
+        "height": 1240,
+        "media_key": "13_2056276386466410496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056276386466410496/img/CMxYdhQu9uqmy7Oq.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056276386466410496/vid/avc1/320x550/kLeEeae5nEUKdMXM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056276386466410496/vid/avc1/480x826/Zkc0PK6dykNxF1ee.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056276386466410496/vid/avc1/720x1240/MuF1U8eGFeFpEc8e.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056276386466410496/pl/OiDbqdrVA9v9NqX8.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056276386466410496"
+          ]
+        },
+        "author_id": "1987604380896600064",
+        "conversation_id": "2056276502451568857",
+        "created_at": "2026-05-18T07:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T08:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056276502451568857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nrK4BSYLKP",
+              "end": 28,
+              "expanded_url": "https://x.com/kurage2333/status/2056276502451568857/video/1",
+              "media_key": "13_2056276386466410496",
+              "start": 5,
+              "url": "https://t.co/nrK4BSYLKP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056276502451568857",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "撸管！🤤 https://t.co/nrK4BSYLKP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 339,
+          "like_count": 3555,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 1104
+        },
+        "username": "kurage2333",
+        "verified": false
+      }
+    ]
+  }
+}

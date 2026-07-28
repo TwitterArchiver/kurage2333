@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2052136281350787427",
+    "created_at": "2026-05-07T05:10:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T06:10:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052254832644550776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2052063559354613764",
+          "start": 0,
+          "username": "karu3972"
+        },
+        {
+          "end": 17,
+          "id": "1959893383633358848",
+          "start": 10,
+          "username": "Cbscfe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052254832644550776",
+    "in_reply_to_user_id": "2052063559354613764",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052241331255451915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karu3972 @Cbscfe 就是说啊。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2052136281350787427",
+        "created_at": "2026-05-07T05:10:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T06:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052254832644550776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2052063559354613764",
+              "start": 0,
+              "username": "karu3972"
+            },
+            {
+              "end": 17,
+              "id": "1959893383633358848",
+              "start": 10,
+              "username": "Cbscfe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052254832644550776",
+        "in_reply_to_user_id": "2052063559354613764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052241331255451915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karu3972 @Cbscfe 就是说啊。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052063559354613764",
+        "conversation_id": "2052136281350787427",
+        "created_at": "2026-05-07T04:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T05:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052241331255451915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            },
+            {
+              "end": 19,
+              "id": "1959893383633358848",
+              "start": 12,
+              "username": "Cbscfe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052241331255451915",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052235314559885745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 @Cbscfe 在浴室除了拉屎尿尿洗澡還能幹嘛⋯⋯憂鬱症/精神疾病患者又不代表可以用自殘之類的代替拉屎 有時候真的不知道有精神疾病的是誰⋯⋯( ･᷄ὢ･᷅ )"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼主人：@阿普唑仑 🩵💙互fo/大欢迎！💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 60,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 37,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 251,
+          "like_count": 3257,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 892
+        },
+        "url": "",
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T16:32:26.000Z",
+        "description": "會發血圖|日常碎碎念|喜歡畫畫|女同😔👍\n主帳@miyazaki_karu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "miyazaki_karu"
+              }
+            ]
+          }
+        },
+        "id": "2052063559354613764",
+        "name": "かる猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052064166140379136/sQGrrUkw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 14,
+          "like_count": 325,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "karu3972",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n\nCbscfe 不是 Cb\nCb 属于 Cbscfe\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n好了伤疤忘了疼\n---\n励志变成精神病\n(outdated sync)\n\n湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "location": "minecraft:the_end",
+        "name": "Cbscfe🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 488,
+          "like_count": 21841,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 4730
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2054075927123087494",
+    "created_at": "2026-05-12T23:37:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T00:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054345125485248578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2043952988557803520",
+          "start": 0,
+          "username": "tngxngxng13171"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054345125485248578",
+    "in_reply_to_user_id": "2043952988557803520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054306211001258010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tngxngxng13171 好次🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2054075927123087494",
+        "created_at": "2026-05-12T23:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T00:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054345125485248578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2043952988557803520",
+              "start": 0,
+              "username": "tngxngxng13171"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054345125485248578",
+        "in_reply_to_user_id": "2043952988557803520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054306211001258010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tngxngxng13171 好次🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043952988557803520",
+        "conversation_id": "2054075927123087494",
+        "created_at": "2026-05-12T21:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T22:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054306211001258010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054306211001258010",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054075927123087494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 😋😋感谢食用"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 68,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 45,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 293,
+          "like_count": 3396,
+          "listed_count": 1,
+          "media_count": 89,
+          "tweet_count": 972
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T07:22:50.000Z",
+        "description": "互联网的堕天使/白骑士综合征/地雷/餐券/病弱/抖M/恋痛/生理双性/无性别主义者/永远怀念 @AAAAAMTxT /互fo寻回中... \n\n主坑prsk/主推宵崎奏、晓山瑞希、望月穗波、日野森志步/团推Leoneed&25时/会出一些相关的cos\n\n副坑神椿/喜欢可不的歌声",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "AAAAAMTxT"
+              }
+            ]
+          }
+        },
+        "id": "2043952988557803520",
+        "location": "Hong Kong",
+        "name": "可不敢乱说",
+        "pinned_tweet_id": "2049221796327838000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048446214245691392/lQgtgY8z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 179,
+          "like_count": 2893,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 381
+        },
+        "username": "tngxngxng13171",
+        "verified": false
+      }
+    ]
+  }
+}

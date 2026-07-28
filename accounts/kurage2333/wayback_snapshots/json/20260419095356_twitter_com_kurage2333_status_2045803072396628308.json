@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045803048094879744",
+        "3_2045803048086450176"
+      ]
+    },
+    "author_id": "1987604380896600064",
+    "conversation_id": "2045803072396628308",
+    "created_at": "2026-04-19T09:53:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T10:53:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045803072396628308"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6ysjbe8zfJ",
+          "end": 31,
+          "expanded_url": "https://x.com/kurage2333/status/2045803072396628308/photo/1",
+          "media_key": "3_2045803048094879744",
+          "start": 8,
+          "url": "https://t.co/6ysjbe8zfJ"
+        },
+        {
+          "display_url": "pic.x.com/6ysjbe8zfJ",
+          "end": 31,
+          "expanded_url": "https://x.com/kurage2333/status/2045803072396628308/photo/1",
+          "media_key": "3_2045803048086450176",
+          "start": 8,
+          "url": "https://t.co/6ysjbe8zfJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045803072396628308",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新指甲和髮型喵 https://t.co/6ysjbe8zfJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045803048094879744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQnCHobUAAUuTI.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045803048086450176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGQnCHmasAAh_dp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045803048094879744",
+            "3_2045803048086450176"
+          ]
+        },
+        "author_id": "1987604380896600064",
+        "conversation_id": "2045803072396628308",
+        "created_at": "2026-04-19T09:53:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T10:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045803072396628308"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6ysjbe8zfJ",
+              "end": 31,
+              "expanded_url": "https://x.com/kurage2333/status/2045803072396628308/photo/1",
+              "media_key": "3_2045803048094879744",
+              "start": 8,
+              "url": "https://t.co/6ysjbe8zfJ"
+            },
+            {
+              "display_url": "pic.x.com/6ysjbe8zfJ",
+              "end": 31,
+              "expanded_url": "https://x.com/kurage2333/status/2045803072396628308/photo/1",
+              "media_key": "3_2045803048086450176",
+              "start": 8,
+              "url": "https://t.co/6ysjbe8zfJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045803072396628308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新指甲和髮型喵 https://t.co/6ysjbe8zfJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼主人：@阿普唑仑 🩵💙互fo/大欢迎！💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 60,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 37,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 224,
+          "like_count": 3033,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 727
+        },
+        "username": "kurage2333",
+        "verified": false
+      }
+    ]
+  }
+}

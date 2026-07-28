@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049242110680035328"
+      ]
+    },
+    "author_id": "1987604380896600064",
+    "conversation_id": "2049242121492988233",
+    "created_at": "2026-04-28T21:39:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T22:39:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049242121492988233"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/d8Pm816V0I",
+          "end": 37,
+          "expanded_url": "https://x.com/kurage2333/status/2049242121492988233/photo/1",
+          "media_key": "3_2049242110680035328",
+          "start": 14,
+          "url": "https://t.co/d8Pm816V0I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049242121492988233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "水母家长最近懂事了很多！🤤 https://t.co/d8Pm816V0I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1674,
+        "media_key": "3_2049242110680035328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHBe16Ha8AAfA--.jpg",
+        "width": 1282
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049242110680035328"
+          ]
+        },
+        "author_id": "1987604380896600064",
+        "conversation_id": "2049242121492988233",
+        "created_at": "2026-04-28T21:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T22:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049242121492988233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d8Pm816V0I",
+              "end": 37,
+              "expanded_url": "https://x.com/kurage2333/status/2049242121492988233/photo/1",
+              "media_key": "3_2049242110680035328",
+              "start": 14,
+              "url": "https://t.co/d8Pm816V0I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049242121492988233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "水母家长最近懂事了很多！🤤 https://t.co/d8Pm816V0I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼主人：@阿普唑仑 🩵💙互fo/大欢迎！💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 60,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 37,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 231,
+          "like_count": 3154,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 798
+        },
+        "username": "kurage2333",
+        "verified": false
+      }
+    ]
+  }
+}

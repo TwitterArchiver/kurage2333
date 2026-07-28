@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2043544333857542315",
+    "created_at": "2026-04-13T05:24:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T06:24:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043560927149379669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1887069376031182848",
+          "start": 0,
+          "username": "Mirro_zinuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043560927149379669",
+    "in_reply_to_user_id": "1887069376031182848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043544333857542315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mirro_zinuo 生日快乐呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043544323313037312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFwgvCHW8AAbp4n.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043544323321384960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFwgvCJWUAATX-b.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2043544323321397248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFwgvCJWgAA-NC_.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043544323317219328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFwgvCIWwAAyoLF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2043544333857542315",
+        "created_at": "2026-04-13T05:24:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T06:24:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043560927149379669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1887069376031182848",
+              "start": 0,
+              "username": "Mirro_zinuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043560927149379669",
+        "in_reply_to_user_id": "1887069376031182848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043544333857542315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mirro_zinuo 生日快乐呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043544323313037312",
+            "3_2043544323321384960",
+            "3_2043544323321397248",
+            "3_2043544323317219328"
+          ]
+        },
+        "author_id": "1887069376031182848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2043544333857542315",
+        "created_at": "2026-04-13T04:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T05:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043544333857542315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FRNWqsgX5w",
+              "end": 33,
+              "expanded_url": "https://x.com/Mirro_zinuo/status/2043544333857542315/photo/1",
+              "media_key": "3_2043544323313037312",
+              "start": 10,
+              "url": "https://t.co/FRNWqsgX5w"
+            },
+            {
+              "display_url": "pic.x.com/FRNWqsgX5w",
+              "end": 33,
+              "expanded_url": "https://x.com/Mirro_zinuo/status/2043544333857542315/photo/1",
+              "media_key": "3_2043544323321384960",
+              "start": 10,
+              "url": "https://t.co/FRNWqsgX5w"
+            },
+            {
+              "display_url": "pic.x.com/FRNWqsgX5w",
+              "end": 33,
+              "expanded_url": "https://x.com/Mirro_zinuo/status/2043544333857542315/photo/1",
+              "media_key": "3_2043544323321397248",
+              "start": 10,
+              "url": "https://t.co/FRNWqsgX5w"
+            },
+            {
+              "display_url": "pic.x.com/FRNWqsgX5w",
+              "end": 33,
+              "expanded_url": "https://x.com/Mirro_zinuo/status/2043544333857542315/photo/1",
+              "media_key": "3_2043544323317219328",
+              "start": 10,
+              "url": "https://t.co/FRNWqsgX5w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043544333857542315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 658,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "祝自己生日快樂吧🎂 https://t.co/FRNWqsgX5w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口🪼主人：@阿普唑仑 🩵💙匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 45,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 22,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 187,
+          "like_count": 2755,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 595
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T09:23:14.000Z",
+        "description": "牢糯復活一年了🎉 /愛種哈密瓜🍈❓🇹🇼/永遠懷念舊號@fugu_JUN/脆和推同id/是以前叫源菌的生物/05年老阿姨離異帶倆娃❌/MtF🏳️‍⚧️/hrt 2019/退役oier/退役地偶/占卜神秘學🔮/日常發瘋/想要被世界喜歡/對異性戀我是不贊成也不反對的/焦慮型依戀/❤️@xiaofang23333",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 26,
+                "username": "fugu_JUN"
+              },
+              {
+                "end": 153,
+                "start": 139,
+                "username": "xiaofang23333"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "substack.com/@zinuo?r=5e6x2…",
+                "end": 23,
+                "expanded_url": "https://substack.com/@zinuo?r=5e6x26&utm_medium=ios&utm_source=profile",
+                "start": 0,
+                "url": "https://t.co/4qmIGbYeNa"
+              }
+            ]
+          }
+        },
+        "id": "1887069376031182848",
+        "location": "@TheSparkRainbow",
+        "name": "梓糯🏳️‍⚧️🇹🇼🇨🇦",
+        "pinned_tweet_id": "1961844598973567241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887069534986924032/_g2-66nA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1289,
+          "following_count": 214,
+          "like_count": 4298,
+          "listed_count": 10,
+          "media_count": 260,
+          "tweet_count": 1471
+        },
+        "url": "https://t.co/4qmIGbYeNa",
+        "username": "Mirro_zinuo",
+        "verified": true
+      }
+    ]
+  }
+}

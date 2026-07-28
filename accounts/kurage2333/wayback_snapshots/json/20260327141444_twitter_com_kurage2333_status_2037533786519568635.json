@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037533783839424513"
+      ]
+    },
+    "author_id": "1987604380896600064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2037533786519568635",
+    "created_at": "2026-03-27T14:14:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T15:14:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037533786519568635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 25,
+          "id": "1834481927505522688",
+          "start": 16,
+          "username": "7_nodesu"
+        }
+      ],
+      "urls": [
+        {
+          "description": "We don't disclose this feature's algorithm. We can only hope that, whether in a good or bad way, your Secret Crush will impress you.",
+          "display_url": "infinitetweet.me/secret-crush?l…",
+          "end": 53,
+          "expanded_url": "https://infinitetweet.me/secret-crush?lang=zh",
+          "start": 30,
+          "status": 200,
+          "title": "Secret Crush • Infinitweet",
+          "unwound_url": "https://infinitetweet.me/secret-crush?lang=zh",
+          "url": "https://t.co/FsPdbuwVdV"
+        },
+        {
+          "display_url": "pic.x.com/zt2mITjiIa",
+          "end": 77,
+          "expanded_url": "https://x.com/kurage2333/status/2037533786519568635/photo/1",
+          "media_key": "3_2037533783839424513",
+          "start": 54,
+          "url": "https://t.co/zt2mITjiIa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037533786519568635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在Twitter上的暗恋是  @7_nodesu\n\n➡️ https://t.co/FsPdbuwVdV https://t.co/zt2mITjiIa"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2037533786519568635].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2037533786519568635",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2037533786519568635"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 861,
+        "media_key": "3_2037533783839424513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEbGLlubQAEtjXK.png",
+        "width": 640
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口🪼咕噜咕噜..... 血臭臭的…. 🩵💙匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 53,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 30,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 97,
+          "like_count": 1984,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 326
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-13T06:39:33.000Z",
+        "description": "awwwww",
+        "id": "1834481927505522688",
+        "location": "England, United Kingdom",
+        "name": "awww",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952301329075904512/LglQJgXi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 445,
+          "like_count": 2545,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 2151
+        },
+        "username": "7_nodesu",
+        "verified": false
+      }
+    ]
+  }
+}

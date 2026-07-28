@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040502401317380096"
+      ]
+    },
+    "author_id": "1987604380896600064",
+    "conversation_id": "2040502409626300843",
+    "created_at": "2026-04-04T18:50:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T19:50:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040502409626300843"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cV8vV0kxgQ",
+          "end": 38,
+          "expanded_url": "https://x.com/kurage2333/status/2040502409626300843/photo/1",
+          "media_key": "3_2040502401317380096",
+          "start": 15,
+          "url": "https://t.co/cV8vV0kxgQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040502409626300843",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每天就这样杜绝所有人的消息。 https://t.co/cV8vV0kxgQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040502401317380096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFFSH3naoAAQn1M.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040502401317380096"
+          ]
+        },
+        "author_id": "1987604380896600064",
+        "conversation_id": "2040502409626300843",
+        "created_at": "2026-04-04T18:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T19:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040502409626300843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cV8vV0kxgQ",
+              "end": 38,
+              "expanded_url": "https://x.com/kurage2333/status/2040502409626300843/photo/1",
+              "media_key": "3_2040502401317380096",
+              "start": 15,
+              "url": "https://t.co/cV8vV0kxgQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040502409626300843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天就这样杜绝所有人的消息。 https://t.co/cV8vV0kxgQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口🪼咕噜咕噜..... 血臭臭的…. 🩵💙匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 53,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 30,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 108,
+          "like_count": 2267,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 392
+        },
+        "username": "kurage2333",
+        "verified": false
+      }
+    ]
+  }
+}

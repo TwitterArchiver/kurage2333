@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2057847079129755757",
+    "created_at": "2026-05-22T18:02:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T19:02:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057884916243984480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2057363646423117824",
+          "start": 0,
+          "username": "12sygdsbi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057884916243984480",
+    "in_reply_to_user_id": "2057363646423117824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057847079129755757",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@12sygdsbi 这个真能干！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057847070250467329",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7xAehbgAEF2Yu.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2057847079129755757",
+        "created_at": "2026-05-22T18:02:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T19:02:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057884916243984480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2057363646423117824",
+              "start": 0,
+              "username": "12sygdsbi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057884916243984480",
+        "in_reply_to_user_id": "2057363646423117824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057847079129755757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@12sygdsbi 这个真能干！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057847070250467329"
+          ]
+        },
+        "author_id": "2057363646423117824",
+        "conversation_id": "2057847079129755757",
+        "created_at": "2026-05-22T15:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T16:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057847079129755757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4k5QLoEveC",
+              "end": 33,
+              "expanded_url": "https://x.com/12sygdsbi/status/2057847079129755757/photo/1",
+              "media_key": "3_2057847070250467329",
+              "start": 10,
+              "url": "https://t.co/4k5QLoEveC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057847079129755757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@所有人起床打飞机 https://t.co/4k5QLoEveC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 341,
+          "like_count": 3565,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 1160
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T07:32:40.000Z",
+        "description": "mtm/mua/mao/神秘烟男/我脑子有病，健全人最好还是别看我的空间了",
+        "id": "2057363646423117824",
+        "name": "12",
+        "pinned_tweet_id": "2057366686211428663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057374664301907968/Tggw9B0r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 100,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 121
+        },
+        "username": "12sygdsbi",
+        "verified": false
+      }
+    ]
+  }
+}

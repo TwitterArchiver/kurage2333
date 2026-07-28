@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036781547957936128",
+        "3_2036781547970564096",
+        "3_2036781547962134528"
+      ]
+    },
+    "author_id": "1987604380896600064",
+    "conversation_id": "2036781940070818038",
+    "created_at": "2026-03-25T12:27:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T13:27:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036781940070818038"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1vwGSz6Tlr",
+          "end": 34,
+          "expanded_url": "https://x.com/kurage2333/status/2036781940070818038/photo/1",
+          "media_key": "3_2036781547957936128",
+          "start": 11,
+          "url": "https://t.co/1vwGSz6Tlr"
+        },
+        {
+          "display_url": "pic.x.com/1vwGSz6Tlr",
+          "end": 34,
+          "expanded_url": "https://x.com/kurage2333/status/2036781940070818038/photo/1",
+          "media_key": "3_2036781547970564096",
+          "start": 11,
+          "url": "https://t.co/1vwGSz6Tlr"
+        },
+        {
+          "display_url": "pic.x.com/1vwGSz6Tlr",
+          "end": 34,
+          "expanded_url": "https://x.com/kurage2333/status/2036781940070818038/photo/1",
+          "media_key": "3_2036781547962134528",
+          "start": 11,
+          "url": "https://t.co/1vwGSz6Tlr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036781940070818038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "面对关心我时常无措。 https://t.co/1vwGSz6Tlr"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2036781940070818038].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2036781940070818038",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2036781940070818038"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1924,
+        "media_key": "3_2036781547957936128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEQaBssaYAA2UNm.jpg",
+        "width": 941
+      },
+      {
+        "height": 1511,
+        "media_key": "3_2036781547970564096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEQaBsvbEAA5lZn.jpg",
+        "width": 1045
+      },
+      {
+        "height": 279,
+        "media_key": "3_2036781547962134528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEQaBstacAAuumg.jpg",
+        "width": 776
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口🪼咕噜咕噜..... 血臭臭的…. 🩵💙匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 53,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 30,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 92,
+          "like_count": 1793,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 296
+        },
+        "username": "kurage2333",
+        "verified": false
+      }
+    ]
+  }
+}

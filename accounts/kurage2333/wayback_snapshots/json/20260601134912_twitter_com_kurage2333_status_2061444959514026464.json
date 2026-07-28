@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2061376222001803615",
+    "created_at": "2026-06-01T13:49:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T14:49:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061444959514026464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1829867271592026112",
+          "start": 0,
+          "username": "Shivam3228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061444959514026464",
+    "in_reply_to_user_id": "1829867271592026112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061376222001803615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shivam3228 对生死看淡了😩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2061376222001803615",
+        "created_at": "2026-06-01T13:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T14:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061444959514026464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1829867271592026112",
+              "start": 0,
+              "username": "Shivam3228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061444959514026464",
+        "in_reply_to_user_id": "1829867271592026112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061376222001803615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shivam3228 对生死看淡了😩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829867271592026112",
+        "conversation_id": "2061376222001803615",
+        "created_at": "2026-06-01T09:16:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T10:16:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061376222001803615"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061376222001803615",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1265,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "紫砂潮半年了有什么想法吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 341,
+          "like_count": 3601,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 1191
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "在线时间15:00～5:00\n大号@Yijin_0v0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Yijin_0v0"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2060380775804268560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 340,
+          "like_count": 803,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 468
+        },
+        "username": "Shivam3228",
+        "verified": false
+      }
+    ]
+  }
+}

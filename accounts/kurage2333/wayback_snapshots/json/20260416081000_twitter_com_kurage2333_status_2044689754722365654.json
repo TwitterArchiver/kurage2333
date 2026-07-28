@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2044519949537055118",
+    "created_at": "2026-04-16T08:10:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T09:10:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044689754722365654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1834481927505522688",
+          "start": 0,
+          "username": "7_nodesu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044689754722365654",
+    "in_reply_to_user_id": "1834481927505522688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044653631354331438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7_nodesu ファイト！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2044519949537055118",
+        "created_at": "2026-04-16T08:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T09:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044689754722365654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1834481927505522688",
+              "start": 0,
+              "username": "7_nodesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044689754722365654",
+        "in_reply_to_user_id": "1834481927505522688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044653631354331438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7_nodesu ファイト！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834481927505522688",
+        "conversation_id": "2044519949537055118",
+        "created_at": "2026-04-16T05:46:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T06:46:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044653631354331438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044653631354331438",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044519949537055118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 加油喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼主人：@阿普唑仑 🩵💙互fo/大欢迎匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 56,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 33,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 206,
+          "like_count": 2880,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 654
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-13T06:39:33.000Z",
+        "description": "キメラだよー",
+        "id": "1834481927505522688",
+        "location": "England, United Kingdom",
+        "name": "Shino",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952301329075904512/LglQJgXi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 500,
+          "like_count": 3446,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 2487
+        },
+        "username": "7_nodesu",
+        "verified": false
+      }
+    ]
+  }
+}

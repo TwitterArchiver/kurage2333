@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2054582770371080672",
+    "created_at": "2026-05-14T07:47:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T08:47:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054830909745156455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1691273370858401792",
+          "start": 0,
+          "username": "ge_qiang1582"
+        },
+        {
+          "end": 22,
+          "id": "2039759562815733760",
+          "start": 14,
+          "username": "12sgcsb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054830909745156455",
+    "in_reply_to_user_id": "1691273370858401792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054827965704520033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ge_qiang1582 @12sgcsb 我去！🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2054582770371080672",
+        "created_at": "2026-05-14T07:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T08:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054830909745156455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1691273370858401792",
+              "start": 0,
+              "username": "ge_qiang1582"
+            },
+            {
+              "end": 22,
+              "id": "2039759562815733760",
+              "start": 14,
+              "username": "12sgcsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054830909745156455",
+        "in_reply_to_user_id": "1691273370858401792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054827965704520033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ge_qiang1582 @12sgcsb 我去！🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691273370858401792",
+        "conversation_id": "2054582770371080672",
+        "created_at": "2026-05-14T07:35:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T08:35:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054827965704520033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            },
+            {
+              "end": 20,
+              "id": "2039759562815733760",
+              "start": 12,
+              "username": "12sgcsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054827965704520033",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054824195000045865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 @12sgcsb 我真的有喝魔爪喝困过，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 300,
+          "like_count": 3521,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1061
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T02:19:40.000Z",
+        "description": "我猜有个小可爱正在看鸽鸽的简介♡=•ㅅ＜=)欢迎光临鸽鸽的日记（其实还是更喜欢你们叫我小强），应用心理学在读，没有脑子，想到什么说什么(｡•﹃•｡)私信找我互fo喵，爱你们～❤️ 美好人格@gg45174157",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 94,
+                "username": "gg45174157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@xiaoqiangxyq?…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@xiaoqiangxyq?_r=1&_t=ZT-9658g93CtGY",
+                "start": 0,
+                "url": "https://t.co/ga6Tqj6vlk"
+              }
+            ]
+          }
+        },
+        "id": "1691273370858401792",
+        "location": "啊",
+        "name": "鸽鸽（小强邪恶版）",
+        "pinned_tweet_id": "2028130382369976413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028379780253646848/YFtLQRiW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 254,
+          "like_count": 692,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 637
+        },
+        "url": "https://t.co/ga6Tqj6vlk",
+        "username": "ge_qiang1582",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T17:39:35.000Z",
+        "description": "12/烟袋/可咨询/不推销了，老实了",
+        "id": "2039759562815733760",
+        "location": "Kowloon City District",
+        "name": "12（已老实）",
+        "pinned_tweet_id": "2054094373688868965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054091024755269634/yyjNfYaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 143,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 139
+        },
+        "username": "12sgcsb",
+        "verified": false
+      }
+    ]
+  }
+}

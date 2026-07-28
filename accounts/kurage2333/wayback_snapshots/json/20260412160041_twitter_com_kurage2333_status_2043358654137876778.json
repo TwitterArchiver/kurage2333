@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2043358581219852288"
+      ]
+    },
+    "author_id": "1987604380896600064",
+    "conversation_id": "2043358654137876778",
+    "created_at": "2026-04-12T16:00:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T17:00:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043358654137876778"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tH9h6Fy4vq",
+          "end": 50,
+          "expanded_url": "https://x.com/kurage2333/status/2043358654137876778/video/1",
+          "media_key": "13_2043358581219852288",
+          "start": 27,
+          "url": "https://t.co/tH9h6Fy4vq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043358654137876778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "100fo福利喵 \n唱的嘴皮子要飞了。这歌咋这么快。 https://t.co/tH9h6Fy4vq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15366,
+        "height": 1018,
+        "media_key": "13_2043358581219852288",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2043358581219852288/img/0Qvgou7RmIKSpLIf.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043358581219852288/vid/avc1/320x452/sgWe4xqXqlMHUMxC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043358581219852288/vid/avc1/480x678/i2Ulz3L0-9SZzBdr.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043358581219852288/vid/avc1/720x1018/CB1bAsLprCcqq6jW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2043358581219852288/pl/wGQdjzcFVeoL4Hrn.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2043358581219852288"
+          ]
+        },
+        "author_id": "1987604380896600064",
+        "conversation_id": "2043358654137876778",
+        "created_at": "2026-04-12T16:00:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T17:00:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043358654137876778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tH9h6Fy4vq",
+              "end": 50,
+              "expanded_url": "https://x.com/kurage2333/status/2043358654137876778/video/1",
+              "media_key": "13_2043358581219852288",
+              "start": 27,
+              "url": "https://t.co/tH9h6Fy4vq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043358654137876778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "100fo福利喵 \n唱的嘴皮子要飞了。这歌咋这么快。 https://t.co/tH9h6Fy4vq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口🪼主人：@阿普唑仑 🩵💙匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 45,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 22,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 181,
+          "like_count": 2693,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 562
+        },
+        "username": "kurage2333",
+        "verified": false
+      }
+    ]
+  }
+}

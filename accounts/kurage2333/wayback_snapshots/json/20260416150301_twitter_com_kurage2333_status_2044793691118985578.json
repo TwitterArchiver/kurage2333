@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2034337533652599256",
+    "created_at": "2026-04-16T15:03:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T16:03:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044793691118985578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1794045313142968331",
+          "start": 0,
+          "username": "shi_li0414"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044793691118985578",
+    "in_reply_to_user_id": "1794045313142968331",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044792964392886705",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shi_li0414 好呀好呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2034337533652599256",
+        "created_at": "2026-04-16T15:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T16:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044793691118985578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1794045313142968331",
+              "start": 0,
+              "username": "shi_li0414"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044793691118985578",
+        "in_reply_to_user_id": "1794045313142968331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044792964392886705",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shi_li0414 好呀好呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794045313142968331",
+        "conversation_id": "2034337533652599256",
+        "created_at": "2026-04-16T15:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T16:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044792964392886705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044792964392886705",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034337533652599256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 请求😽😽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼主人：@阿普唑仑 🩵💙互fo/大欢迎匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 56,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 33,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 207,
+          "like_count": 2897,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 667
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-24T16:38:40.000Z",
+        "description": "=小井 ♀ 双相退学逼 很没文化很笨\n自伤/od/吐黑泥 会到处乱跑关注人 直fo会回 我想交朋友🙂‍↕️",
+        "id": "1794045313142968331",
+        "location": "蛋仔岛",
+        "name": "有空再闹呗？",
+        "pinned_tweet_id": "2042628311344730615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037559764004298752/ykMRIyu0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 89,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 98
+        },
+        "username": "shi_li0414",
+        "verified": false
+      }
+    ]
+  }
+}

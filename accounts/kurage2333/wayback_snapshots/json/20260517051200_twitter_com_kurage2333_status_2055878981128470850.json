@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2055846325745516892",
+    "created_at": "2026-05-17T05:12:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T06:12:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055878981128470850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2039759562815733760",
+          "start": 0,
+          "username": "12sgcsb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055878981128470850",
+    "in_reply_to_user_id": "2039759562815733760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055846325745516892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@12sgcsb 驱魔仪式吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1560,
+        "media_key": "3_2055846322683760641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfVVpBb0AErDXX.jpg",
+        "width": 2080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2055846325745516892",
+        "created_at": "2026-05-17T05:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T06:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055878981128470850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2039759562815733760",
+              "start": 0,
+              "username": "12sgcsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055878981128470850",
+        "in_reply_to_user_id": "2039759562815733760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055846325745516892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@12sgcsb 驱魔仪式吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055846322683760641"
+          ]
+        },
+        "author_id": "2039759562815733760",
+        "conversation_id": "2055846325745516892",
+        "created_at": "2026-05-17T03:02:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T04:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055846325745516892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RoE0aBLHp3",
+              "end": 37,
+              "expanded_url": "https://x.com/12sgcsb/status/2055846325745516892/photo/1",
+              "media_key": "3_2055846322683760641",
+              "start": 14,
+              "url": "https://t.co/RoE0aBLHp3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055846325745516892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "调整了下摆位，应该合理多了 https://t.co/RoE0aBLHp3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 340,
+          "like_count": 3551,
+          "listed_count": 2,
+          "media_count": 94,
+          "tweet_count": 1100
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T17:39:35.000Z",
+        "description": "12/烟袋/可咨询/自戕与死亡",
+        "id": "2039759562815733760",
+        "location": "Kowloon City District",
+        "name": "12",
+        "pinned_tweet_id": "2055649635231035582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054091024755269634/yyjNfYaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 173,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 266
+        },
+        "username": "12sgcsb",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2056276502451568857",
+    "created_at": "2026-05-18T16:04:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T17:04:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056405559784681834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2023432790319177729",
+          "start": 0,
+          "username": "Sleeping_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056405559784681834",
+    "in_reply_to_user_id": "2023432790319177729",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056403474309697878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sleeping_qwq 🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2056276502451568857",
+        "created_at": "2026-05-18T16:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T17:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056405559784681834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2023432790319177729",
+              "start": 0,
+              "username": "Sleeping_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056405559784681834",
+        "in_reply_to_user_id": "2023432790319177729",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056403474309697878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sleeping_qwq 🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023432790319177729",
+        "conversation_id": "2056276502451568857",
+        "created_at": "2026-05-18T15:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056403474309697878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056403474309697878",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056276502451568857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 主播你好涩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 340,
+          "like_count": 3568,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 1119
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-16T16:22:35.000Z",
+        "description": "平平无奇在读高中牲 | 立志刷新在每一个奇怪的角落（bushi | Arcaea 和 舞萌 DX 萌新 | 求互 fo",
+        "id": "2023432790319177729",
+        "name": "qwq 互fo大欢迎喵",
+        "pinned_tweet_id": "2039018597088178556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023436484406337536/Jw3l8ikX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 205,
+          "like_count": 4460,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1557
+        },
+        "username": "Sleeping_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

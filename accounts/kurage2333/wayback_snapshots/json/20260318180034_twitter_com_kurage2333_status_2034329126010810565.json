@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2034303267329778145",
+    "created_at": "2026-03-18T18:00:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T19:00:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034329126010810565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1956544219751063552",
+          "start": 0,
+          "username": "wu_si42846"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034329126010810565",
+    "in_reply_to_user_id": "1956544219751063552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034303267329778145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wu_si42846 谁有那个什么割手教程啊？感觉好酷！我想学！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2034303267329778145",
+        "created_at": "2026-03-18T18:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T19:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034329126010810565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1956544219751063552",
+              "start": 0,
+              "username": "wu_si42846"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034329126010810565",
+        "in_reply_to_user_id": "1956544219751063552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034303267329778145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wu_si42846 谁有那个什么割手教程啊？感觉好酷！我想学！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1956544219751063552",
+        "conversation_id": "2034303267329778145",
+        "created_at": "2026-03-18T16:17:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T17:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034303267329778145"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034303267329778145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 209,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁有那个什么割手教程啊？感觉好酷！我想学！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼09/自傷/od/日常🪼互fo查成分咕噜咕噜..... 血臭臭的…. 🩵💙匿名信 https://t.co/RbZP1l5HyJ💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chabao",
+                "end": 65,
+                "expanded_url": "https://ngl.link/chabao",
+                "start": 42,
+                "url": "https://t.co/RbZP1l5HyJ"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 51,
+          "like_count": 949,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 182
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T02:31:25.000Z",
+        "description": "医院里跑出来的😍🤪🔪- ✰*🎀 ੈ✩🍥✰*💗 ੈ✩- 生活在互联网里！看成分互fo捏喵!!!!/我是低龄糖逼大傻福，实在抱歉！/超级严重失眠 -12现役初中生^✟❀信徒@Fislonely_❀灵宠@dbdbsjbsja❀小号@rinii165892\n❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Fislonely_"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "dbdbsjbsja"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "rinii165892"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iRin19196",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iRin19196",
+                "start": 0,
+                "url": "https://t.co/uWp3iQGWKL"
+              }
+            ]
+          }
+        },
+        "id": "1956544219751063552",
+        "location": "你看看你身后",
+        "name": "伊々 りん（完全病娇邪恶中2）",
+        "pinned_tweet_id": "2031370336944726139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024476491988578304/ndqIjzWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 868,
+          "like_count": 34115,
+          "listed_count": 1,
+          "media_count": 593,
+          "tweet_count": 13038
+        },
+        "url": "https://t.co/uWp3iQGWKL",
+        "username": "wu_si42846",
+        "verified": false
+      }
+    ]
+  }
+}

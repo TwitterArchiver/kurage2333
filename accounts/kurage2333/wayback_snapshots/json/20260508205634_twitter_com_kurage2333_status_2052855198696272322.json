@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2052514704631980157",
+    "created_at": "2026-05-08T20:56:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T21:56:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052855198696272322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1792099117017309184",
+          "start": 0,
+          "username": "baimu199443"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052855198696272322",
+    "in_reply_to_user_id": "1792099117017309184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052841913443840392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baimu199443 你不是有吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2052514704631980157",
+        "created_at": "2026-05-08T20:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T21:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052855198696272322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1792099117017309184",
+              "start": 0,
+              "username": "baimu199443"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052855198696272322",
+        "in_reply_to_user_id": "1792099117017309184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052841913443840392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baimu199443 你不是有吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792099117017309184",
+        "conversation_id": "2052514704631980157",
+        "created_at": "2026-05-08T20:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T21:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052841913443840392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052841913443840392",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052514704631980157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 我也想要😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 68,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 45,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 259,
+          "like_count": 3289,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 910
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-19T07:45:08.000Z",
+        "description": "",
+        "id": "1792099117017309184",
+        "name": "baimu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981780197012602880/sFD6rsiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 42,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 53
+        },
+        "username": "baimu199443",
+        "verified": false
+      }
+    ]
+  }
+}

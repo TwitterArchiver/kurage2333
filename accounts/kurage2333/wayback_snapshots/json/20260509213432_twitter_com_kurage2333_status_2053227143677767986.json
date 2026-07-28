@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2053213263060783194",
+    "created_at": "2026-05-09T21:34:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T22:34:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053227143677767986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1834481927505522688",
+          "start": 0,
+          "username": "7_nodesu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053227143677767986",
+    "in_reply_to_user_id": "1834481927505522688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053226945098256608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7_nodesu 我不行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2053213263060783194",
+        "created_at": "2026-05-09T21:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T22:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053227143677767986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1834481927505522688",
+              "start": 0,
+              "username": "7_nodesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053227143677767986",
+        "in_reply_to_user_id": "1834481927505522688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053226945098256608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7_nodesu 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834481927505522688",
+        "conversation_id": "2053213263060783194",
+        "created_at": "2026-05-09T21:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T22:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053226945098256608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053226945098256608",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053213263060783194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 我气血不足\n\n喜欢点外卖吃\n\n在宿舍门口\n\n我希望我看到迎面而来的是外卖员\n\n带着我香酥多汁的炸鸡\n\n没想到迎接我的事是\n\n黑屏后睁眼躺在地上周围围满了人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 68,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 45,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 263,
+          "like_count": 3302,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 914
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-13T06:39:33.000Z",
+        "description": "キメラだよー",
+        "id": "1834481927505522688",
+        "location": "England, United Kingdom",
+        "name": "Shino",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053007435158142980/5b2ij4Lo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 544,
+          "like_count": 3889,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 2533
+        },
+        "username": "7_nodesu",
+        "verified": false
+      }
+    ]
+  }
+}

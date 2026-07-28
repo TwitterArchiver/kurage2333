@@ -1,0 +1,888 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10045086193",
+          "name": "ソードアート・オンライン"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "TOKYO MXほかで放送、『SAO』シリーズ最新作",
+          "id": "10054674078",
+          "name": "ソードアート・オンライン アリシゼーション"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1207748025281466368",
+          "name": "Sword Art Online"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1508516052753285122",
+          "name": "Mahjong Soul"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1207748025281466368",
+          "name": "Sword Art Online"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1508516052753285122",
+          "name": "Mahjong Soul"
+        }
+      }
+    ],
+    "conversation_id": "2050590536697037048",
+    "created_at": "2026-05-02T15:00:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T16:00:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050591191583068330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1834481927505522688",
+          "start": 0,
+          "username": "7_nodesu"
+        },
+        {
+          "end": 25,
+          "id": "1877103289504043008",
+          "start": 10,
+          "username": "PreDaJoRReborn"
+        },
+        {
+          "end": 36,
+          "id": "472569648",
+          "start": 26,
+          "username": "sao_anime"
+        },
+        {
+          "end": 49,
+          "id": "1990582437282525187",
+          "start": 37,
+          "username": "YeChuan1123"
+        },
+        {
+          "end": 65,
+          "id": "1108269664751087617",
+          "start": 50,
+          "username": "MahjongSoul_JP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050591191583068330",
+    "in_reply_to_user_id": "1834481927505522688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050590536697037048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7_nodesu @PreDaJoRReborn @sao_anime @YeChuan1123 @MahjongSoul_JP 我的天啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2050590528899878912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHUpOLbbkAAT9bi.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10045086193",
+              "name": "ソードアート・オンライン"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "TOKYO MXほかで放送、『SAO』シリーズ最新作",
+              "id": "10054674078",
+              "name": "ソードアート・オンライン アリシゼーション"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1207748025281466368",
+              "name": "Sword Art Online"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1508516052753285122",
+              "name": "Mahjong Soul"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1207748025281466368",
+              "name": "Sword Art Online"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1508516052753285122",
+              "name": "Mahjong Soul"
+            }
+          }
+        ],
+        "conversation_id": "2050590536697037048",
+        "created_at": "2026-05-02T15:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T16:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050591191583068330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1834481927505522688",
+              "start": 0,
+              "username": "7_nodesu"
+            },
+            {
+              "end": 25,
+              "id": "1877103289504043008",
+              "start": 10,
+              "username": "PreDaJoRReborn"
+            },
+            {
+              "end": 36,
+              "id": "472569648",
+              "start": 26,
+              "username": "sao_anime"
+            },
+            {
+              "end": 49,
+              "id": "1990582437282525187",
+              "start": 37,
+              "username": "YeChuan1123"
+            },
+            {
+              "end": 65,
+              "id": "1108269664751087617",
+              "start": 50,
+              "username": "MahjongSoul_JP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050591191583068330",
+        "in_reply_to_user_id": "1834481927505522688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050590536697037048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7_nodesu @PreDaJoRReborn @sao_anime @YeChuan1123 @MahjongSoul_JP 我的天啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050590528899878912"
+          ]
+        },
+        "author_id": "1834481927505522688",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10045086193",
+              "name": "ソードアート・オンライン"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "TOKYO MXほかで放送、『SAO』シリーズ最新作",
+              "id": "10054674078",
+              "name": "ソードアート・オンライン アリシゼーション"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1207748025281466368",
+              "name": "Sword Art Online"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1508516052753285122",
+              "name": "Mahjong Soul"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1207748025281466368",
+              "name": "Sword Art Online"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1508516052753285122",
+              "name": "Mahjong Soul"
+            }
+          }
+        ],
+        "conversation_id": "2050590536697037048",
+        "created_at": "2026-05-02T14:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T15:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050590536697037048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 37,
+              "id": "1877103289504043008",
+              "start": 22,
+              "username": "PreDaJoRReborn"
+            },
+            {
+              "end": 48,
+              "id": "472569648",
+              "start": 38,
+              "username": "sao_anime"
+            },
+            {
+              "end": 66,
+              "id": "1987604380896600064",
+              "start": 55,
+              "username": "kurage2333"
+            },
+            {
+              "end": 85,
+              "id": "1990582437282525187",
+              "start": 73,
+              "username": "YeChuan1123"
+            },
+            {
+              "end": 101,
+              "id": "1108269664751087617",
+              "start": 86,
+              "username": "MahjongSoul_JP"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 129,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2049769251213565952/9CpZFQ5P?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2049769251213565952/9CpZFQ5P?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 106,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/0Mnk8iX5ln"
+            },
+            {
+              "display_url": "pic.x.com/S1T2bR59OQ",
+              "end": 153,
+              "expanded_url": "https://x.com/7_nodesu/status/2050590536697037048/photo/1",
+              "media_key": "3_2050590528899878912",
+              "start": 130,
+              "url": "https://t.co/S1T2bR59OQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050590536697037048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @PreDaJoRReborn @sao_anime\n👰 配偶: @kurage2333\n👶 孩子: @YeChuan1123 @MahjongSoul_JP\n\n➡️ https://t.co/0Mnk8iX5ln https://t.co/S1T2bR59OQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼主人：@阿普唑仑 🩵💙互fo/大欢迎！💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 60,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 37,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 247,
+          "like_count": 3254,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 870
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-13T06:39:33.000Z",
+        "description": "キメラだよー",
+        "id": "1834481927505522688",
+        "location": "England, United Kingdom",
+        "name": "Shino",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952301329075904512/LglQJgXi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 537,
+          "like_count": 3767,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 2522
+        },
+        "username": "7_nodesu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-08T21:21:24.000Z",
+        "description": "🏴󠁧󠁢󠁥󠁮󠁧󠁿🇨🇵🇲🇺🇪🇸🇺🇸🇷🇺🦅🐲⚽️False 9 🌎🎮👑100% Free speech💬 0 censorship, True Honesty, Returned King, Tactician📋PC Over Clocker🖥️HyperCar Lover⭐",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/499fpspredajor",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/499fpspredajor",
+                "start": 0,
+                "url": "https://t.co/Lk65lN3jOK"
+              }
+            ]
+          }
+        },
+        "id": "1877103289504043008",
+        "location": "Paris, France🗼💫",
+        "name": "FALSE 9 PREDAJORᵗᵛ",
+        "pinned_tweet_id": "2043771317187395986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957631606169960452/M408q9_0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 1026,
+          "like_count": 5762,
+          "listed_count": 0,
+          "media_count": 1235,
+          "tweet_count": 4697
+        },
+        "url": "https://t.co/Lk65lN3jOK",
+        "username": "PreDaJoRReborn",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-24T02:41:05.000Z",
+        "description": "アニメ「ソードアート ・オンライン」公式アカウントです。完全新作劇場版制作決定！ 推奨ハッシュタグ #sao_anime",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 50,
+                "tag": "sao_anime"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sao-p.net",
+                "end": 23,
+                "expanded_url": "https://sao-p.net/",
+                "start": 0,
+                "url": "https://t.co/APxcfO536A"
+              }
+            ]
+          }
+        },
+        "id": "472569648",
+        "name": "アニメ ソードアート・オンライン 公式",
+        "pinned_tweet_id": "2049401581234511977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752282349361074176/yunVzLmq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019050,
+          "following_count": 49,
+          "like_count": 105,
+          "listed_count": 4864,
+          "media_count": 6720,
+          "tweet_count": 18189
+        },
+        "url": "https://t.co/APxcfO536A",
+        "username": "sao_anime",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-18T00:46:58.000Z",
+        "description": "20↑/UoT Biostudying 🇨🇦 🎀Love mizuki & Sylveon🎀\n分享自己爱看的！还有好多碎碎念… 想被摸……请给我很多很多的摸摸 🏳️‍⚧️ MTF 中文/Eng /日本語(勉強中 \n*💖超喜欢两个乖小孩 @blingbling712 @Rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 118,
+                "username": "blingbling712"
+              },
+              {
+                "end": 148,
+                "start": 133,
+                "username": "Rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizuki.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://mizuki.dpdns.org/",
+                "start": 0,
+                "url": "https://t.co/9hxt5syrmu"
+              }
+            ]
+          }
+        },
+        "id": "1990582437282525187",
+        "location": "25時、ナイトコードで。",
+        "name": "YeChuan",
+        "pinned_tweet_id": "2050055829345157261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041554967668883458/GSS53DIK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 246,
+          "like_count": 1467,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 682
+        },
+        "url": "https://t.co/9hxt5syrmu",
+        "username": "YeChuan1123",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-20T07:30:53.000Z",
+        "description": "無料オンライン麻雀「雀魂-じゃんたま-」の公式アカウントにゃ！ \n今日もみんなでたのしくジャンジャン遊ぶにゃ！ \n\nお問い合わせはこちら：https://t.co/5Z5q3W3lWX\nDiscord：https://t.co/99jbDJ24ZD\nハッシュタグ：#雀魂 #じゃんたま",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 135,
+                "start": 132,
+                "tag": "雀魂"
+              },
+              {
+                "end": 142,
+                "start": 136,
+                "tag": "じゃんたま"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mahjongsoul.com/support",
+                "end": 92,
+                "expanded_url": "http://mahjongsoul.com/support",
+                "start": 69,
+                "url": "https://t.co/5Z5q3W3lWX"
+              },
+              {
+                "display_url": "discord.gg/mahjongsoul",
+                "end": 124,
+                "expanded_url": "http://discord.gg/mahjongsoul",
+                "start": 101,
+                "url": "https://t.co/99jbDJ24ZD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mahjongsoul.com",
+                "end": 23,
+                "expanded_url": "https://mahjongsoul.com",
+                "start": 0,
+                "url": "https://t.co/GCWH6OPz7t"
+              }
+            ]
+          }
+        },
+        "id": "1108269664751087617",
+        "location": "魂天神社",
+        "name": "【公式】雀魂-じゃんたま-",
+        "pinned_tweet_id": "2050394846293008678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043530931252957184/hMOU5qep_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664260,
+          "following_count": 18,
+          "like_count": 1143,
+          "listed_count": 2503,
+          "media_count": 4542,
+          "tweet_count": 8545
+        },
+        "url": "https://t.co/GCWH6OPz7t",
+        "username": "MahjongSoul_JP",
+        "verified": true
+      }
+    ]
+  }
+}

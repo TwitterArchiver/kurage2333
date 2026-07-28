@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2039310542981206445",
+    "created_at": "2026-04-02T15:02:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T16:02:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039720204377403532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2025852742707945473",
+          "start": 0,
+          "username": "kikisuki111"
+        },
+        {
+          "end": 22,
+          "id": "1812304729432838144",
+          "start": 13,
+          "username": "huimu420"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039720204377403532",
+    "in_reply_to_user_id": "2025852742707945473",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039310542981206445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kikisuki111 @huimu420 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2039310542981206445",
+        "created_at": "2026-04-02T15:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039720204377403532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2025852742707945473",
+              "start": 0,
+              "username": "kikisuki111"
+            },
+            {
+              "end": 22,
+              "id": "1812304729432838144",
+              "start": 13,
+              "username": "huimu420"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039720204377403532",
+        "in_reply_to_user_id": "2025852742707945473",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039310542981206445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kikisuki111 @huimu420 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025852742707945473",
+        "conversation_id": "2039310542981206445",
+        "created_at": "2026-04-01T11:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T12:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039310542981206445"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039310542981206445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 17563,
+          "like_count": 285,
+          "quote_count": 5,
+          "reply_count": 15,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "感觉那种往手上p熊大然后打码伪装成疤的人都死了，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口🪼咕噜咕噜..... 血臭臭的…. 🩵💙匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 53,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 30,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 97,
+          "like_count": 2031,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 353
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-23T08:38:36.000Z",
+        "description": "＝キキkiki👾｜负能自拍堆积处｜是一只外星恶魔😈｜病み垢｜片目界隈｜オタク｜中文、English、日本語🆗｜wlw｜私信开放直fo欢迎🫶🏻｜🚬🍺💊",
+        "id": "2025852742707945473",
+        "name": "キキ",
+        "pinned_tweet_id": "2037232711459627046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025853163421716480/yxRHQXzf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 250,
+          "like_count": 1034,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 317
+        },
+        "username": "kikisuki111",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-14T01:55:01.000Z",
+        "description": "餐券 负能 自言自语\n酷拉皮卡梦女\n不喜欢键政  扫扫置顶的二维码有惊喜\n💊🩸！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huimu420",
+                "end": 23,
+                "expanded_url": "https://ngl.link/huimu420",
+                "start": 0,
+                "url": "https://t.co/o2XkPNmz4o"
+              }
+            ]
+          }
+        },
+        "id": "1812304729432838144",
+        "location": "👁️",
+        "name": "回木",
+        "pinned_tweet_id": "2028842327134077389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008334036159090688/E-dxw_RT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 851,
+          "following_count": 800,
+          "like_count": 29803,
+          "listed_count": 1,
+          "media_count": 254,
+          "tweet_count": 7554
+        },
+        "url": "https://t.co/o2XkPNmz4o",
+        "username": "huimu420",
+        "verified": false
+      }
+    ]
+  }
+}

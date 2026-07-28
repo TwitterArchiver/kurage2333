@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041265735423422464",
+        "3_2041265735406682112",
+        "16_2041265735541141504",
+        "3_2041265735725621248"
+      ],
+      "media_source_tweet_id": [
+        "2041265760366956715",
+        "2041265760366956715",
+        "2041265760366956715",
+        "2041265760366956715"
+      ]
+    },
+    "author_id": "1987604380896600064",
+    "conversation_id": "2043247152521200071",
+    "created_at": "2026-04-12T08:37:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T09:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043247152521200071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1980410903850885120",
+          "start": 3,
+          "username": "mmshuxing"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ygGKpr9JA9",
+          "end": 59,
+          "expanded_url": "https://x.com/mmshuxing/status/2041265760366956715/photo/1",
+          "media_key": "3_2041265735423422464",
+          "start": 36,
+          "url": "https://t.co/ygGKpr9JA9"
+        },
+        {
+          "display_url": "pic.x.com/ygGKpr9JA9",
+          "end": 59,
+          "expanded_url": "https://x.com/mmshuxing/status/2041265760366956715/photo/1",
+          "media_key": "3_2041265735406682112",
+          "start": 36,
+          "url": "https://t.co/ygGKpr9JA9"
+        },
+        {
+          "display_url": "pic.x.com/ygGKpr9JA9",
+          "end": 59,
+          "expanded_url": "https://x.com/mmshuxing/status/2041265760366956715/photo/1",
+          "media_key": "16_2041265735541141504",
+          "start": 36,
+          "url": "https://t.co/ygGKpr9JA9"
+        },
+        {
+          "display_url": "pic.x.com/ygGKpr9JA9",
+          "end": 59,
+          "expanded_url": "https://x.com/mmshuxing/status/2041265760366956715/photo/1",
+          "media_key": "3_2041265735725621248",
+          "start": 36,
+          "url": "https://t.co/ygGKpr9JA9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043247152521200071",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041265760366956715",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mmshuxing: 我是幼幼 寻回互fo版 前世互fo求互转 https://t.co/ygGKpr9JA9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041265735423422464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFQIXwwW8AA_-hN.jpg",
+        "width": 1153
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041265735406682112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFQIXwsXgAAepQz.jpg",
+        "width": 1392
+      },
+      {
+        "height": 640,
+        "media_key": "16_2041265735541141504",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HFQIXxMbMAAA_Wt.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HFQIXxMbMAAA_Wt.mp4"
+          }
+        ],
+        "width": 368
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041265735725621248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFQIXx4aIAA2P-8.jpg",
+        "width": 1474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041265735423422464",
+            "3_2041265735406682112",
+            "16_2041265735541141504",
+            "3_2041265735725621248"
+          ],
+          "media_source_tweet_id": [
+            "2041265760366956715",
+            "2041265760366956715",
+            "2041265760366956715",
+            "2041265760366956715"
+          ]
+        },
+        "author_id": "1987604380896600064",
+        "conversation_id": "2043247152521200071",
+        "created_at": "2026-04-12T08:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T09:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043247152521200071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1980410903850885120",
+              "start": 3,
+              "username": "mmshuxing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ygGKpr9JA9",
+              "end": 59,
+              "expanded_url": "https://x.com/mmshuxing/status/2041265760366956715/photo/1",
+              "media_key": "3_2041265735423422464",
+              "start": 36,
+              "url": "https://t.co/ygGKpr9JA9"
+            },
+            {
+              "display_url": "pic.x.com/ygGKpr9JA9",
+              "end": 59,
+              "expanded_url": "https://x.com/mmshuxing/status/2041265760366956715/photo/1",
+              "media_key": "3_2041265735406682112",
+              "start": 36,
+              "url": "https://t.co/ygGKpr9JA9"
+            },
+            {
+              "display_url": "pic.x.com/ygGKpr9JA9",
+              "end": 59,
+              "expanded_url": "https://x.com/mmshuxing/status/2041265760366956715/photo/1",
+              "media_key": "16_2041265735541141504",
+              "start": 36,
+              "url": "https://t.co/ygGKpr9JA9"
+            },
+            {
+              "display_url": "pic.x.com/ygGKpr9JA9",
+              "end": 59,
+              "expanded_url": "https://x.com/mmshuxing/status/2041265760366956715/photo/1",
+              "media_key": "3_2041265735725621248",
+              "start": 36,
+              "url": "https://t.co/ygGKpr9JA9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043247152521200071",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041265760366956715",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mmshuxing: 我是幼幼 寻回互fo版 前世互fo求互转 https://t.co/ygGKpr9JA9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041265735423422464",
+            "3_2041265735406682112",
+            "16_2041265735541141504",
+            "3_2041265735725621248"
+          ]
+        },
+        "author_id": "1980410903850885120",
+        "conversation_id": "2041265760366956715",
+        "created_at": "2026-04-06T21:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T22:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041265760366956715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ygGKpr9JA9",
+              "end": 44,
+              "expanded_url": "https://x.com/mmshuxing/status/2041265760366956715/photo/1",
+              "media_key": "3_2041265735423422464",
+              "start": 21,
+              "url": "https://t.co/ygGKpr9JA9"
+            },
+            {
+              "display_url": "pic.x.com/ygGKpr9JA9",
+              "end": 44,
+              "expanded_url": "https://x.com/mmshuxing/status/2041265760366956715/photo/1",
+              "media_key": "3_2041265735406682112",
+              "start": 21,
+              "url": "https://t.co/ygGKpr9JA9"
+            },
+            {
+              "display_url": "pic.x.com/ygGKpr9JA9",
+              "end": 44,
+              "expanded_url": "https://x.com/mmshuxing/status/2041265760366956715/photo/1",
+              "media_key": "16_2041265735541141504",
+              "start": 21,
+              "url": "https://t.co/ygGKpr9JA9"
+            },
+            {
+              "display_url": "pic.x.com/ygGKpr9JA9",
+              "end": 44,
+              "expanded_url": "https://x.com/mmshuxing/status/2041265760366956715/photo/1",
+              "media_key": "3_2041265735725621248",
+              "start": 21,
+              "url": "https://t.co/ygGKpr9JA9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041265760366956715",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9809,
+          "like_count": 93,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "我是幼幼 寻回互fo版 前世互fo求互转 https://t.co/ygGKpr9JA9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口🪼主人：@阿普唑仑 🩵💙匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 45,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 22,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 145,
+          "like_count": 2670,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 545
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T23:09:07.000Z",
+        "description": "幼幼 第一世@mshuxing 我喜欢@MmeTuT\n喜欢哥哥 餐券 抑焦 割手\n11年 INTP-T 顺女 友跨（🏳️‍🌈）\n低龄 低智 爱视奸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "mshuxing"
+              },
+              {
+                "end": 26,
+                "start": 19,
+                "username": "MmeTuT"
+              }
+            ]
+          }
+        },
+        "id": "1980410903850885120",
+        "location": "好友位88 纯绿128 288",
+        "name": "死罪绝命",
+        "pinned_tweet_id": "2041265760366956715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041911698903257088/sXP-KYjP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 89,
+          "like_count": 678,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 95
+        },
+        "username": "mmshuxing",
+        "verified": false
+      }
+    ]
+  }
+}

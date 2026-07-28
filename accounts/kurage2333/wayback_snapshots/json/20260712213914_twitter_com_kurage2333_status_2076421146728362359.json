@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2076421146728362359",
+    "created_at": "2026-07-12T21:39:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T22:39:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076421146728362359"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/1212s1212bs124…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/1212s1212bs1242/status/2076234009055838382",
+          "start": 3,
+          "url": "https://t.co/HsWQ1ZJvOv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076421146728362359",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076234009055838382",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "骚货 https://t.co/HsWQ1ZJvOv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1542,
+        "media_key": "3_2076234003527655424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBD02raYAAJIsA.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2076233967867752448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNBDyx1bcAAZ4GF.jpg",
+        "width": 961
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2076421146728362359",
+        "created_at": "2026-07-12T21:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T22:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076421146728362359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/1212s1212bs124…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/1212s1212bs1242/status/2076234009055838382",
+              "start": 3,
+              "url": "https://t.co/HsWQ1ZJvOv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076421146728362359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076234009055838382",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "骚货 https://t.co/HsWQ1ZJvOv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076234003527655424",
+            "3_2076233967867752448"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2076234009055838382",
+        "created_at": "2026-07-12T09:15:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T10:15:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076234009055838382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2pRrJjstJi",
+              "end": 35,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2076234009055838382/photo/1",
+              "media_key": "3_2076234003527655424",
+              "start": 12,
+              "url": "https://t.co/2pRrJjstJi"
+            },
+            {
+              "display_url": "pic.x.com/2pRrJjstJi",
+              "end": 35,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2076234009055838382/photo/1",
+              "media_key": "3_2076233967867752448",
+              "start": 12,
+              "url": "https://t.co/2pRrJjstJi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076234009055838382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 353,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "主播的面色有点不太健康 https://t.co/2pRrJjstJi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 329,
+          "like_count": 3917,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 1396
+        },
+        "url": "",
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "12是12/没消息就是进牢了/单机/我只是一个缺爱的抽烟大丑b/欢迎跟我谈论现象学",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12",
+        "pinned_tweet_id": "2068905914640585131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074057741191274496/zsnHU4US_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 922,
+          "like_count": 17177,
+          "listed_count": 1,
+          "media_count": 1044,
+          "tweet_count": 10353
+        },
+        "url": "",
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2036812325551009792"
+      ]
+    },
+    "author_id": "1987604380896600064",
+    "conversation_id": "2036812384522981710",
+    "created_at": "2026-03-25T14:28:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T15:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036812384522981710"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uKsk6HIORZ",
+          "end": 27,
+          "expanded_url": "https://x.com/kurage2333/status/2036812384522981710/video/1",
+          "media_key": "13_2036812325551009792",
+          "start": 4,
+          "url": "https://t.co/uKsk6HIORZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036812384522981710",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想割手 https://t.co/uKsk6HIORZ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2036812384522981710].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2036812384522981710",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2036812384522981710"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7033,
+        "height": 1280,
+        "media_key": "13_2036812325551009792",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2036812325551009792/img/b_o4JXtgQm6w7OXQ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036812325551009792/vid/avc1/320x568/w12_wotdi7-QMIoL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036812325551009792/vid/avc1/480x852/lMgTPTWHUGeXuwcZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036812325551009792/vid/avc1/720x1280/YFPENFDbY8BSoxfE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2036812325551009792/pl/7HXhr1G0Kla-8aQT.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口🪼咕噜咕噜..... 血臭臭的…. 🩵💙匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 53,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 30,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 94,
+          "like_count": 1819,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 304
+        },
+        "username": "kurage2333",
+        "verified": false
+      }
+    ]
+  }
+}

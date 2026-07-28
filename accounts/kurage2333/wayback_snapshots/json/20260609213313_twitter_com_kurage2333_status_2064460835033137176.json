@@ -1,0 +1,107 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2064460835033137176",
+    "created_at": "2026-06-09T21:33:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T22:33:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064460835033137176"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064460835033137176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "心肝：钱\n底线：钱\n天使：钱\n心上人：钱\n理想型：钱\n偏爱：钱\n软肋：钱\n执念：钱\n例外：钱\n满心欢喜：钱\n置顶人选：钱\n专属偏爱：钱\n情感篇：钱\n上課最想和誰同桌：钱\n生氣的時候會怎樣：钱\n闲暇想念的人：钱\n委屈时想依靠的人：钱\n日常惦记：钱\n未来规划里的人：钱\n想要奔赴的人：钱\n梦想：钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2064460835033137176",
+        "created_at": "2026-06-09T21:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T22:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064460835033137176"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064460835033137176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "心肝：钱\n底线：钱\n天使：钱\n心上人：钱\n理想型：钱\n偏爱：钱\n软肋：钱\n执念：钱\n例外：钱\n满心欢喜：钱\n置顶人选：钱\n专属偏爱：钱\n情感篇：钱\n上課最想和誰同桌：钱\n生氣的時候會怎樣：钱\n闲暇想念的人：钱\n委屈时想依靠的人：钱\n日常惦记：钱\n未来规划里的人：钱\n想要奔赴的人：钱\n梦想：钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 352,
+          "like_count": 3772,
+          "listed_count": 2,
+          "media_count": 109,
+          "tweet_count": 1304
+        },
+        "username": "kurage2333",
+        "verified": false
+      }
+    ]
+  }
+}

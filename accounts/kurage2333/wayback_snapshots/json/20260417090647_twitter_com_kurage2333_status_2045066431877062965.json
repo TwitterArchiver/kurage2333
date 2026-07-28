@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2044986110213042244",
+    "created_at": "2026-04-17T09:06:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T10:06:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045066431877062965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032033299980566528",
+          "start": 0,
+          "username": "rinii165892"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045066431877062965",
+    "in_reply_to_user_id": "2032033299980566528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044986110213042244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rinii165892 被缠上了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29482,
+        "height": 1920,
+        "media_key": "13_2044985968604893184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044985968604893184/img/9Gb1iNBpE6blOy55.jpg",
+        "public_metrics": {
+          "view_count": 91
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044985968604893184/vid/avc1/320x706/XINcS8WXsvK6-VQm.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044985968604893184/vid/avc1/480x1058/CkyPRZgBfd50AG8d.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044985968604893184/vid/avc1/720x1588/WNeXn8BhjlK9SvFp.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044985968604893184/pl/GOj2MFxo4HOvrp-7.m3u8?tag=14"
+          }
+        ],
+        "width": 870
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2044986110213042244",
+        "created_at": "2026-04-17T09:06:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T10:06:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045066431877062965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032033299980566528",
+              "start": 0,
+              "username": "rinii165892"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045066431877062965",
+        "in_reply_to_user_id": "2032033299980566528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044986110213042244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rinii165892 被缠上了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044985968604893184"
+          ]
+        },
+        "author_id": "2032033299980566528",
+        "conversation_id": "2044986110213042244",
+        "created_at": "2026-04-17T03:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T04:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044986110213042244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/izLMAQkY2X",
+              "end": 26,
+              "expanded_url": "https://x.com/rinii165892/status/2044986110213042244/video/1",
+              "media_key": "13_2044985968604893184",
+              "start": 3,
+              "url": "https://t.co/izLMAQkY2X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044986110213042244",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 802,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "懂？ https://t.co/izLMAQkY2X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼主人：@阿普唑仑 🩵💙互fo/大欢迎匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 56,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 33,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 217,
+          "like_count": 2946,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 690
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T09:58:00.000Z",
+        "description": "已完成今日大学习【寻回推u】🔪\n- ✰*🎀 ੈ✩🍥✰*💗 ੈ✩- \n生活在互联网！看成分互fo喵!/我是低龄糖逼大傻福，实在抱歉！\n超级严重失眠 -12现役初中生\n^✟❀信徒@Fislonely_❀灵宠@dbdbsjbsja❀小号@hg3551019177402✿永远纪念@wu_si787878❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 87,
+                "username": "Fislonely_"
+              },
+              {
+                "end": 112,
+                "start": 101,
+                "username": "dbdbsjbsja"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "hg3551019177402"
+              },
+              {
+                "end": 148,
+                "start": 136,
+                "username": "wu_si787878"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rin36611",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rin36611",
+                "start": 0,
+                "url": "https://t.co/eWuyqK1iCB"
+              }
+            ]
+          }
+        },
+        "id": "2032033299980566528",
+        "location": "你看看你身后",
+        "name": "霖（完全病娇邪恶中2.0）",
+        "pinned_tweet_id": "2038261710612729866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040872269401276416/xul0eQRI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1257,
+          "following_count": 778,
+          "like_count": 6220,
+          "listed_count": 4,
+          "media_count": 126,
+          "tweet_count": 3292
+        },
+        "url": "https://t.co/eWuyqK1iCB",
+        "username": "rinii165892",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2047367389244014906",
+    "created_at": "2026-04-23T18:47:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T19:47:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047386825858396171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "hg3551019177402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047386825858396171",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047367389244014906",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hg3551019177402 12都瘦了 我哭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_2047367357920935936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGm1w72bgAAVR2n.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2047367389244014906",
+        "created_at": "2026-04-23T18:47:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T19:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047386825858396171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "hg3551019177402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047386825858396171",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047367389244014906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hg3551019177402 12都瘦了 我哭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047367357920935936"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2047367389244014906",
+        "created_at": "2026-04-23T17:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T18:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047367389244014906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ERiJFIOFgJ",
+              "end": 35,
+              "expanded_url": "https://x.com/hg3551019177402/status/2047367389244014906/photo/1",
+              "media_key": "3_2047367357920935936",
+              "start": 12,
+              "url": "https://t.co/ERiJFIOFgJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047367389244014906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 760,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "终于可以穿上这件战衣了 https://t.co/ERiJFIOFgJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼主人：@阿普唑仑 🩵💙互fo/大欢迎！💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 60,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 37,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 224,
+          "like_count": 3128,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 778
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "黑圣徒和白罪女 我主人@Orion2588 药物治疗精神病中（每天吃很多就是了），每天直播一下精神病日常，我的语言自知门里下贱20万bei。黑色柳丁：@rinii165892",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "Orion2588"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "rinii165892"
+              }
+            ]
+          }
+        },
+        "id": "1684269091849404416",
+        "name": "12",
+        "pinned_tweet_id": "2043934459041645045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045697198890119168/n-jopRK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 587,
+          "like_count": 18604,
+          "listed_count": 0,
+          "media_count": 514,
+          "tweet_count": 8704
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      }
+    ]
+  }
+}

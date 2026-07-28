@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072109582613405696"
+      ],
+      "media_source_tweet_id": [
+        "2072109585696256141"
+      ]
+    },
+    "author_id": "1987604380896600064",
+    "conversation_id": "2072127409479160264",
+    "created_at": "2026-07-01T01:17:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T02:17:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072127409479160264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2043952988557803520",
+          "start": 3,
+          "username": "tngxngxng13171"
+        },
+        {
+          "end": 43,
+          "id": "1538535836148715520",
+          "start": 27,
+          "username": "jinghua77765851"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CbiO0SZJ6N",
+          "end": 107,
+          "expanded_url": "https://x.com/tngxngxng13171/status/2072109585696256141/photo/1",
+          "media_key": "3_2072109582613405696",
+          "start": 84,
+          "url": "https://t.co/CbiO0SZJ6N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072127409479160264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072109585696256141",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tngxngxng13171: 目前已經確認：@jinghua77765851 \n鏡花，未死亡，確認存活，在接受治療。\n圖片為鏡花本人的QQ空間發佈內容轉載。 https://t.co/CbiO0SZJ6N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 288,
+        "media_key": "3_2072109582613405696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMGcr9da4AApsYv.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072109582613405696"
+          ],
+          "media_source_tweet_id": [
+            "2072109585696256141"
+          ]
+        },
+        "author_id": "1987604380896600064",
+        "conversation_id": "2072127409479160264",
+        "created_at": "2026-07-01T01:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T02:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072127409479160264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2043952988557803520",
+              "start": 3,
+              "username": "tngxngxng13171"
+            },
+            {
+              "end": 43,
+              "id": "1538535836148715520",
+              "start": 27,
+              "username": "jinghua77765851"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CbiO0SZJ6N",
+              "end": 107,
+              "expanded_url": "https://x.com/tngxngxng13171/status/2072109585696256141/photo/1",
+              "media_key": "3_2072109582613405696",
+              "start": 84,
+              "url": "https://t.co/CbiO0SZJ6N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072127409479160264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072109585696256141",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tngxngxng13171: 目前已經確認：@jinghua77765851 \n鏡花，未死亡，確認存活，在接受治療。\n圖片為鏡花本人的QQ空間發佈內容轉載。 https://t.co/CbiO0SZJ6N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072109582613405696"
+          ]
+        },
+        "author_id": "2043952988557803520",
+        "conversation_id": "2072109585696256141",
+        "created_at": "2026-07-01T00:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T01:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072109585696256141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1538535836148715520",
+              "start": 7,
+              "username": "jinghua77765851"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CbiO0SZJ6N",
+              "end": 87,
+              "expanded_url": "https://x.com/tngxngxng13171/status/2072109585696256141/photo/1",
+              "media_key": "3_2072109582613405696",
+              "start": 64,
+              "url": "https://t.co/CbiO0SZJ6N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072109585696256141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "目前已經確認：@jinghua77765851 \n鏡花，未死亡，確認存活，在接受治療。\n圖片為鏡花本人的QQ空間發佈內容轉載。 https://t.co/CbiO0SZJ6N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 335,
+          "like_count": 3858,
+          "listed_count": 2,
+          "media_count": 116,
+          "tweet_count": 1361
+        },
+        "url": "",
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T07:22:50.000Z",
+        "description": "ご指定のページはございません。\n\n主要遊玩prsk/推し💗宵崎奏、曉山瑞希、望月穗波、日野森志步/團體 推しLeoneed&25時/會進行一些相關角色的cosplay",
+        "id": "2043952988557803520",
+        "location": "Hong Kong",
+        "name": "ご指定のページはございません。",
+        "pinned_tweet_id": "2069928793444340078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048446214245691392/lQgtgY8z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 231,
+          "like_count": 9281,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 583
+        },
+        "url": "",
+        "username": "tngxngxng13171",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-19T14:55:11.000Z",
+        "description": "19↑‖每天都想睡覺‖\n互粉查成分回 喜歡聰明人‖",
+        "id": "1538535836148715520",
+        "name": "鏡花生物爹",
+        "pinned_tweet_id": "1970351506923848033",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042570703015415813/792SFKWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 177,
+          "like_count": 130,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 216
+        },
+        "url": "",
+        "username": "jinghua77765851",
+        "verified": false
+      }
+    ]
+  }
+}

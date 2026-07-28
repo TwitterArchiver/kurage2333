@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2035259606130434048"
+      ]
+    },
+    "author_id": "1987604380896600064",
+    "conversation_id": "2035259623515857316",
+    "created_at": "2026-03-21T07:38:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T08:38:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035259623515857316"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mnmoxyGRzt",
+          "end": 26,
+          "expanded_url": "https://x.com/kurage2333/status/2035259623515857316/photo/1",
+          "media_key": "3_2035259606130434048",
+          "start": 3,
+          "url": "https://t.co/mnmoxyGRzt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035259623515857316",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "❤️ https://t.co/mnmoxyGRzt"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2035259623515857316].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2035259623515857316",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2035259623515857316"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035259606130434048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD6x1BkbIAAq3fa.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口🪼咕噜咕噜..... 血臭臭的…. 🩵💙匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 53,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 30,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 56,
+          "like_count": 1068,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 204
+        },
+        "username": "kurage2333",
+        "verified": false
+      }
+    ]
+  }
+}

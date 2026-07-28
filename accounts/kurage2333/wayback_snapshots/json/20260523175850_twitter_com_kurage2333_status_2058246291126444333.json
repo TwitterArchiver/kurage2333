@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058189370629541888"
+      ],
+      "media_source_tweet_id": [
+        "2058189380947472476"
+      ]
+    },
+    "author_id": "1987604380896600064",
+    "conversation_id": "2058246291126444333",
+    "created_at": "2026-05-23T17:58:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T18:58:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058246291126444333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2058187028186243072",
+          "start": 3,
+          "username": "whiteyzg3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sMgT1Gbi07",
+          "end": 56,
+          "expanded_url": "https://x.com/whiteyzg3/status/2058189380947472476/photo/1",
+          "media_key": "3_2058189370629541888",
+          "start": 33,
+          "url": "https://t.co/sMgT1Gbi07"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058246291126444333",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058189380947472476",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whiteyzg3: 我重生了，，求轉助力我尋回互fo😭 https://t.co/sMgT1Gbi07"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1091,
+        "media_key": "3_2058189370629541888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJAoU-zb0AAdWf9.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058189370629541888"
+          ],
+          "media_source_tweet_id": [
+            "2058189380947472476"
+          ]
+        },
+        "author_id": "1987604380896600064",
+        "conversation_id": "2058246291126444333",
+        "created_at": "2026-05-23T17:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T18:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058246291126444333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2058187028186243072",
+              "start": 3,
+              "username": "whiteyzg3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sMgT1Gbi07",
+              "end": 56,
+              "expanded_url": "https://x.com/whiteyzg3/status/2058189380947472476/photo/1",
+              "media_key": "3_2058189370629541888",
+              "start": 33,
+              "url": "https://t.co/sMgT1Gbi07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058246291126444333",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058189380947472476",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whiteyzg3: 我重生了，，求轉助力我尋回互fo😭 https://t.co/sMgT1Gbi07"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058189370629541888"
+          ]
+        },
+        "author_id": "2058187028186243072",
+        "conversation_id": "2058189380947472476",
+        "created_at": "2026-05-23T14:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T15:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058189380947472476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sMgT1Gbi07",
+              "end": 41,
+              "expanded_url": "https://x.com/whiteyzg3/status/2058189380947472476/photo/1",
+              "media_key": "3_2058189370629541888",
+              "start": 18,
+              "url": "https://t.co/sMgT1Gbi07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058189380947472476",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2988,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我重生了，，求轉助力我尋回互fo😭 https://t.co/sMgT1Gbi07"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 343,
+          "like_count": 3565,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 1165
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-23T14:05:02.000Z",
+        "description": "被害前世@rara_0615xx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "rara_0615xx"
+              }
+            ]
+          }
+        },
+        "id": "2058187028186243072",
+        "name": "純白色罪業2.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058188208706641920/iFJJADwz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 32,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "username": "whiteyzg3",
+        "verified": false
+      }
+    ]
+  }
+}

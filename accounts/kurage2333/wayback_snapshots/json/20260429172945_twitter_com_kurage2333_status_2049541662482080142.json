@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2049247868922540526",
+    "created_at": "2026-04-29T17:29:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T18:29:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049541662482080142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2037004701955448832",
+          "start": 0,
+          "username": "liyu454144"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049541662482080142",
+    "in_reply_to_user_id": "2037004701955448832",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049382509952356834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liyu454144 🤤我也是！都不准靠近我！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2049247868922540526",
+        "created_at": "2026-04-29T17:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T18:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049541662482080142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2037004701955448832",
+              "start": 0,
+              "username": "liyu454144"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049541662482080142",
+        "in_reply_to_user_id": "2037004701955448832",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049382509952356834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liyu454144 🤤我也是！都不准靠近我！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037004701955448832",
+        "conversation_id": "2049247868922540526",
+        "created_at": "2026-04-29T06:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T07:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049382509952356834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049382509952356834",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049247868922540526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 草我会故意不戴袖套出门吓人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼主人：@阿普唑仑 🩵💙互fo/大欢迎！💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 60,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 37,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 240,
+          "like_count": 3207,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 841
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-26T03:12:37.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me//liyu454114",
+                "end": 23,
+                "expanded_url": "http://t.me//liyu454114",
+                "start": 0,
+                "url": "https://t.co/63eU2cCHg2"
+              }
+            ]
+          }
+        },
+        "id": "2037004701955448832",
+        "name": "璃雨",
+        "pinned_tweet_id": "2037050916109693290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037030483658477568/dexsNk3i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 129,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 78
+        },
+        "url": "https://t.co/63eU2cCHg2",
+        "username": "liyu454144",
+        "verified": false
+      }
+    ]
+  }
+}

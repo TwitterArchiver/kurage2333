@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2040732096071708683",
+    "created_at": "2026-04-05T10:04:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T11:04:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040732203878072682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1990582437282525187",
+          "start": 0,
+          "username": "YeChuan152"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040732203878072682",
+    "in_reply_to_user_id": "1990582437282525187",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040732096071708683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@YeChuan152 臭婊子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2040732089864142848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFIjBgIXwAAU0sd.jpg",
+        "width": 1022
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2040732089864093696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFIjBgIXAAARP1-.jpg",
+        "width": 992
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2040732089859833856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFIjBgHWAAAHhop.jpg",
+        "width": 1004
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2040732089864126465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFIjBgIXgAEQL1h.jpg",
+        "width": 994
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2040732096071708683",
+        "created_at": "2026-04-05T10:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T11:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040732203878072682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1990582437282525187",
+              "start": 0,
+              "username": "YeChuan152"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040732203878072682",
+        "in_reply_to_user_id": "1990582437282525187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040732096071708683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@YeChuan152 臭婊子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040732089864142848",
+            "3_2040732089864093696",
+            "3_2040732089859833856",
+            "3_2040732089864126465"
+          ]
+        },
+        "author_id": "1990582437282525187",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040732096071708683",
+        "created_at": "2026-04-05T10:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T11:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040732096071708683"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JlI0VIgN7t",
+              "end": 27,
+              "expanded_url": "https://x.com/YeChuan152/status/2040732096071708683/photo/1",
+              "media_key": "3_2040732089864142848",
+              "start": 4,
+              "url": "https://t.co/JlI0VIgN7t"
+            },
+            {
+              "display_url": "pic.x.com/JlI0VIgN7t",
+              "end": 27,
+              "expanded_url": "https://x.com/YeChuan152/status/2040732096071708683/photo/1",
+              "media_key": "3_2040732089864093696",
+              "start": 4,
+              "url": "https://t.co/JlI0VIgN7t"
+            },
+            {
+              "display_url": "pic.x.com/JlI0VIgN7t",
+              "end": 27,
+              "expanded_url": "https://x.com/YeChuan152/status/2040732096071708683/photo/1",
+              "media_key": "3_2040732089859833856",
+              "start": 4,
+              "url": "https://t.co/JlI0VIgN7t"
+            },
+            {
+              "display_url": "pic.x.com/JlI0VIgN7t",
+              "end": 27,
+              "expanded_url": "https://x.com/YeChuan152/status/2040732096071708683/photo/1",
+              "media_key": "3_2040732089864126465",
+              "start": 4,
+              "url": "https://t.co/JlI0VIgN7t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040732096071708683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "臭婊子 https://t.co/JlI0VIgN7t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口🪼咕噜咕噜..... 血臭臭的…. 🩵💙匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 53,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 30,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 108,
+          "like_count": 2274,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 400
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-18T00:46:58.000Z",
+        "description": "20↑/UoT Biostudying 🎀Love mizuki 🎀\nいつも自分の好きなものを共有します,お会いできてうれしいです  🏳️‍⚧️ 中文/Eng / 日本語(勉強中\n🇨🇳🇨🇦🇯🇵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mizuki.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://mizuki.dpdns.org/",
+                "start": 0,
+                "url": "https://t.co/9hxt5syrmu"
+              }
+            ]
+          }
+        },
+        "id": "1990582437282525187",
+        "location": "25時、ナイトコードで。",
+        "name": "YeChuan",
+        "pinned_tweet_id": "2024311615860978085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024341754070065152/BOZg6qhk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 177,
+          "like_count": 893,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 391
+        },
+        "url": "https://t.co/9hxt5syrmu",
+        "username": "YeChuan152",
+        "verified": false
+      }
+    ]
+  }
+}

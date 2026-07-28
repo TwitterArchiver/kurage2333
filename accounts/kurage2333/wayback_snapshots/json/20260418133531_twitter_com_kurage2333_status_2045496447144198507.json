@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2045490286923759709",
+    "created_at": "2026-04-18T13:35:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T14:35:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045496447144198507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1843360729199718404",
+          "start": 0,
+          "username": "longlongp97w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045496447144198507",
+    "in_reply_to_user_id": "1843360729199718404",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045496108902731827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@longlongp97w awwww谢谢你！😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2045490286923759709",
+        "created_at": "2026-04-18T13:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T14:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045496447144198507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1843360729199718404",
+              "start": 0,
+              "username": "longlongp97w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045496447144198507",
+        "in_reply_to_user_id": "1843360729199718404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045496108902731827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@longlongp97w awwww谢谢你！😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843360729199718404",
+        "conversation_id": "2045490286923759709",
+        "created_at": "2026-04-18T13:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T14:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045496108902731827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045496108902731827",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045490286923759709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 所有人都快来喜欢这个很可爱的小女孩呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼主人：@阿普唑仑 🩵💙互fo/大欢迎！💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 60,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 37,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 224,
+          "like_count": 3001,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 714
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T18:40:31.000Z",
+        "description": "‼️‼️‼️如果我的帖子让您感到不适，请立即拉黑我不要恶评，谢谢‼️‼️‼️一个人在ny上学，19岁，艺术生，现实无社交，双，但是自救成功，目前稳定（这段时间被恶心了应该不稳定了）人在国外上推方便，拿推来岁岁念+记录日常+宣泄负面情绪，讨厌圈子不想聊黄（和陌生人聊太蠢了这个）然后我不是同！想多找互关呀， #碎碎念",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 157,
+                "start": 153,
+                "tag": "碎碎念"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jjjjjjjj14864",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jjjjjjjj14864",
+                "start": 0,
+                "url": "https://t.co/oCgXhmsjYs"
+              }
+            ]
+          }
+        },
+        "id": "1843360729199718404",
+        "location": "阿美莉卡",
+        "name": "龙long",
+        "pinned_tweet_id": "2045270964162699734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041004546806468608/r_cGy1V2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 104,
+          "like_count": 3497,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 747
+        },
+        "url": "https://t.co/oCgXhmsjYs",
+        "username": "longlongp97w",
+        "verified": false
+      }
+    ]
+  }
+}

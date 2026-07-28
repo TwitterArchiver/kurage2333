@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2062595124585251088",
+    "created_at": "2026-06-04T22:04:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T23:04:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062656851641299173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1974865605204586498",
+          "start": 0,
+          "username": "kuroki___tomoko"
+        },
+        {
+          "end": 29,
+          "id": "1409516495571501066",
+          "start": 17,
+          "username": "DrankghostU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062656851641299173",
+    "in_reply_to_user_id": "1974865605204586498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062595124585251088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuroki___tomoko @DrankghostU 好美丽…"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2062595124585251088].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2062595124585251088",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2062595124585251088"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2062595124585251088",
+        "created_at": "2026-06-04T22:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T23:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062656851641299173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1974865605204586498",
+              "start": 0,
+              "username": "kuroki___tomoko"
+            },
+            {
+              "end": 29,
+              "id": "1409516495571501066",
+              "start": 17,
+              "username": "DrankghostU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062656851641299173",
+        "in_reply_to_user_id": "1974865605204586498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062595124585251088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuroki___tomoko @DrankghostU 好美丽…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 355,
+          "like_count": 3741,
+          "listed_count": 2,
+          "media_count": 107,
+          "tweet_count": 1273
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-05T15:54:07.000Z",
+        "description": "此世即吾世 如月满无缺  @yuyaovo7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 13,
+                "username": "yuyaovo7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurokisama",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kurokisama",
+                "start": 0,
+                "url": "https://t.co/qIBG0cFbha"
+              }
+            ]
+          }
+        },
+        "id": "1974865605204586498",
+        "location": "克拉斯诺亚尔斯克",
+        "name": "黒木トモコ",
+        "pinned_tweet_id": "2058502626896167168",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038452725957201920/996GCo3n_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1420,
+          "following_count": 2667,
+          "like_count": 46528,
+          "listed_count": 2,
+          "media_count": 343,
+          "tweet_count": 4312
+        },
+        "url": "https://t.co/qIBG0cFbha",
+        "username": "kuroki___tomoko",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T14:18:23.000Z",
+        "description": "被msk气哭了。\n前世@SaotomeShimeri\n女宝互关熟了可以恰v \n男性推油请给恶魔死目莉的熔炼炉投入52cny喵😤\n没有喜欢死目莉的觉悟的人不能靠近死目莉！😤😤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "SaotomeShimeri"
+              }
+            ]
+          }
+        },
+        "id": "1409516495571501066",
+        "name": "早乙女死目莉2.0",
+        "pinned_tweet_id": "2062521015922749816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058389276015120384/ihPt3Trh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 180,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 395
+        },
+        "username": "DrankghostU",
+        "verified": false
+      }
+    ]
+  }
+}

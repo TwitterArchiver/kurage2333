@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034330833625251840",
+        "3_2034330833625223168"
+      ]
+    },
+    "author_id": "1987604380896600064",
+    "conversation_id": "2034330844555583763",
+    "created_at": "2026-03-18T18:07:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T19:07:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034330844555583763"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QRwVPH6JvZ",
+          "end": 114,
+          "expanded_url": "https://x.com/kurage2333/status/2034330844555583763/photo/1",
+          "media_key": "3_2034330833625251840",
+          "start": 91,
+          "url": "https://t.co/QRwVPH6JvZ"
+        },
+        {
+          "display_url": "pic.x.com/QRwVPH6JvZ",
+          "end": 114,
+          "expanded_url": "https://x.com/kurage2333/status/2034330844555583763/photo/1",
+          "media_key": "3_2034330833625223168",
+          "start": 91,
+          "url": "https://t.co/QRwVPH6JvZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034330844555583763",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "⁺.⊹ ᜊ𝑨𝒃𝒐𝒖𝒕 𝑴𝒆ᜊ ⊹.⁺\n09/焦虑症/抑郁症/自残/od/泛性恋\n平时喜欢看小说/画画/一/二次\n喜欢互fo！老大请和我互fo！！\n自残习惯：慢割叠刀/od：阿普牛逼 https://t.co/QRwVPH6JvZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1206,
+        "media_key": "3_2034330833625251840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDtlHWXbgAA4qqz.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1206,
+        "media_key": "3_2034330833625223168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDtlHWXbEAAEXGH.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034330833625251840",
+            "3_2034330833625223168"
+          ]
+        },
+        "author_id": "1987604380896600064",
+        "conversation_id": "2034330844555583763",
+        "created_at": "2026-03-18T18:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T19:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034330844555583763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QRwVPH6JvZ",
+              "end": 114,
+              "expanded_url": "https://x.com/kurage2333/status/2034330844555583763/photo/1",
+              "media_key": "3_2034330833625251840",
+              "start": 91,
+              "url": "https://t.co/QRwVPH6JvZ"
+            },
+            {
+              "display_url": "pic.x.com/QRwVPH6JvZ",
+              "end": 114,
+              "expanded_url": "https://x.com/kurage2333/status/2034330844555583763/photo/1",
+              "media_key": "3_2034330833625223168",
+              "start": 91,
+              "url": "https://t.co/QRwVPH6JvZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034330844555583763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "⁺.⊹ ᜊ𝑨𝒃𝒐𝒖𝒕 𝑴𝒆ᜊ ⊹.⁺\n09/焦虑症/抑郁症/自残/od/泛性恋\n平时喜欢看小说/画画/一/二次\n喜欢互fo！老大请和我互fo！！\n自残习惯：慢割叠刀/od：阿普牛逼 https://t.co/QRwVPH6JvZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼09/自傷/od/日常🪼互fo查成分咕噜咕噜..... 血臭臭的…. 🩵💙匿名信 https://t.co/RbZP1l5HyJ💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chabao",
+                "end": 65,
+                "expanded_url": "https://ngl.link/chabao",
+                "start": 42,
+                "url": "https://t.co/RbZP1l5HyJ"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 52,
+          "like_count": 951,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 183
+        },
+        "username": "kurage2333",
+        "verified": false
+      }
+    ]
+  }
+}

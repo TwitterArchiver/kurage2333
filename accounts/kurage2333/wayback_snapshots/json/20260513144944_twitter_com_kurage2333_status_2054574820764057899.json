@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2054535976538759663",
+    "created_at": "2026-05-13T14:49:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T15:49:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054574820764057899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1114936322890719232",
+          "start": 0,
+          "username": "Cangshengxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054574820764057899",
+    "in_reply_to_user_id": "1114936322890719232",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054573281743953956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cangshengxue ohnooo🥹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2054535976538759663",
+        "created_at": "2026-05-13T14:49:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T15:49:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054574820764057899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1114936322890719232",
+              "start": 0,
+              "username": "Cangshengxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054574820764057899",
+        "in_reply_to_user_id": "1114936322890719232",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054573281743953956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cangshengxue ohnooo🥹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1114936322890719232",
+        "conversation_id": "2054535976538759663",
+        "created_at": "2026-05-13T14:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T15:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054573281743953956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054573281743953956",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054563677177831441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 戒不掉呢。\n\n一开始是焦虑的时候才抽，稍微感觉缓解了一丝丝焦虑（缺氧晕出来的），后面变成不抽就会焦虑，焦虑的时候需要抽更多了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 287,
+          "like_count": 3466,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1017
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-07T17:01:48.000Z",
+        "description": "性别：男 /   ……偶尔会想起自己上推是为了看色图的。   /   或许是个很温柔的人  /   我会在这里喷射黑色泥浆   /   INFP-T   /   九型人格：2w1   /   泪失禁体质（日均哭三次）   /   音游苦手（菜但爱玩）  /    养猫的   /  认真打舞萌真的会分配地雷系女友吗？",
+        "id": "1114936322890719232",
+        "name": "037",
+        "pinned_tweet_id": "2053154289087131672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053148859459842048/_1MKjyF8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 560,
+          "like_count": 576,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 350
+        },
+        "username": "Cangshengxue",
+        "verified": false
+      }
+    ]
+  }
+}

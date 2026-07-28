@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2045490286923759709",
+    "created_at": "2026-04-18T13:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T14:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045490990103101761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1774124970962198528",
+          "start": 0,
+          "username": "wnga237531"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045490990103101761",
+    "in_reply_to_user_id": "1774124970962198528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045490915599684012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wnga237531 😭亲亲腻…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2045490286923759709",
+        "created_at": "2026-04-18T13:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T14:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045490990103101761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1774124970962198528",
+              "start": 0,
+              "username": "wnga237531"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045490990103101761",
+        "in_reply_to_user_id": "1774124970962198528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045490915599684012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wnga237531 😭亲亲腻…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774124970962198528",
+        "conversation_id": "2045490286923759709",
+        "created_at": "2026-04-18T13:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T14:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045490915599684012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045490915599684012",
+        "in_reply_to_user_id": "1774124970962198528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045490847035388199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 什么意思呀你怎么长那么萌🦌🦌🦌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼主人：@阿普唑仑 🩵💙互fo/大欢迎！💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 60,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 37,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 224,
+          "like_count": 2998,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 712
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T17:22:28.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/91svip",
+                "end": 23,
+                "expanded_url": "https://ngl.link/91svip",
+                "start": 0,
+                "url": "https://t.co/TbvTQFd4tr"
+              }
+            ]
+          }
+        },
+        "id": "1774124970962198528",
+        "name": "阿妍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039591025237524480/DtZ3Y3e-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 15,
+          "like_count": 555,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 69
+        },
+        "url": "https://t.co/TbvTQFd4tr",
+        "username": "wnga237531",
+        "verified": false
+      }
+    ]
+  }
+}

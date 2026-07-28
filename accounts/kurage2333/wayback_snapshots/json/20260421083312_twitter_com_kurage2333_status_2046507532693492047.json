@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2046507532693492047",
+    "created_at": "2026-04-21T08:33:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T09:33:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046507532693492047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 26,
+          "id": "1684269091849404416",
+          "start": 10,
+          "username": "hg3551019177402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046507532693492047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "招魂…12速速归来\n@hg3551019177402"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2046507532693492047",
+        "created_at": "2026-04-21T08:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T09:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046507532693492047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1684269091849404416",
+              "start": 10,
+              "username": "hg3551019177402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046507532693492047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "招魂…12速速归来\n@hg3551019177402"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼主人：@阿普唑仑 🩵💙互fo/大欢迎！💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 60,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 37,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 227,
+          "like_count": 3109,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 766
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "黑圣徒和白罪女 我主人@Orion2588 药物治疗精神病中（每天吃很多就是了），每天直播一下精神病日常，我的语言自知门里下贱20万bei。黑色柳丁：@rinii165892",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "Orion2588"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "rinii165892"
+              }
+            ]
+          }
+        },
+        "id": "1684269091849404416",
+        "name": "12",
+        "pinned_tweet_id": "2043934459041645045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045697198890119168/n-jopRK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 587,
+          "following_count": 557,
+          "like_count": 18610,
+          "listed_count": 0,
+          "media_count": 513,
+          "tweet_count": 8699
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      }
+    ]
+  }
+}

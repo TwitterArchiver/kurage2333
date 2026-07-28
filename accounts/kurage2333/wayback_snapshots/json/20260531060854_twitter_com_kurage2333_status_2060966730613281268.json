@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2060703457812811947",
+    "created_at": "2026-05-31T06:08:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T07:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060966730613281268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1834481927505522688",
+          "start": 0,
+          "username": "7_nodesu"
+        },
+        {
+          "end": 26,
+          "id": "1662317345367547904",
+          "start": 10,
+          "username": "lixianglix44773"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060966730613281268",
+    "in_reply_to_user_id": "1834481927505522688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060800456264143240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7_nodesu @lixianglix44773 就是啊！反正早晚都是你的😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2060703457812811947",
+        "created_at": "2026-05-31T06:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T07:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060966730613281268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1834481927505522688",
+              "start": 0,
+              "username": "7_nodesu"
+            },
+            {
+              "end": 26,
+              "id": "1662317345367547904",
+              "start": 10,
+              "username": "lixianglix44773"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060966730613281268",
+        "in_reply_to_user_id": "1834481927505522688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060800456264143240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7_nodesu @lixianglix44773 就是啊！反正早晚都是你的😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1834481927505522688",
+        "conversation_id": "2060703457812811947",
+        "created_at": "2026-05-30T19:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T20:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060800456264143240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            },
+            {
+              "end": 28,
+              "id": "1662317345367547904",
+              "start": 12,
+              "username": "lixianglix44773"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060800456264143240",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060795493551407456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 @lixianglix44773 什么时候我爸也能把这句话从口头上落实到行动里🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 341,
+          "like_count": 3590,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 1188
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-13T06:39:33.000Z",
+        "description": "キメラだよー",
+        "id": "1834481927505522688",
+        "location": "England, United Kingdom",
+        "name": "Shino",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053007435158142980/5b2ij4Lo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 581,
+          "like_count": 4411,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 2602
+        },
+        "username": "7_nodesu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T04:39:10.000Z",
+        "description": "",
+        "id": "1662317345367547904",
+        "name": "sosksknwj",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056795267576520704/QbYOaJCw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 76,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 137
+        },
+        "username": "lixianglix44773",
+        "verified": false
+      }
+    ]
+  }
+}

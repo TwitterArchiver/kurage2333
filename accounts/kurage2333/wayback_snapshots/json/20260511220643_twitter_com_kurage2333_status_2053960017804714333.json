@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2053855203951362284",
+    "created_at": "2026-05-11T22:06:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T23:06:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053960017804714333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1753116711899770880",
+          "start": 0,
+          "username": "elna_elvie9091"
+        },
+        {
+          "end": 32,
+          "id": "1684269091849404416",
+          "start": 16,
+          "username": "hg3551019177402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053960017804714333",
+    "in_reply_to_user_id": "1753116711899770880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053855203951362284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@elna_elvie9091 @hg3551019177402 操操操操操"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [hg3551019177402].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "hg3551019177402",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "hg3551019177402"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2053855203951362284",
+        "created_at": "2026-05-11T22:06:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T23:06:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053960017804714333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1753116711899770880",
+              "start": 0,
+              "username": "elna_elvie9091"
+            },
+            {
+              "end": 32,
+              "id": "1684269091849404416",
+              "start": 16,
+              "username": "hg3551019177402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053960017804714333",
+        "in_reply_to_user_id": "1753116711899770880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053855203951362284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@elna_elvie9091 @hg3551019177402 操操操操操"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753116711899770880",
+        "conversation_id": "2053855203951362284",
+        "created_at": "2026-05-11T15:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T16:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053855203951362284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1684269091849404416",
+              "start": 8,
+              "username": "hg3551019177402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053855203951362284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "赛博讣告\n推u @hg3551019177402传奇12大哥哥账号被无端冻结，转生时间待定，我们将暂时失去我们的队长🚬"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 68,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 45,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 285,
+          "like_count": 3356,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 948
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T18:03:02.000Z",
+        "description": "被炸了两次号了\n放过我吧 寻回互fo中～\n我🈹️ 我o 不涉政 直fo就是喜欢你～\nfo我的我全回！mtf全肯定！",
+        "id": "1753116711899770880",
+        "name": "霖附身中）可爱的11",
+        "pinned_tweet_id": "2053743558537125891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053746246196838400/-XI5NtCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 49,
+          "like_count": 70,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 74
+        },
+        "username": "elna_elvie9091",
+        "verified": false
+      }
+    ]
+  }
+}

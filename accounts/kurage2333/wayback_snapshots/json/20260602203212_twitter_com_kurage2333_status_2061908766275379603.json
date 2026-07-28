@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2061906616505839916",
+    "created_at": "2026-06-02T20:32:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T21:32:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061908766275379603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2061412735192383488",
+          "start": 0,
+          "username": "jm30k41"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061908766275379603",
+    "in_reply_to_user_id": "2061412735192383488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061906805085929931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jm30k41 🤤哇好持久"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2061906616505839916",
+        "created_at": "2026-06-02T20:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T21:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061908766275379603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2061412735192383488",
+              "start": 0,
+              "username": "jm30k41"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061908766275379603",
+        "in_reply_to_user_id": "2061412735192383488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061906805085929931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jm30k41 🤤哇好持久"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061412735192383488",
+        "conversation_id": "2061906616505839916",
+        "created_at": "2026-06-02T20:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T21:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061906805085929931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061906805085929931",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061906616505839916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 打半小时也不是不能接受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 349,
+          "like_count": 3663,
+          "listed_count": 2,
+          "media_count": 103,
+          "tweet_count": 1238
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T11:42:06.000Z",
+        "description": "坏了",
+        "id": "2061412735192383488",
+        "name": "私は",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061433831559970816/5iSCB29v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 31,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 85
+        },
+        "username": "jm30k41",
+        "verified": false
+      }
+    ]
+  }
+}

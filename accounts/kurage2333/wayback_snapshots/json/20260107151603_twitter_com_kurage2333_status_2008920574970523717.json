@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2008920574970523717",
+    "created_at": "2026-01-07T15:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T16:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008920574970523717"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2008920574970523717",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "天塌了，空气被空气凿了，要看吗。准备删了。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2008920574970523717",
+        "created_at": "2026-01-07T15:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T16:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008920574970523717"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008920574970523717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天塌了，空气被空气凿了，要看吗。准备删了。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼09/自傷🪼互fo查成分咕噜咕噜..... 血臭臭的….",
+        "id": "1987604380896600064",
+        "location": "地球外",
+        "name": "咕噜母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 44,
+          "like_count": 622,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 135
+        },
+        "username": "kurage2333",
+        "verified": false
+      }
+    ]
+  }
+}

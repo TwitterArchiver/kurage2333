@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045876167128109057"
+      ]
+    },
+    "author_id": "1987604380896600064",
+    "conversation_id": "2045876174392545589",
+    "created_at": "2026-04-19T14:44:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T15:44:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045876174392545589"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1ZhBNZRLMH",
+          "end": 27,
+          "expanded_url": "https://x.com/kurage2333/status/2045876174392545589/photo/1",
+          "media_key": "3_2045876167128109057",
+          "start": 4,
+          "url": "https://t.co/1ZhBNZRLMH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045876174392545589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你谁。 https://t.co/1ZhBNZRLMH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1206,
+        "media_key": "3_2045876167128109057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRpiNQb0AE4Cir.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045876167128109057"
+          ]
+        },
+        "author_id": "1987604380896600064",
+        "conversation_id": "2045876174392545589",
+        "created_at": "2026-04-19T14:44:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045876174392545589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ZhBNZRLMH",
+              "end": 27,
+              "expanded_url": "https://x.com/kurage2333/status/2045876174392545589/photo/1",
+              "media_key": "3_2045876167128109057",
+              "start": 4,
+              "url": "https://t.co/1ZhBNZRLMH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045876174392545589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你谁。 https://t.co/1ZhBNZRLMH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼主人：@阿普唑仑 🩵💙互fo/大欢迎！💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 60,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 37,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 223,
+          "like_count": 3042,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 735
+        },
+        "username": "kurage2333",
+        "verified": false
+      }
+    ]
+  }
+}

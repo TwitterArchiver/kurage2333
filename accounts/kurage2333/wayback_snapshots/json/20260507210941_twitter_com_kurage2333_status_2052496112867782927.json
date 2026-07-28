@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2052136281350787427",
+    "created_at": "2026-05-07T21:09:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T22:09:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052496112867782927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1476198137589268480",
+          "start": 0,
+          "username": "N3kuv"
+        },
+        {
+          "end": 21,
+          "id": "1937073350750466048",
+          "start": 7,
+          "username": "karo269640607"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052496112867782927",
+    "in_reply_to_user_id": "1476198137589268480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052445571110015065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N3kuv @karo269640607 是的是的是的😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2052136281350787427",
+        "created_at": "2026-05-07T21:09:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T22:09:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052496112867782927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1476198137589268480",
+              "start": 0,
+              "username": "N3kuv"
+            },
+            {
+              "end": 21,
+              "id": "1937073350750466048",
+              "start": 7,
+              "username": "karo269640607"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052496112867782927",
+        "in_reply_to_user_id": "1476198137589268480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052445571110015065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N3kuv @karo269640607 是的是的是的😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476198137589268480",
+        "conversation_id": "2052136281350787427",
+        "created_at": "2026-05-07T17:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T18:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052445571110015065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            },
+            {
+              "end": 26,
+              "id": "1937073350750466048",
+              "start": 12,
+              "username": "karo269640607"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052445571110015065",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052136281350787427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 @karo269640607 其实我们抑郁症都是女巫，我们会在浴室里面哭着唱我真的爱你。我们再也不害怕听这首歌了好吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼主人：@阿普唑仑 🩵💙互fo/大欢迎！💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 60,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 37,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 255,
+          "like_count": 3264,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 897
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T14:29:24.000Z",
+        "description": "你懂的没我多",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekuv",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekuv",
+                "start": 0,
+                "url": "https://t.co/N9ufw9zoWZ"
+              }
+            ]
+          }
+        },
+        "id": "1476198137589268480",
+        "location": "提问箱：",
+        "name": "马戏猫",
+        "pinned_tweet_id": "2047967882492187005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052429741299257347/SO6e9lld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 328,
+          "like_count": 4191,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1222
+        },
+        "url": "https://t.co/N9ufw9zoWZ",
+        "username": "N3kuv",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T09:01:20.000Z",
+        "description": "o割餐券 |  虚无主义 | 顺女女同 | 生物化学药理板绘❤️ | 同类互fo | 使用英文和简体中文|讨厌一切宗教 |恐游像素RPG爱好者|任何物种或性取向欢迎 | 化学极乐 | 基佬孝女言切 衛拓拒拆逆、生化里昂右向全肯定| 骂我的全家替我挡灾",
+        "id": "1937073350750466048",
+        "name": "请代我看看这个世界",
+        "pinned_tweet_id": "2039982674664960247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028587877639045120/B1wypVK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 445,
+          "like_count": 23841,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 4231
+        },
+        "username": "karo269640607",
+        "verified": false
+      }
+    ]
+  }
+}

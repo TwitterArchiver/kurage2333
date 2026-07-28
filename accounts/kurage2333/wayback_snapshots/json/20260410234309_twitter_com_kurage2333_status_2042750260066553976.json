@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2042359797476192358",
+    "created_at": "2026-04-10T23:43:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T00:43:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042750260066553976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2016171535179120642",
+          "start": 0,
+          "username": "xiedielianyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042750260066553976",
+    "in_reply_to_user_id": "2016171535179120642",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042705680310898812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiedielianyu 我不行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1604,
+        "media_key": "3_2042705677894979584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFkl_ceakAA4Fky.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2042359797476192358",
+        "created_at": "2026-04-10T23:43:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T00:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042750260066553976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2016171535179120642",
+              "start": 0,
+              "username": "xiedielianyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042750260066553976",
+        "in_reply_to_user_id": "2016171535179120642",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042705680310898812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiedielianyu 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042705677894979584"
+          ]
+        },
+        "author_id": "2016171535179120642",
+        "conversation_id": "2042359797476192358",
+        "created_at": "2026-04-10T20:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T21:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042705680310898812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dFB0Pvh1WB",
+              "end": 39,
+              "expanded_url": "https://x.com/xiedielianyu/status/2042705680310898812/photo/1",
+              "media_key": "3_2042705677894979584",
+              "start": 16,
+              "url": "https://t.co/dFB0Pvh1WB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042705680310898812",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042359797476192358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 我也（ https://t.co/dFB0Pvh1WB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口🪼主人：@阿普唑仑 🩵💙匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 45,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 22,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 133,
+          "like_count": 2647,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 532
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T15:29:10.000Z",
+        "description": "出厂日期2010.2.17，可以叫我谢雨或者糖衣，欢迎来找我聊天呀！（求你们了找我聊天吧😭）",
+        "id": "2016171535179120642",
+        "name": "谢蝶恋雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042537665296220160/5MYCEZpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 17,
+          "like_count": 68,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 121
+        },
+        "username": "xiedielianyu",
+        "verified": false
+      }
+    ]
+  }
+}

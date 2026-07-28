@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2064712668452393050",
+    "created_at": "2026-06-10T18:10:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T19:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064772154902892596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1753116711899770880",
+          "start": 0,
+          "username": "elna_elvie9091"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064772154902892596",
+    "in_reply_to_user_id": "1753116711899770880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064712668452393050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@elna_elvie9091 我爱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2064712668452393050",
+        "created_at": "2026-06-10T18:10:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T19:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064772154902892596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1753116711899770880",
+              "start": 0,
+              "username": "elna_elvie9091"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064772154902892596",
+        "in_reply_to_user_id": "1753116711899770880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064712668452393050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@elna_elvie9091 我爱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753116711899770880",
+        "conversation_id": "2064712668452393050",
+        "created_at": "2026-06-10T14:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064712668452393050"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064712668452393050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是笨蛋傻逼低能儿，，我不会聊天，我爱你们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 0,
+          "like_count": 8,
+          "listed_count": 2,
+          "media_count": 109,
+          "tweet_count": 1309
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T18:03:02.000Z",
+        "description": "寻回互fo\n大号@Shivam3228\n牛马号@2Pikus💊@BhawnaniSamit",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 30,
+                "start": 23,
+                "username": "2Pikus"
+              },
+              {
+                "end": 45,
+                "start": 31,
+                "username": "BhawnaniSamit"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/zUzSoYcfrf"
+              }
+            ]
+          }
+        },
+        "id": "1753116711899770880",
+        "location": "你身后",
+        "name": "一个数字",
+        "pinned_tweet_id": "2064225379548901404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062219571063652352/fkkLNX-F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 259,
+          "like_count": 1120,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 512
+        },
+        "url": "https://t.co/zUzSoYcfrf",
+        "username": "elna_elvie9091",
+        "verified": false
+      }
+    ]
+  }
+}

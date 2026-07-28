@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2054486991123964208",
+    "created_at": "2026-05-14T07:00:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T08:00:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054819095410086233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1937073350750466048",
+          "start": 0,
+          "username": "karo269640607"
+        },
+        {
+          "end": 29,
+          "id": "2050073911635894272",
+          "start": 15,
+          "username": "Lomyral114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054819095410086233",
+    "in_reply_to_user_id": "1937073350750466048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054486991123964208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karo269640607 @Lomyral114514 宝宝互fo吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2054486991123964208",
+        "created_at": "2026-05-14T07:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T08:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054819095410086233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1937073350750466048",
+              "start": 0,
+              "username": "karo269640607"
+            },
+            {
+              "end": 29,
+              "id": "2050073911635894272",
+              "start": 15,
+              "username": "Lomyral114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054819095410086233",
+        "in_reply_to_user_id": "1937073350750466048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054486991123964208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karo269640607 @Lomyral114514 宝宝互fo吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937073350750466048",
+        "conversation_id": "2054486991123964208",
+        "created_at": "2026-05-13T09:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T10:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054486991123964208"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054486991123964208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 552,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我需要，，互关，，，互关、、、"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 298,
+          "like_count": 3510,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1055
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-23T09:01:20.000Z",
+        "description": "o割餐券 |  虚无主义 | 顺女女同 | 生物化学药理板绘❤️ | 同类互fo | 使用英文和简体中文|讨厌一切宗教 |恐游像素RPG爱好者|任何物种或性取向欢迎 | 化学极乐 | 基佬孝女言切 衛拓拒拆逆、生化里昂右向全肯定| 骂我的全家替我挡灾",
+        "id": "1937073350750466048",
+        "name": "请代我看看这个世界",
+        "pinned_tweet_id": "2039982674664960247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028587877639045120/B1wypVK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 490,
+          "like_count": 26114,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 4680
+        },
+        "username": "karo269640607",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "description": "enby，he/they，无浪漫倾向泛性恋。\nINTP/重抑中焦。\n不吸毒，不贩卖任何东西，不提供任何付费服务。\n这里是三号机，互关寻回中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/nRrn3eYjVb"
+              }
+            ]
+          }
+        },
+        "id": "2050073911635894272",
+        "location": "The other side of paradise",
+        "name": "Lomyral 3.0(已老实)",
+        "pinned_tweet_id": "2050075879972495728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 440,
+          "like_count": 2463,
+          "listed_count": 2,
+          "media_count": 25,
+          "tweet_count": 778
+        },
+        "url": "https://t.co/nRrn3eYjVb",
+        "username": "Lomyral114514",
+        "verified": false
+      }
+    ]
+  }
+}

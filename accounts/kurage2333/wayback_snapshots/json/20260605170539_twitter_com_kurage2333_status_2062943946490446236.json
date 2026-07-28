@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2062859663880978760",
+    "created_at": "2026-06-05T17:05:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T18:05:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062943946490446236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2060275003996942336",
+          "start": 0,
+          "username": "d9o3bo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062943946490446236",
+    "in_reply_to_user_id": "2060275003996942336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062859663880978760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@d9o3bo ？为什么要淫叫"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2668,
+        "height": 1280,
+        "media_key": "7_2062859632574660608",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2062859632574660608/pu/img/EwvbsxoDJDZXL_LH.jpg",
+        "public_metrics": {
+          "view_count": 13
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062859632574660608/pu/vid/avc1/320x568/ZYlijXDSkuTWvKKL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062859632574660608/pu/vid/avc1/480x852/PJ4eUMQJksSNF1LM.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2062859632574660608/pu/vid/avc1/720x1280/f8t9FCXy6mgmVMWX.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2062859632574660608/pu/pl/l21hXkWZ1SauLzZD.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2062859663880978760",
+        "created_at": "2026-06-05T17:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T18:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062943946490446236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2060275003996942336",
+              "start": 0,
+              "username": "d9o3bo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062943946490446236",
+        "in_reply_to_user_id": "2060275003996942336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062859663880978760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@d9o3bo ？为什么要淫叫"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2062859632574660608"
+          ]
+        },
+        "author_id": "2060275003996942336",
+        "conversation_id": "2062859663880978760",
+        "created_at": "2026-06-05T11:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T12:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062859663880978760"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cpIEvONqMi",
+              "end": 23,
+              "expanded_url": "https://x.com/d9o3bo/status/2062859663880978760/video/1",
+              "media_key": "7_2062859632574660608",
+              "start": 0,
+              "url": "https://t.co/cpIEvONqMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062859663880978760",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cpIEvONqMi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 353,
+          "like_count": 3750,
+          "listed_count": 2,
+          "media_count": 108,
+          "tweet_count": 1280
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-29T08:20:39.000Z",
+        "description": "死去的亡灵/阴暗的蠕虫/对着墙说话",
+        "id": "2060275003996942336",
+        "name": "十二（自闭版）",
+        "pinned_tweet_id": "2062445880414970103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060275274084966400/svgJZZH__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 20,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 166
+        },
+        "username": "d9o3bo",
+        "verified": false
+      }
+    ]
+  }
+}

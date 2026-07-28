@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2042626077286371344",
+    "created_at": "2026-04-10T15:29:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T16:29:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042626077286371344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2031715041196875776",
+          "start": 3,
+          "username": "wu_si114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042626077286371344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042559929110982971",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wu_si114514: @医生 给我开2000瓶阿普唑仑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2042626077286371344",
+        "created_at": "2026-04-10T15:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T16:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042626077286371344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2031715041196875776",
+              "start": 3,
+              "username": "wu_si114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042626077286371344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042559929110982971",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wu_si114514: @医生 给我开2000瓶阿普唑仑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031715041196875776",
+        "conversation_id": "2042559929110982971",
+        "created_at": "2026-04-10T11:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042559929110982971"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042559929110982971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@医生 给我开2000瓶阿普唑仑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口🪼主人：@阿普唑仑 🩵💙匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 45,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 22,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 133,
+          "like_count": 2638,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 523
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-11T12:53:23.000Z",
+        "description": "白兔就是垃圾臭傻逼\nsb msk wcnm \n@rinii165892 的最强嘴替 缓慢回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "rinii165892"
+              }
+            ]
+          }
+        },
+        "id": "2031715041196875776",
+        "location": "msk坟头",
+        "name": "2.雨木木（完全仇恨邪恶msk）",
+        "pinned_tweet_id": "2040146886708109777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031760424920883200/DV4uG4Xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 243,
+          "like_count": 569,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 480
+        },
+        "username": "wu_si114514",
+        "verified": false
+      }
+    ]
+  }
+}

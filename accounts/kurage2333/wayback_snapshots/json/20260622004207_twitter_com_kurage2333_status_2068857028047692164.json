@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2068841065768194064",
+    "created_at": "2026-06-22T00:42:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T01:42:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068857028047692164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1829867271592026112",
+          "start": 0,
+          "username": "Shivam3228"
+        },
+        {
+          "end": 28,
+          "id": "1880803334405435393",
+          "start": 12,
+          "username": "tiantmaoshenshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068857028047692164",
+    "in_reply_to_user_id": "1829867271592026112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068841065768194064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shivam3228 @tiantmaoshenshi 带几天口球啊😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068841056603648000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLX_-tOasAAN5Pi.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2068841065768194064",
+        "created_at": "2026-06-22T00:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T01:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068857028047692164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1829867271592026112",
+              "start": 0,
+              "username": "Shivam3228"
+            },
+            {
+              "end": 28,
+              "id": "1880803334405435393",
+              "start": 12,
+              "username": "tiantmaoshenshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068857028047692164",
+        "in_reply_to_user_id": "1829867271592026112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068841065768194064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shivam3228 @tiantmaoshenshi 带几天口球啊😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068841056603648000"
+          ]
+        },
+        "author_id": "1829867271592026112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068841065768194064",
+        "created_at": "2026-06-21T23:38:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T00:38:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068841065768194064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1880803334405435393",
+              "start": 12,
+              "username": "tiantmaoshenshi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XSYJHJON3D",
+              "end": 52,
+              "expanded_url": "https://x.com/Shivam3228/status/2068841065768194064/photo/1",
+              "media_key": "3_2068841056603648000",
+              "start": 29,
+              "url": "https://t.co/XSYJHJON3D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068841065768194064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "钰钰惨遭口球😭😭😭🤩😡😡@tiantmaoshenshi https://t.co/XSYJHJON3D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 340,
+          "like_count": 3816,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 1330
+        },
+        "url": "",
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "【寻回互fo】\n📍广州/🇯🇵/12-09-17/IB牛马国际生。\n精神病碎碎念清水推 电子宠物\n已上岸躺尸中zz🥰（剧烈啃英语。）\n热爱互动但被带口球……🚬\n小号@Paramjitt\n牛马💊@idris21000\n负能碎碎念@yumumu_msknb\n欧金金@niconekkod",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 81,
+                "username": "Paramjitt"
+              },
+              {
+                "end": 106,
+                "start": 95,
+                "username": "idris21000"
+              },
+              {
+                "end": 125,
+                "start": 112,
+                "username": "yumumu_msknb"
+              },
+              {
+                "end": 140,
+                "start": 129,
+                "username": "niconekkod"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/VZKn4nRWhn"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2068570914644779519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068272596580503552/tfkvYV74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 453,
+          "like_count": 1636,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 871
+        },
+        "url": "https://t.co/VZKn4nRWhn",
+        "username": "Shivam3228",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-19T02:24:18.000Z",
+        "description": "靠近才能了解的兔子     \n负能量警告⚠️     \n2.3次元人     \n不是好人     \n双相精分犯抽的时候会很烦，对不起，请蔽我     \n不发推就是在现生/思考/浮起     \n来和我交朋友互fo吧(`･ω･´)ゞ     \n临死前必须捅死恋人的那种🤤",
+        "id": "1880803334405435393",
+        "location": "中北海",
+        "name": "锦玉茉莉",
+        "pinned_tweet_id": "2062000701300244929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973409019516821504/5wMTL0Wa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 831,
+          "like_count": 11066,
+          "listed_count": 0,
+          "media_count": 226,
+          "tweet_count": 6312
+        },
+        "url": "",
+        "username": "tiantmaoshenshi",
+        "verified": false
+      }
+    ]
+  }
+}

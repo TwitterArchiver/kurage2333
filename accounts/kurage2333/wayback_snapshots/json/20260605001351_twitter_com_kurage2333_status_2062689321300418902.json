@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062689313159311360"
+      ]
+    },
+    "author_id": "1987604380896600064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2062056197604454589",
+    "created_at": "2026-06-05T00:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T01:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062689321300418902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1840695204271247360",
+          "start": 0,
+          "username": "yshidhe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S1n638znFh",
+          "end": 45,
+          "expanded_url": "https://x.com/kurage2333/status/2062689321300418902/photo/1",
+          "media_key": "3_2062689313159311360",
+          "start": 22,
+          "url": "https://t.co/S1n638znFh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062689321300418902",
+    "in_reply_to_user_id": "1840695204271247360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062056197604454589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yshidhe 我气死了。 一直不出皮肤 https://t.co/S1n638znFh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 942,
+        "media_key": "3_2062689313159311360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKAlAHDa8AAEIX5.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1170,
+        "media_key": "3_2062056190209851392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3lLgRagAA-AvS.jpg",
+        "width": 2532
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062689313159311360"
+          ]
+        },
+        "author_id": "1987604380896600064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062056197604454589",
+        "created_at": "2026-06-05T00:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T01:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062689321300418902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1840695204271247360",
+              "start": 0,
+              "username": "yshidhe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S1n638znFh",
+              "end": 45,
+              "expanded_url": "https://x.com/kurage2333/status/2062689321300418902/photo/1",
+              "media_key": "3_2062689313159311360",
+              "start": 22,
+              "url": "https://t.co/S1n638znFh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062689321300418902",
+        "in_reply_to_user_id": "1840695204271247360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062056197604454589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yshidhe 我气死了。 一直不出皮肤 https://t.co/S1n638znFh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062056190209851392"
+          ]
+        },
+        "author_id": "1840695204271247360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062056197604454589",
+        "created_at": "2026-06-03T06:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062056197604454589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n8S7Qyj6jl",
+              "end": 28,
+              "expanded_url": "https://x.com/yshidhe/status/2062056197604454589/photo/1",
+              "media_key": "3_2062056190209851392",
+              "start": 5,
+              "url": "https://t.co/n8S7Qyj6jl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062056197604454589",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 492,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "20抽~ https://t.co/n8S7Qyj6jl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 355,
+          "like_count": 3744,
+          "listed_count": 2,
+          "media_count": 108,
+          "tweet_count": 1275
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-30T10:08:39.000Z",
+        "description": "要升天了呢♱♡‿♡♰(病嬌/地雷~)\n♡抑鬱焦慮♡會自殘🈹od💊喔\n跟我聊天要先看自介噢\n理人 @roki_qnq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "roki_qnq"
+              }
+            ]
+          }
+        },
+        "id": "1840695204271247360",
+        "name": "ゆうく；已壞掉",
+        "pinned_tweet_id": "2062530382063607828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033847648617435136/uN-3c_Ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1009,
+          "following_count": 86,
+          "like_count": 3494,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 2678
+        },
+        "username": "yshidhe",
+        "verified": true
+      }
+    ]
+  }
+}

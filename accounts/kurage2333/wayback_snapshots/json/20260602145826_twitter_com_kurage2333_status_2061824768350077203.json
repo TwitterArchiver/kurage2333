@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2061692565246885936",
+    "created_at": "2026-06-02T14:58:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T15:58:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061824768350077203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2058484419581870080",
+          "start": 0,
+          "username": "12S1dsb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061824768350077203",
+    "in_reply_to_user_id": "2058484419581870080",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061692565246885936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@12S1dsb 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2061692565246885936",
+        "created_at": "2026-06-02T14:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061824768350077203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2058484419581870080",
+              "start": 0,
+              "username": "12S1dsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061824768350077203",
+        "in_reply_to_user_id": "2058484419581870080",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061692565246885936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@12S1dsb 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058484419581870080",
+        "conversation_id": "2061692565246885936",
+        "created_at": "2026-06-02T06:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T07:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061692565246885936"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061692565246885936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这号快死了，回复又消失了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 340,
+          "like_count": 3633,
+          "listed_count": 2,
+          "media_count": 101,
+          "tweet_count": 1218
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-24T09:45:49.000Z",
+        "description": "从出生没少往死里嗫，打那起多活一天都是赚的/烟袋，有需要询问啊/死肥猪m你越骂我越开心/我要戒烟",
+        "id": "2058484419581870080",
+        "location": "Jiput, Indonesia",
+        "name": "叫我12就好了",
+        "pinned_tweet_id": "2061692565246885936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058493615861907457/hNojcrDP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 137,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 222
+        },
+        "username": "12S1dsb",
+        "verified": false
+      }
+    ]
+  }
+}

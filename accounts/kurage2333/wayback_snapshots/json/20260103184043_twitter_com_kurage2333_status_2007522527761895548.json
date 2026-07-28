@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2007522527761895548",
+    "created_at": "2026-01-03T18:40:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T19:40:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007522527761895548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1816042391604015104",
+          "start": 3,
+          "username": "tao1865453"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007522527761895548",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007415365895430320",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tao1865453: 仅仅三天就把2026过得像屎一样…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2007522527761895548",
+        "created_at": "2026-01-03T18:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T19:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007522527761895548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1816042391604015104",
+              "start": 3,
+              "username": "tao1865453"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007522527761895548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007415365895430320",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tao1865453: 仅仅三天就把2026过得像屎一样…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816042391604015104",
+        "conversation_id": "2007415365895430320",
+        "created_at": "2026-01-03T11:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T12:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007415365895430320"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007415365895430320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3847,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "仅仅三天就把2026过得像屎一样…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼09/自傷🪼互fo查完成分就通过（很好过的 咕噜咕噜..... 血臭臭的….",
+        "id": "1987604380896600064",
+        "location": "地球外",
+        "name": "咕噜母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 32,
+          "like_count": 385,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 94
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T09:27:10.000Z",
+        "description": "07 窝有厌蠢症 置顶推广自辨 私信只回复过门和礼貌的问题^ω^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b1.达蒙.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://b1.xn--hv1a41u.com/#/register?code=wFHzjTH0",
+                "start": 0,
+                "url": "https://t.co/2jN9lIWsDt"
+              }
+            ]
+          }
+        },
+        "id": "1816042391604015104",
+        "location": "🚪188/520",
+        "name": "玩具",
+        "pinned_tweet_id": "2007311581252841492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000592635984277504/gwkJf5pq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12789,
+          "following_count": 281,
+          "like_count": 14820,
+          "listed_count": 9,
+          "media_count": 193,
+          "tweet_count": 5873
+        },
+        "url": "https://t.co/2jN9lIWsDt",
+        "username": "tao1865453",
+        "verified": false
+      }
+    ]
+  }
+}

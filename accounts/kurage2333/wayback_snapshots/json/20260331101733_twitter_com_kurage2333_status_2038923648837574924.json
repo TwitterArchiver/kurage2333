@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2038923492134105088"
+      ]
+    },
+    "author_id": "1987604380896600064",
+    "conversation_id": "2038923648837574924",
+    "created_at": "2026-03-31T10:17:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T11:17:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038923648837574924"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Tde48ev6Pm",
+          "end": 26,
+          "expanded_url": "https://x.com/kurage2333/status/2038923648837574924/video/1",
+          "media_key": "13_2038923492134105088",
+          "start": 3,
+          "url": "https://t.co/Tde48ev6Pm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038923648837574924",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啦啦 https://t.co/Tde48ev6Pm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21725,
+        "height": 810,
+        "media_key": "13_2038923492134105088",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2038923492134105088/img/GxBDsHJDx-C3dTYA.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038923492134105088/vid/avc1/320x360/1b7oMzj2Tz1gycVl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038923492134105088/vid/avc1/480x540/w3GHnlZrKShugFA2.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038923492134105088/vid/avc1/720x810/i4GkGw9seXbvS0YW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2038923492134105088/pl/9Ic7k-pt-WWBwGMW.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038923492134105088"
+          ]
+        },
+        "author_id": "1987604380896600064",
+        "conversation_id": "2038923648837574924",
+        "created_at": "2026-03-31T10:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T11:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038923648837574924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tde48ev6Pm",
+              "end": 26,
+              "expanded_url": "https://x.com/kurage2333/status/2038923648837574924/video/1",
+              "media_key": "13_2038923492134105088",
+              "start": 3,
+              "url": "https://t.co/Tde48ev6Pm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038923648837574924",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啦啦 https://t.co/Tde48ev6Pm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口🪼咕噜咕噜..... 血臭臭的…. 🩵💙匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 53,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 30,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 96,
+          "like_count": 2025,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 341
+        },
+        "username": "kurage2333",
+        "verified": false
+      }
+    ]
+  }
+}

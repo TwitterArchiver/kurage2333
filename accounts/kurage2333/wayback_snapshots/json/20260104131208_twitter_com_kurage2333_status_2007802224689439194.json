@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2007600191634067589",
+    "created_at": "2026-01-04T13:12:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T14:12:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007802224689439194"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1867691751013785600",
+          "start": 0,
+          "username": "moco_moco_202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007802224689439194",
+    "in_reply_to_user_id": "1867691751013785600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007799362404131230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moco_moco_202 ✨癒される〜✨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2007600191634067589",
+        "created_at": "2026-01-04T13:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T14:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007802224689439194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1867691751013785600",
+              "start": 0,
+              "username": "moco_moco_202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007802224689439194",
+        "in_reply_to_user_id": "1867691751013785600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007799362404131230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moco_moco_202 ✨癒される〜✨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867691751013785600",
+        "conversation_id": "2007600191634067589",
+        "created_at": "2026-01-04T13:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T14:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007799362404131230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007799362404131230",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007782606881071385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 ベルーガたち、口角がいつも上がってて、とっても可愛いんです😍幸せな気分にしてくれますよね✨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼09/自傷🪼互fo查成分咕噜咕噜..... 血臭臭的….",
+        "id": "1987604380896600064",
+        "location": "地球外",
+        "name": "咕噜母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 33,
+          "like_count": 446,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 107
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T22:03:47.000Z",
+        "description": "水族館にハマり始めました🐬 名古屋港水族館中心です🐬🐧🐟🐠 水族館写真は初心者です🔰いろいろ勉強してたくさん思い出📷残したいです😊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/diary_moco?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/diary_moco?igsh=MTduOHlyN3I5cnE0YQ==",
+                "start": 0,
+                "url": "https://t.co/6BmwTfDg2q"
+              }
+            ]
+          }
+        },
+        "id": "1867691751013785600",
+        "name": "moco",
+        "pinned_tweet_id": "2005650317854355659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994565915854438400/FrveFUY8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 71,
+          "like_count": 2065,
+          "listed_count": 0,
+          "media_count": 361,
+          "tweet_count": 836
+        },
+        "url": "https://t.co/6BmwTfDg2q",
+        "username": "moco_moco_202",
+        "verified": false
+      }
+    ]
+  }
+}

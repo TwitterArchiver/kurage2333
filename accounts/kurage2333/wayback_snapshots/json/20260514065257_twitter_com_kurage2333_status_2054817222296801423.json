@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2054626232466334067",
+    "created_at": "2026-05-14T06:52:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T07:52:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054817222296801423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2043952988557803520",
+          "start": 0,
+          "username": "tngxngxng13171"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054817222296801423",
+    "in_reply_to_user_id": "2043952988557803520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054626232466334067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tngxngxng13171 不死身ごっこしよ　血を吐いてダンスしよ\n來玩假扮不死之身的遊戲吧　來邊吐血邊起舞吧\n100%死んじゃう未来は忘れて　いえい\n把100%會死的未來都忘掉吧　YAY\n不死身ごっこしよ　骨になっても好きだよ\n來玩假扮不死之身的遊戲吧　就算化成白骨我也喜歡你唷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2054626232466334067",
+        "created_at": "2026-05-14T06:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T07:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054817222296801423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2043952988557803520",
+              "start": 0,
+              "username": "tngxngxng13171"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054817222296801423",
+        "in_reply_to_user_id": "2043952988557803520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054626232466334067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tngxngxng13171 不死身ごっこしよ　血を吐いてダンスしよ\n來玩假扮不死之身的遊戲吧　來邊吐血邊起舞吧\n100%死んじゃう未来は忘れて　いえい\n把100%會死的未來都忘掉吧　YAY\n不死身ごっこしよ　骨になっても好きだよ\n來玩假扮不死之身的遊戲吧　就算化成白骨我也喜歡你唷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043952988557803520",
+        "conversation_id": "2054626232466334067",
+        "created_at": "2026-05-13T18:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T19:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054626232466334067"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054626232466334067",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的可以結束嗎？\n我根本就是不死之身呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 297,
+          "like_count": 3507,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1052
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T07:22:50.000Z",
+        "description": "互联网的堕天使/白骑士综合征/地雷/餐券/病弱/抖M/恋痛/生理双性/无性别主义者/永远怀念 @AAAAAMTxT /互fo寻回中... \n\n主坑prsk/主推宵崎奏、晓山瑞希、望月穗波、日野森志步/团推Leoneed&25时/会出一些相关的cos\n\n副坑神椿/喜欢可不的歌声",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "AAAAAMTxT"
+              }
+            ]
+          }
+        },
+        "id": "2043952988557803520",
+        "location": "Hong Kong",
+        "name": "可不敢乱说",
+        "pinned_tweet_id": "2054702438100398418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048446214245691392/lQgtgY8z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 183,
+          "like_count": 2956,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 401
+        },
+        "username": "tngxngxng13171",
+        "verified": false
+      }
+    ]
+  }
+}

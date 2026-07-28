@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2041996206675783942",
+    "created_at": "2026-04-09T09:54:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T10:54:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042179277513429166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1774124970962198528",
+          "start": 0,
+          "username": "wnga237531"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042179277513429166",
+    "in_reply_to_user_id": "1774124970962198528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041996206675783942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wnga237531 不要这样我会心疼的 抱抱小宝😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2041996204347944961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFagupja8AEt0Hw.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2041996206675783942",
+        "created_at": "2026-04-09T09:54:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T10:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042179277513429166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1774124970962198528",
+              "start": 0,
+              "username": "wnga237531"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042179277513429166",
+        "in_reply_to_user_id": "1774124970962198528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041996206675783942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wnga237531 不要这样我会心疼的 抱抱小宝😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041996204347944961"
+          ]
+        },
+        "author_id": "1774124970962198528",
+        "conversation_id": "2041996206675783942",
+        "created_at": "2026-04-08T21:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T22:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041996206675783942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oCByAdySMe",
+              "end": 69,
+              "expanded_url": "https://x.com/wnga237531/status/2041996206675783942/photo/1",
+              "media_key": "3_2041996204347944961",
+              "start": 46,
+              "url": "https://t.co/oCByAdySMe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041996206675783942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "原来认识一年的朋友比不上两三个月的吗。好难受好难受好难受好难受呀活着干啥受罪吗我操你妈呢。 https://t.co/oCByAdySMe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口🪼主人：@阿普唑仑 🩵💙匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 45,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 22,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 133,
+          "like_count": 2593,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 493
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T17:22:28.000Z",
+        "description": "",
+        "id": "1774124970962198528",
+        "name": "阿妍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039591025237524480/DtZ3Y3e-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 12,
+          "like_count": 478,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 38
+        },
+        "username": "wnga237531",
+        "verified": false
+      }
+    ]
+  }
+}

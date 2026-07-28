@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2049445721716445256",
+    "created_at": "2026-04-29T17:40:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T18:40:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049544318294364547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "hg3551019177402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049544318294364547",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049445721716445256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hg3551019177402 这个！好好看！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8797,
+        "height": 1280,
+        "media_key": "7_2049445684752105472",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2049445684752105472/pu/img/ipFjaO4dsMuWpV3j.jpg",
+        "public_metrics": {
+          "view_count": 177
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049445684752105472/pu/vid/avc1/320x568/QWgZtEBUtWpc3flD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049445684752105472/pu/vid/avc1/480x852/ReEqo9R3lF6mZgcV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049445684752105472/pu/vid/avc1/720x1280/O_8M2RZA7LbFwJaA.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2049445684752105472/pu/pl/7-Q5t0vzKb9eGnVO.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 9464,
+        "height": 1280,
+        "media_key": "7_2049445693409103873",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2049445693409103873/pu/img/SuN-KRHtuOauA3t0.jpg",
+        "public_metrics": {
+          "view_count": 36
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049445693409103873/pu/vid/avc1/320x568/om3UIO8GcmGErm3j.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049445693409103873/pu/vid/avc1/480x852/Vt0mHb-en-GLi98o.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049445693409103873/pu/vid/avc1/720x1280/2GC5fNadWnQbXxkd.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2049445693409103873/pu/pl/E1ImnAQzPtljCFy7.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2049445721716445256",
+        "created_at": "2026-04-29T17:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T18:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049544318294364547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "hg3551019177402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049544318294364547",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049445721716445256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hg3551019177402 这个！好好看！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2049445684752105472",
+            "7_2049445693409103873"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2049445721716445256",
+        "created_at": "2026-04-29T11:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T12:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049445721716445256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kxWSFtJkR5",
+              "end": 57,
+              "expanded_url": "https://x.com/hg3551019177402/status/2049445721716445256/video/1",
+              "media_key": "7_2049445684752105472",
+              "start": 34,
+              "url": "https://t.co/kxWSFtJkR5"
+            },
+            {
+              "display_url": "pic.x.com/kxWSFtJkR5",
+              "end": 57,
+              "expanded_url": "https://x.com/hg3551019177402/status/2049445721716445256/video/1",
+              "media_key": "7_2049445693409103873",
+              "start": 34,
+              "url": "https://t.co/kxWSFtJkR5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049445721716445256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 403,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然没研究明白这东西怎么用，但是好有意思，哈哈哈，第一次抽烤烟型的 https://t.co/kxWSFtJkR5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼主人：@阿普唑仑 🩵💙互fo/大欢迎！💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 60,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 37,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 243,
+          "like_count": 3217,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 848
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "黑圣徒和白罪女 ，每天直播一下精神病日常，我的语言自知门里下贱20万bei。黑色柳丁：@rinii165892 干点烟代，电子烟纸烟（老板嫌一盒利润太低只能买整条，但是可以混拼！）（价格跟你外面直接买更便宜一点，我能挣个20块左右的回扣，这会让我开心几秒钟，只要有录制开箱视频售后绝对做到位） 已被学校开除",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 43,
+                "username": "rinii165892"
+              }
+            ]
+          }
+        },
+        "id": "1684269091849404416",
+        "name": "12",
+        "pinned_tweet_id": "2049364935185190953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045697198890119168/n-jopRK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 703,
+          "like_count": 18299,
+          "listed_count": 1,
+          "media_count": 584,
+          "tweet_count": 9079
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      }
+    ]
+  }
+}

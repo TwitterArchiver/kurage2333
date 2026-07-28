@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2056733695713939911",
+    "created_at": "2026-05-19T13:52:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T14:52:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056734775688478799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2040445355184009216",
+          "start": 0,
+          "username": "seeinMillennium"
+        },
+        {
+          "end": 33,
+          "id": "2019293013114253313",
+          "start": 17,
+          "username": "seeyouinthe2999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056734775688478799",
+    "in_reply_to_user_id": "2040445355184009216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056733695713939911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seeinMillennium @seeyouinthe2999 痛苦😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2056733695713939911",
+        "created_at": "2026-05-19T13:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T14:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056734775688478799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2040445355184009216",
+              "start": 0,
+              "username": "seeinMillennium"
+            },
+            {
+              "end": 33,
+              "id": "2019293013114253313",
+              "start": 17,
+              "username": "seeyouinthe2999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056734775688478799",
+        "in_reply_to_user_id": "2040445355184009216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056733695713939911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeinMillennium @seeyouinthe2999 痛苦😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040445355184009216",
+        "conversation_id": "2056733695713939911",
+        "created_at": "2026-05-19T13:48:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T14:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056733695713939911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "2019293013114253313",
+              "start": 6,
+              "username": "seeyouinthe2999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056733695713939911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就这样看着@seeyouinthe2999掉粉😢😢😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 338,
+          "like_count": 3577,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 1129
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T15:04:33.000Z",
+        "description": "15岁高中生 oder💊MTF 已炸柜父母威胁党抑郁/焦虑/c-ptsd\n喜欢听摇滚 割🔪重返未来1999 偶尔发一些意识流诗文\n只要有手机耳机我就在听歌睡觉也在\n被pr80空腹逼疯的胃病患者",
+        "id": "2040445355184009216",
+        "name": "🍥马库斯爱吃蛋糕​💊🏳️‍⚧️(二代目限时军训版)",
+        "pinned_tweet_id": "2054812970241425432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054809917853466624/fkXS2D8U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 353,
+          "like_count": 285,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 72
+        },
+        "username": "seeinMillennium",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-05T06:12:54.000Z",
+        "description": "15岁高中生 oder💊 mtf 抑郁/焦虑/c-ptsd\n喜欢听摇滚  割🔪  重返未来1999 偶尔发一些意识流诗文\n只要有手机耳机我就在听歌睡觉也在\n被pr80空腹逼疯的胃病患者\n同类来互fo捏\n@seeinMillennium 备用号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 101,
+                "username": "seeinMillennium"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/seeyouinthe2999",
+                "end": 23,
+                "expanded_url": "https://ngl.link/seeyouinthe2999",
+                "start": 0,
+                "url": "https://t.co/FSmPgqNygM"
+              }
+            ]
+          }
+        },
+        "id": "2019293013114253313",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "🍥马库斯爱吃蛋糕💊​🏳️‍⚧️",
+        "pinned_tweet_id": "2051915709974974926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022593862368448512/xmnoyp3e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 702,
+          "like_count": 2848,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 1238
+        },
+        "url": "https://t.co/FSmPgqNygM",
+        "username": "seeyouinthe2999",
+        "verified": false
+      }
+    ]
+  }
+}

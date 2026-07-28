@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2051073717417951531",
+    "created_at": "2026-05-03T23:31:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T00:31:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051082339707683247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1990582437282525187",
+          "start": 0,
+          "username": "YeChuan1123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051082339707683247",
+    "in_reply_to_user_id": "1990582437282525187",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051073717417951531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YeChuan1123 （踹）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051073713655746560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHbgrO6XkAADZJy.jpg",
+        "width": 1194
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2051073717417951531",
+        "created_at": "2026-05-03T23:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T00:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051082339707683247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1990582437282525187",
+              "start": 0,
+              "username": "YeChuan1123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051082339707683247",
+        "in_reply_to_user_id": "1990582437282525187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051073717417951531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YeChuan1123 （踹）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051073713655746560"
+          ]
+        },
+        "author_id": "1990582437282525187",
+        "conversation_id": "2051073717417951531",
+        "created_at": "2026-05-03T22:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T23:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051073717417951531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LpjZp1Xnkt",
+              "end": 37,
+              "expanded_url": "https://x.com/YeChuan1123/status/2051073717417951531/photo/1",
+              "media_key": "3_2051073713655746560",
+              "start": 14,
+              "url": "https://t.co/LpjZp1Xnkt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051073717417951531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要 我是单方面被甩的（） https://t.co/LpjZp1Xnkt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼主人：@阿普唑仑 🩵💙互fo/大欢迎！💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 60,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 37,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 249,
+          "like_count": 3254,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 873
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-18T00:46:58.000Z",
+        "description": "20↑/UoT Biostudying 🇨🇦 🎀Love mizuki & Sylveon🎀\n分享自己爱看的！还有好多碎碎念… 想被摸……请给我很多很多的摸摸 🏳️‍⚧️ MTF 中文/Eng /日本語(勉強中 \n*💖超喜欢两个乖小孩 @blingbling712 @Rainchngshainn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 118,
+                "username": "blingbling712"
+              },
+              {
+                "end": 148,
+                "start": 133,
+                "username": "Rainchngshainn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yechuan1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yechuan1",
+                "start": 0,
+                "url": "https://t.co/3FE4swZHIP"
+              }
+            ]
+          }
+        },
+        "id": "1990582437282525187",
+        "location": "25時、ナイトコードで。",
+        "name": "YeChuan",
+        "pinned_tweet_id": "2051070059892654546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041554967668883458/GSS53DIK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 258,
+          "like_count": 1491,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 693
+        },
+        "url": "https://t.co/3FE4swZHIP",
+        "username": "YeChuan1123",
+        "verified": true
+      }
+    ]
+  }
+}

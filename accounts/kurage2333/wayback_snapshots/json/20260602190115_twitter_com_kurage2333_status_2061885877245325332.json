@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2061557390806512094",
+    "created_at": "2026-06-02T19:01:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T20:01:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061885877245325332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3012350599",
+          "start": 0,
+          "username": "__Ju___Ju__"
+        },
+        {
+          "end": 22,
+          "id": "1643490407094030338",
+          "start": 13,
+          "username": "Usam8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061885877245325332",
+    "in_reply_to_user_id": "3012350599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061781032924524678",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__Ju___Ju__ @Usam8964 唑仑牛逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2061557390806512094",
+        "created_at": "2026-06-02T19:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T20:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061885877245325332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3012350599",
+              "start": 0,
+              "username": "__Ju___Ju__"
+            },
+            {
+              "end": 22,
+              "id": "1643490407094030338",
+              "start": 13,
+              "username": "Usam8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061885877245325332",
+        "in_reply_to_user_id": "3012350599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061781032924524678",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Ju___Ju__ @Usam8964 唑仑牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3012350599",
+        "conversation_id": "2061557390806512094",
+        "created_at": "2026-06-02T12:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061781032924524678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1643490407094030338",
+              "start": 0,
+              "username": "Usam8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061781032924524678",
+        "in_reply_to_user_id": "1643490407094030338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061557390806512094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Usam8964 酒吧给人下药的会放三唑仑 那真的顶不住"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 349,
+          "like_count": 3655,
+          "listed_count": 2,
+          "media_count": 103,
+          "tweet_count": 1231
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-07T12:20:03.000Z",
+        "description": "为什么我不能只是一只毛绒小兔子？🐰🍊/#すこ部 推し /可以叫我桔桔/我要出去玩了！！\n💕@GiveProofToLove \n🫎@mukdengise\n🐑@jinpingslutflop",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 19,
+                "tag": "すこ部"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "GiveProofToLove"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "username": "mukdengise"
+              },
+              {
+                "end": 93,
+                "start": 77,
+                "username": "jinpingslutflop"
+              }
+            ]
+          }
+        },
+        "id": "3012350599",
+        "location": "Daegu, Republic of Korea",
+        "name": "小学桔🧃",
+        "pinned_tweet_id": "1571850748140621824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029526662673752064/dKy6IwX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4470,
+          "following_count": 500,
+          "like_count": 43727,
+          "listed_count": 16,
+          "media_count": 3313,
+          "tweet_count": 46509
+        },
+        "username": "__Ju___Ju__",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usam8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usam8964",
+                "start": 0,
+                "url": "https://t.co/DA3k6l1EmZ"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "location": "RenkoUsami8964@proton.me",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3790,
+          "following_count": 1266,
+          "like_count": 63203,
+          "listed_count": 6,
+          "media_count": 535,
+          "tweet_count": 7523
+        },
+        "url": "https://t.co/DA3k6l1EmZ",
+        "username": "Usam8964",
+        "verified": false
+      }
+    ]
+  }
+}

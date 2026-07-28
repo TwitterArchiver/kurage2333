@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2034624955049214136",
+    "created_at": "2026-03-19T13:36:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T14:36:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034624955049214136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1611238295673114625",
+          "start": 3,
+          "username": "marinashitteru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034624955049214136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034624771288432783",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @marinashitteru: 手写id互fo活动重开。求转推😖😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2034624955049214136",
+        "created_at": "2026-03-19T13:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T14:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034624955049214136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1611238295673114625",
+              "start": 3,
+              "username": "marinashitteru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034624955049214136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034624771288432783",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @marinashitteru: 手写id互fo活动重开。求转推😖😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611238295673114625",
+        "conversation_id": "2034624771288432783",
+        "created_at": "2026-03-19T13:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T14:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034624771288432783"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034624771288432783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "手写id互fo活动重开。求转推😖😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口🪼咕噜咕噜..... 血臭臭的…. 🩵💙匿名信 https://t.co/RbZP1l5HyJ💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chabao",
+                "end": 53,
+                "expanded_url": "https://ngl.link/chabao",
+                "start": 30,
+                "url": "https://t.co/RbZP1l5HyJ"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 53,
+          "like_count": 1054,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 200
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-06T05:48:55.000Z",
+        "description": "我的双相害了很多人丨\nkk/哭哭 随你们怎么叫丨\n会发sh/od内容和碎碎念丨我想认识很多同类朋友",
+        "id": "1611238295673114625",
+        "name": "总而言之我哥哥非常非常好",
+        "pinned_tweet_id": "2032147050268103100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031384510751981568/8GTvJ-rM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 104,
+          "like_count": 1753,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 1691
+        },
+        "username": "marinashitteru",
+        "verified": false
+      }
+    ]
+  }
+}

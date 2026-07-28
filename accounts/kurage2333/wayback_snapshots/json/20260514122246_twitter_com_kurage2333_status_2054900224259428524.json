@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2054535976538759663",
+    "created_at": "2026-05-14T12:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T13:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054900224259428524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1993795085004361733",
+          "start": 0,
+          "username": "3phemeraIity"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054900224259428524",
+    "in_reply_to_user_id": "1993795085004361733",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054897148525674557",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3phemeraIity 🤤太美了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2054535976538759663",
+        "created_at": "2026-05-14T12:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T13:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054900224259428524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1993795085004361733",
+              "start": 0,
+              "username": "3phemeraIity"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054900224259428524",
+        "in_reply_to_user_id": "1993795085004361733",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054897148525674557",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3phemeraIity 🤤太美了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993795085004361733",
+        "conversation_id": "2054535976538759663",
+        "created_at": "2026-05-14T12:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T13:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054897148525674557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054897148525674557",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054535976538759663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 想抽烟就吃块蛋糕吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 305,
+          "like_count": 3538,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1073
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-26T21:32:56.000Z",
+        "description": "额.. 这个软件怎么玩？",
+        "id": "1993795085004361733",
+        "name": "Vv",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054639257331920896/54mpNTuS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 31,
+          "like_count": 497,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 5
+        },
+        "username": "3phemeraIity",
+        "verified": false
+      }
+    ]
+  }
+}

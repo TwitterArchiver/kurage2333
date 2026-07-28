@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2040830038581313898",
+    "created_at": "2026-04-05T17:17:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T18:17:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040841187326861709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1834481927505522688",
+          "start": 0,
+          "username": "7_nodesu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040841187326861709",
+    "in_reply_to_user_id": "1834481927505522688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040830038581313898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7_nodesu 臭婊子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 463,
+        "media_key": "3_2040830032743178241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFJ8GhybIAE-Rn3.jpg",
+        "width": 444
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2040830038581313898",
+        "created_at": "2026-04-05T17:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T18:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040841187326861709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1834481927505522688",
+              "start": 0,
+              "username": "7_nodesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040841187326861709",
+        "in_reply_to_user_id": "1834481927505522688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040830038581313898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7_nodesu 臭婊子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040830032743178241"
+          ]
+        },
+        "author_id": "1834481927505522688",
+        "conversation_id": "2040830038581313898",
+        "created_at": "2026-04-05T16:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T17:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040830038581313898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WCRce8jxLn",
+              "end": 23,
+              "expanded_url": "https://x.com/7_nodesu/status/2040830038581313898/photo/1",
+              "media_key": "3_2040830032743178241",
+              "start": 0,
+              "url": "https://t.co/WCRce8jxLn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040830038581313898",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WCRce8jxLn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口🪼咕噜咕噜..... 血臭臭的…. 🩵💙匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 53,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 30,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 112,
+          "like_count": 2288,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 405
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-13T06:39:33.000Z",
+        "description": "awwwww",
+        "id": "1834481927505522688",
+        "location": "England, United Kingdom",
+        "name": "awww",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952301329075904512/LglQJgXi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 482,
+          "like_count": 2881,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 2360
+        },
+        "username": "7_nodesu",
+        "verified": false
+      }
+    ]
+  }
+}

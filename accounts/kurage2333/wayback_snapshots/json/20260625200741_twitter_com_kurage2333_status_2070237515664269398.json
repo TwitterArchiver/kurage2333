@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2070193058512249052",
+    "created_at": "2026-06-25T20:07:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T21:07:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070237515664269398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1980572743230795776",
+          "start": 0,
+          "username": "zake96279450728"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070237515664269398",
+    "in_reply_to_user_id": "1980572743230795776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070193058512249052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zake96279450728 这性别都走了啊喂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1816,
+        "media_key": "3_2070193051054837760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrNnJCbEAA7aCS.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2070193058512249052",
+        "created_at": "2026-06-25T20:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T21:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070237515664269398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1980572743230795776",
+              "start": 0,
+              "username": "zake96279450728"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070237515664269398",
+        "in_reply_to_user_id": "1980572743230795776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070193058512249052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zake96279450728 这性别都走了啊喂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070193051054837760"
+          ]
+        },
+        "author_id": "1980572743230795776",
+        "conversation_id": "2070193058512249052",
+        "created_at": "2026-06-25T17:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T18:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070193058512249052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BzoPp7xe86",
+              "end": 30,
+              "expanded_url": "https://x.com/zake96279450728/status/2070193058512249052/photo/1",
+              "media_key": "3_2070193051054837760",
+              "start": 7,
+              "url": "https://t.co/BzoPp7xe86"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070193058512249052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "身材有些走样 https://t.co/BzoPp7xe86"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 342,
+          "like_count": 3838,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 1348
+        },
+        "url": "",
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T09:52:09.000Z",
+        "description": "🏳️‍⚧️𖦹MTX𖦹pan𖦹",
+        "id": "1980572743230795776",
+        "location": "-2.1km",
+        "name": "知心姐姐于大爷",
+        "pinned_tweet_id": "2055929956010754477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069354975722164224/5sgwn2f5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 195,
+          "like_count": 2580,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 354
+        },
+        "url": "",
+        "username": "zake96279450728",
+        "verified": false
+      }
+    ]
+  }
+}

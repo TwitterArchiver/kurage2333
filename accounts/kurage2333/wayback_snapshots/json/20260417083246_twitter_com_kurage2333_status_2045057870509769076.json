@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2045056758075502935",
+    "created_at": "2026-04-17T08:32:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T09:32:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045057870509769076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "hg3551019177402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045057870509769076",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045056758075502935",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hg3551019177402 这个烟盒好好看！🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045056749540114432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGGAR03agAAOtxQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2045056758075502935",
+        "created_at": "2026-04-17T08:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T09:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045057870509769076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "hg3551019177402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045057870509769076",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045056758075502935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hg3551019177402 这个烟盒好好看！🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045056749540114432"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2045056758075502935",
+        "created_at": "2026-04-17T08:28:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T09:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045056758075502935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hiQ09WB29J",
+              "end": 29,
+              "expanded_url": "https://x.com/hg3551019177402/status/2045056758075502935/photo/1",
+              "media_key": "3_2045056749540114432",
+              "start": 6,
+              "url": "https://t.co/hiQ09WB29J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045056758075502935",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "活不起了。 https://t.co/hiQ09WB29J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼主人：@阿普唑仑 🩵💙互fo/大欢迎匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 56,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 33,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 217,
+          "like_count": 2942,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 689
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "黑圣徒和白罪女 我主人@Orion2588 药物治疗精神病中（每天吃很多就是了），每天直播一下精神病日常，我的语言自知门里下贱20万bei。黑色柳丁：@rinii165892",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "Orion2588"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "rinii165892"
+              }
+            ]
+          }
+        },
+        "id": "1684269091849404416",
+        "name": "12",
+        "pinned_tweet_id": "2043934459041645045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039346571276656640/qD2Kl3Xn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 538,
+          "like_count": 18546,
+          "listed_count": 0,
+          "media_count": 479,
+          "tweet_count": 8423
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      }
+    ]
+  }
+}

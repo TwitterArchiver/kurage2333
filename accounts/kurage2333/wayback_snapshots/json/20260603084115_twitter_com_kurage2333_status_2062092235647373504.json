@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2061838254018904506",
+    "created_at": "2026-06-03T08:41:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T09:41:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062092235647373504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1789517934227820544",
+          "start": 0,
+          "username": "llzxhwrt97853"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062092235647373504",
+    "in_reply_to_user_id": "1789517934227820544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062007165200855381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@llzxhwrt97853 可爱！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2061838254018904506",
+        "created_at": "2026-06-03T08:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T09:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062092235647373504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1789517934227820544",
+              "start": 0,
+              "username": "llzxhwrt97853"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062092235647373504",
+        "in_reply_to_user_id": "1789517934227820544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062007165200855381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@llzxhwrt97853 可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789517934227820544",
+        "conversation_id": "2061838254018904506",
+        "created_at": "2026-06-03T03:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T04:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062007165200855381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062007165200855381",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061838254018904506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 沙耶!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 351,
+          "like_count": 3698,
+          "listed_count": 2,
+          "media_count": 103,
+          "tweet_count": 1247
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T04:48:33.000Z",
+        "description": "啊吧啊吧啊吧啊吧（流口水）总是在想谈恋爱\nod 友🏳️‍⚧️,xm好看的推油,成为🏳️‍⚧️",
+        "id": "1789517934227820544",
+        "location": "柜",
+        "name": "天才莫祈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052001172828094464/KXljE6W4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 475,
+          "like_count": 12494,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 1404
+        },
+        "username": "llzxhwrt97853",
+        "verified": false
+      }
+    ]
+  }
+}

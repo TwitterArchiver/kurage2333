@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2076379295875047424"
+      ]
+    },
+    "author_id": "1987604380896600064",
+    "conversation_id": "2076378251547812060",
+    "created_at": "2026-07-12T18:53:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T19:53:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076379361188647029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "357539288",
+          "start": 0,
+          "username": "Surajazeem"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hw8Brno7Wy",
+          "end": 35,
+          "expanded_url": "https://x.com/kurage2333/status/2076379361188647029/video/1",
+          "media_key": "13_2076379295875047424",
+          "start": 12,
+          "url": "https://t.co/hw8Brno7Wy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076379361188647029",
+    "in_reply_to_user_id": "357539288",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076378251547812060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Surajazeem https://t.co/hw8Brno7Wy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5000,
+        "height": 1080,
+        "media_key": "13_2076379295875047424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2076379295875047424/img/PQsOJdAswGLZdQPy.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076379295875047424/vid/avc1/320x320/Q4Y9ogvUtSiPZhq2.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076379295875047424/vid/avc1/1080x1080/A7c-YpJuYWe56CLE.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076379295875047424/vid/avc1/540x540/mZ_mDVYgubEuf9NT.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2076379295875047424/vid/avc1/720x720/DRBMhfsRBlJPcNIH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2076379295875047424/pl/ncD4YPhp68EvqJ6B.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2076379295875047424"
+          ]
+        },
+        "author_id": "1987604380896600064",
+        "conversation_id": "2076378251547812060",
+        "created_at": "2026-07-12T18:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T19:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076379361188647029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "357539288",
+              "start": 0,
+              "username": "Surajazeem"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hw8Brno7Wy",
+              "end": 35,
+              "expanded_url": "https://x.com/kurage2333/status/2076379361188647029/video/1",
+              "media_key": "13_2076379295875047424",
+              "start": 12,
+              "url": "https://t.co/hw8Brno7Wy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076379361188647029",
+        "in_reply_to_user_id": "357539288",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076378251547812060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Surajazeem https://t.co/hw8Brno7Wy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "357539288",
+        "conversation_id": "2076378251547812060",
+        "created_at": "2026-07-12T18:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T19:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076378251547812060"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076378251547812060",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特哪里有人类，我只看见一群猫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 330,
+          "like_count": 3916,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 1395
+        },
+        "url": "",
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-18T14:39:37.000Z",
+        "description": "我恨msk，拿了我的钱还这样我他妈的\n18.0\n辣条已过气。\n妈妈@Shivam3228\n牛马💊 @AminoXx_killer \n媳妇@Ririka12208",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "Shivam3228"
+              },
+              {
+                "end": 64,
+                "start": 49,
+                "username": "AminoXx_killer"
+              },
+              {
+                "end": 80,
+                "start": 68,
+                "username": "Ririka12208"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+A7UqL85q-kpkO…",
+                "end": 23,
+                "expanded_url": "https://t.me/+A7UqL85q-kpkOTEx",
+                "start": 0,
+                "url": "https://t.co/GEPRzkdFkj"
+              }
+            ]
+          }
+        },
+        "id": "357539288",
+        "location": "msk身后",
+        "name": "雨林18+",
+        "pinned_tweet_id": "2074845970169577745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074861255509307392/Y8tOJNW6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 136,
+          "like_count": 307,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 204
+        },
+        "url": "https://t.co/GEPRzkdFkj",
+        "username": "Surajazeem",
+        "verified": false
+      }
+    ]
+  }
+}

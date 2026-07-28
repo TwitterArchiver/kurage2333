@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2061555441642217968",
+    "created_at": "2026-06-02T08:12:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T09:12:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061722701505679416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1865296058936352768",
+          "start": 0,
+          "username": "G107ozs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061722701505679416",
+    "in_reply_to_user_id": "1865296058936352768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061694020540346763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@G107ozs 是的😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2061555441642217968",
+        "created_at": "2026-06-02T08:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T09:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061722701505679416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1865296058936352768",
+              "start": 0,
+              "username": "G107ozs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061722701505679416",
+        "in_reply_to_user_id": "1865296058936352768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061694020540346763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@G107ozs 是的😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865296058936352768",
+        "conversation_id": "2061555441642217968",
+        "created_at": "2026-06-02T06:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T07:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061694020540346763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061694020540346763",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061555441642217968",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 你真是个天才"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 339,
+          "like_count": 3605,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 1197
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T07:24:06.000Z",
+        "description": "",
+        "id": "1865296058936352768",
+        "name": "hd83hk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059634473109684224/CyEFJz0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 17,
+          "like_count": 735,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 90
+        },
+        "username": "G107ozs",
+        "verified": false
+      }
+    ]
+  }
+}

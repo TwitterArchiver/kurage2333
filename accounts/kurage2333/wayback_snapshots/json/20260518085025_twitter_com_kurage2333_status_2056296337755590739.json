@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2056276502451568857",
+    "created_at": "2026-05-18T08:50:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T09:50:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056296337755590739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2043952988557803520",
+          "start": 0,
+          "username": "tngxngxng13171"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056296337755590739",
+    "in_reply_to_user_id": "2043952988557803520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056291107441672471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tngxngxng13171 舔干净^ ^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2056276502451568857",
+        "created_at": "2026-05-18T08:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056296337755590739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2043952988557803520",
+              "start": 0,
+              "username": "tngxngxng13171"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056296337755590739",
+        "in_reply_to_user_id": "2043952988557803520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056291107441672471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tngxngxng13171 舔干净^ ^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043952988557803520",
+        "conversation_id": "2056276502451568857",
+        "created_at": "2026-05-18T08:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056291107441672471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056291107441672471",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056276502451568857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 被🐍了一脸🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 340,
+          "like_count": 3562,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 1110
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-14T07:22:50.000Z",
+        "description": "我是星雫瑞星/互聯網的墮天使/白騎士綜合征/地雷/病弱/抖M/戀痛/生理雙性別/無性別主義者/互fo寻回中... \n\n主要遊玩prsk/推し💗宵崎奏、曉山瑞希、望月穗波、日野森志步/團體 推しLeoneed&25時/會進行一些相關角色的cosplay",
+        "id": "2043952988557803520",
+        "location": "Hong Kong",
+        "name": "可不敢乱说",
+        "pinned_tweet_id": "2049221796327838000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048446214245691392/lQgtgY8z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 190,
+          "like_count": 3210,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 453
+        },
+        "username": "tngxngxng13171",
+        "verified": false
+      }
+    ]
+  }
+}

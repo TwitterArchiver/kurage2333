@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2056758538559791233",
+    "created_at": "2026-05-22T14:20:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T15:20:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057828898579382646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1955555560411299841",
+          "start": 0,
+          "username": "wbll1206"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057828898579382646",
+    "in_reply_to_user_id": "1955555560411299841",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057828712394203536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wbll1206 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2056758538559791233",
+        "created_at": "2026-05-22T14:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057828898579382646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1955555560411299841",
+              "start": 0,
+              "username": "wbll1206"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057828898579382646",
+        "in_reply_to_user_id": "1955555560411299841",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057828712394203536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wbll1206 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955555560411299841",
+        "conversation_id": "2056758538559791233",
+        "created_at": "2026-05-22T14:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057828712394203536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057828712394203536",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056758538559791233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 我用过好多 但是都没有用 最后还是靠涂粉底液"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 436,
+          "following_count": 344,
+          "like_count": 3556,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 1153
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-13T09:02:50.000Z",
+        "description": "偶尔是男娘CD 泛性恋 NSFW🔞\n被封了无数次 无心运营随便发着玩\n会发我被男生操和我操女生的内容 几把屁眼倒班工作\n#浙江 #承接各种服务",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 60,
+                "tag": "浙江"
+              },
+              {
+                "end": 71,
+                "start": 64,
+                "tag": "承接各种服务"
+              }
+            ]
+          }
+        },
+        "id": "1955555560411299841",
+        "location": "🚪52 只回复口令 女生免费 同好可以私聊",
+        "name": "被封号次数最多的🍔",
+        "pinned_tweet_id": "2054232487904387370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045591759947005952/nroZVQOc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 96,
+          "like_count": 128,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 40
+        },
+        "username": "wbll1206",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2054563761667899611",
+    "created_at": "2026-05-13T14:07:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T15:07:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054564209950937404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1753116711899770880",
+          "start": 0,
+          "username": "elna_elvie9091"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054564209950937404",
+    "in_reply_to_user_id": "1753116711899770880",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054563761667899611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@elna_elvie9091 🤤"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19033,
+        "height": 968,
+        "media_key": "13_2054563632441417728",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054563632441417728/img/305HAa6oixMYfPwj.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054563632441417728/vid/avc1/320x430/L13UorxHaK2J-9Mr.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054563632441417728/vid/avc1/480x644/d84SHkuONCz0iYHw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054563632441417728/vid/avc1/720x968/6zAJMkVu-7G2eqUm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054563632441417728/pl/UuvuNuX4ne0qF7xC.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2054563761667899611",
+        "created_at": "2026-05-13T14:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T15:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054564209950937404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1753116711899770880",
+              "start": 0,
+              "username": "elna_elvie9091"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054564209950937404",
+        "in_reply_to_user_id": "1753116711899770880",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054563761667899611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@elna_elvie9091 🤤"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054563632441417728"
+          ]
+        },
+        "author_id": "1753116711899770880",
+        "conversation_id": "2054563761667899611",
+        "created_at": "2026-05-13T14:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T15:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054563761667899611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zMs1KPOBEe",
+              "end": 28,
+              "expanded_url": "https://x.com/elna_elvie9091/status/2054563761667899611/video/1",
+              "media_key": "13_2054563632441417728",
+              "start": 5,
+              "url": "https://t.co/zMs1KPOBEe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054563761667899611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "审美鸡累 https://t.co/zMs1KPOBEe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 287,
+          "like_count": 3460,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1012
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T18:03:02.000Z",
+        "description": "被炸了两次号了@Yijin_0v0\n放过我吧 寻回互fo中～\n我🈹️ 我o 不涉政 直fo就是喜欢你～\nfo我的我全回！mtf全肯定！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "Yijin_0v0"
+              }
+            ]
+          }
+        },
+        "id": "1753116711899770880",
+        "name": "霖附身中）可爱的11",
+        "pinned_tweet_id": "2053743558537125891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053746246196838400/-XI5NtCU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 73,
+          "like_count": 270,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 167
+        },
+        "username": "elna_elvie9091",
+        "verified": false
+      }
+    ]
+  }
+}

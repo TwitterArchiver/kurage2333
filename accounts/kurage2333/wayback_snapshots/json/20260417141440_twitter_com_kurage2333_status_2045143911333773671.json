@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2045114450412535865",
+    "created_at": "2026-04-17T14:14:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T15:14:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045143911333773671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1883768460993552385",
+          "start": 0,
+          "username": "XiShangguan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045143911333773671",
+    "in_reply_to_user_id": "1883768460993552385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045142321206043055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiShangguan 抱抱宝宝 亲亲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2045114450412535865",
+        "created_at": "2026-04-17T14:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T15:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045143911333773671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1883768460993552385",
+              "start": 0,
+              "username": "XiShangguan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045143911333773671",
+        "in_reply_to_user_id": "1883768460993552385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045142321206043055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiShangguan 抱抱宝宝 亲亲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883768460993552385",
+        "conversation_id": "2045114450412535865",
+        "created_at": "2026-04-17T14:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T15:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045142321206043055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045142321206043055",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045114450412535865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 抱抱宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼主人：@阿普唑仑 🩵💙互fo/大欢迎匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 56,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 33,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 218,
+          "like_count": 2962,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 697
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T06:47:27.000Z",
+        "description": "ciallo~这里是上官曦✞08年生✞ODER✞pr单推✞INFP✞查成分互fo，忘记麻烦私信✞二次元✞不政治站边✞负能量⚠✞碎碎念✞听日语歌✞术术人✞xp粉毛✞日语初学✞自毁倾向✞重度抑郁✞躯体化严重✞随时会死🕯️✞性别未知✞喜欢花譜✞上官朝日的日不是动词😡✞没能及时回信息致歉✞拒绝线下✞推アトリ",
+        "id": "1883768460993552385",
+        "location": "乌托邦",
+        "name": "上官朝日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033812687277461507/y7sGn9v7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 169,
+          "like_count": 5636,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1225
+        },
+        "username": "XiShangguan",
+        "verified": false
+      }
+    ]
+  }
+}

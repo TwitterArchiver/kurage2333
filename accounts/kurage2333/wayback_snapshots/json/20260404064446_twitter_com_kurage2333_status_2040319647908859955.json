@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040319600949329920"
+      ]
+    },
+    "author_id": "1987604380896600064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2040319647908859955",
+    "created_at": "2026-04-04T06:44:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T07:44:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040319647908859955"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sc5pwPeeVv",
+          "end": 29,
+          "expanded_url": "https://x.com/kurage2333/status/2040319647908859955/photo/1",
+          "media_key": "3_2040319600949329920",
+          "start": 6,
+          "url": "https://t.co/sc5pwPeeVv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040319647908859955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是臭婊子 https://t.co/sc5pwPeeVv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1456,
+        "media_key": "3_2040319600949329920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFCr3fLaAAAR3K0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040319600949329920"
+          ]
+        },
+        "author_id": "1987604380896600064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040319647908859955",
+        "created_at": "2026-04-04T06:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T07:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040319647908859955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sc5pwPeeVv",
+              "end": 29,
+              "expanded_url": "https://x.com/kurage2333/status/2040319647908859955/photo/1",
+              "media_key": "3_2040319600949329920",
+              "start": 6,
+              "url": "https://t.co/sc5pwPeeVv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040319647908859955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是臭婊子 https://t.co/sc5pwPeeVv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口🪼咕噜咕噜..... 血臭臭的…. 🩵💙匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 53,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 30,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 105,
+          "like_count": 2130,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 371
+        },
+        "username": "kurage2333",
+        "verified": false
+      }
+    ]
+  }
+}

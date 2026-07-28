@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2049247868922540526",
+    "created_at": "2026-04-29T17:39:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T18:39:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049544174115119490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1865296058936352768",
+          "start": 0,
+          "username": "G107ozs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049544174115119490",
+    "in_reply_to_user_id": "1865296058936352768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049333535258063331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@G107ozs 我喜欢增生的🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2049247868922540526",
+        "created_at": "2026-04-29T17:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T18:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049544174115119490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1865296058936352768",
+              "start": 0,
+              "username": "G107ozs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049544174115119490",
+        "in_reply_to_user_id": "1865296058936352768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049333535258063331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@G107ozs 我喜欢增生的🤤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865296058936352768",
+        "conversation_id": "2049247868922540526",
+        "created_at": "2026-04-29T03:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T04:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049333535258063331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049333535258063331",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 626,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049247868922540526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 不要割的太深，细胞增生太多不太好看，特别是增生突起一两毫米了，我觉得薄薄一层才更好看一点，美术生评价，自己也自残"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼主人：@阿普唑仑 🩵💙互fo/大欢迎！💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 60,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 37,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 243,
+          "like_count": 3217,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 847
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T07:24:06.000Z",
+        "description": "喜欢自残自虐，喜欢大家的点赞，好想被这个世界的人们所看见",
+        "id": "1865296058936352768",
+        "name": "hd83hk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049513205740040192/sG3xU0_h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 10,
+          "like_count": 133,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 11
+        },
+        "username": "G107ozs",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015505167349645312",
+        "3_2015505167320264704"
+      ]
+    },
+    "author_id": "1987604380896600064",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2015505192599408816",
+    "created_at": "2026-01-25T19:20:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T20:20:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015505192599408816"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/93GxvKMIkP",
+          "end": 46,
+          "expanded_url": "https://x.com/kurage2333/status/2015505192599408816/photo/1",
+          "media_key": "3_2015505167349645312",
+          "start": 23,
+          "url": "https://t.co/93GxvKMIkP"
+        },
+        {
+          "display_url": "pic.x.com/93GxvKMIkP",
+          "end": 46,
+          "expanded_url": "https://x.com/kurage2333/status/2015505192599408816/photo/1",
+          "media_key": "3_2015505167320264704",
+          "start": 23,
+          "url": "https://t.co/93GxvKMIkP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015505192599408816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你这家伙 补药在可爱的游戏绘制奇怪的东西喂！ https://t.co/93GxvKMIkP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1345,
+        "media_key": "3_2015505167349645312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_iDRWbXAAAVfjL.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1345,
+        "media_key": "3_2015505167320264704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_iDRWUWsAAVZOa.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015505167349645312",
+            "3_2015505167320264704"
+          ]
+        },
+        "author_id": "1987604380896600064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2015505192599408816",
+        "created_at": "2026-01-25T19:20:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T20:20:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015505192599408816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/93GxvKMIkP",
+              "end": 46,
+              "expanded_url": "https://x.com/kurage2333/status/2015505192599408816/photo/1",
+              "media_key": "3_2015505167349645312",
+              "start": 23,
+              "url": "https://t.co/93GxvKMIkP"
+            },
+            {
+              "display_url": "pic.x.com/93GxvKMIkP",
+              "end": 46,
+              "expanded_url": "https://x.com/kurage2333/status/2015505192599408816/photo/1",
+              "media_key": "3_2015505167320264704",
+              "start": 23,
+              "url": "https://t.co/93GxvKMIkP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015505192599408816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你这家伙 补药在可爱的游戏绘制奇怪的东西喂！ https://t.co/93GxvKMIkP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼09/自傷🪼互fo查成分咕噜咕噜..... 血臭臭的…. 🩵💙匿名信 https://t.co/RbZP1l59Jb💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chabao",
+                "end": 59,
+                "expanded_url": "https://ngl.link/chabao",
+                "start": 36,
+                "url": "https://t.co/RbZP1l59Jb"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "咕噜母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 47,
+          "like_count": 888,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 158
+        },
+        "username": "kurage2333",
+        "verified": false
+      }
+    ]
+  }
+}

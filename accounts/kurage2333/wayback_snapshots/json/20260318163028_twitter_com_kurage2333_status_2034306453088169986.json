@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2034306453088169986",
+    "created_at": "2026-03-18T16:30:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T17:30:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034306453088169986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1744302622708994048",
+          "start": 3,
+          "username": "chiiiiiii233"
+        },
+        {
+          "end": 29,
+          "id": "1956544219751063552",
+          "start": 18,
+          "username": "wu_si42846"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034306453088169986",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034296393624650112",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chiiiiiii233: @wu_si42846 阿普唑仑和晚安好吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2034306453088169986",
+        "created_at": "2026-03-18T16:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T17:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034306453088169986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1744302622708994048",
+              "start": 3,
+              "username": "chiiiiiii233"
+            },
+            {
+              "end": 29,
+              "id": "1956544219751063552",
+              "start": 18,
+              "username": "wu_si42846"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034306453088169986",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034296393624650112",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chiiiiiii233: @wu_si42846 阿普唑仑和晚安好吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744302622708994048",
+        "conversation_id": "2034207390594388329",
+        "created_at": "2026-03-18T15:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T16:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034296393624650112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1956544219751063552",
+              "start": 0,
+              "username": "wu_si42846"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034296393624650112",
+        "in_reply_to_user_id": "1956544219751063552",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034207390594388329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wu_si42846 阿普唑仑和晚安好吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼09/自傷/日常🪼互fo查成分咕噜咕噜..... 血臭臭的…. 🩵💙匿名信 https://t.co/RbZP1l59Jb💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chabao",
+                "end": 62,
+                "expanded_url": "https://ngl.link/chabao",
+                "start": 39,
+                "url": "https://t.co/RbZP1l59Jb"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "咕噜母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 46,
+          "like_count": 938,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 174
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T10:18:57.000Z",
+        "description": "🩵补药再熬了/日常我发发发/09🩵 匿名箱：https://t.co/zLDwdVceKU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chabao",
+                "end": 45,
+                "expanded_url": "https://ngl.link/chabao",
+                "start": 22,
+                "url": "https://t.co/zLDwdVceKU"
+              }
+            ]
+          }
+        },
+        "id": "1744302622708994048",
+        "location": "💤💤💤",
+        "name": "茶包",
+        "pinned_tweet_id": "1990434491072963063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957177511600865280/-flqLCg6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 251,
+          "like_count": 1333,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 334
+        },
+        "username": "chiiiiiii233",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-16T02:31:25.000Z",
+        "description": "医院里跑出来的😍🤪🔪- ✰*🎀 ੈ✩🍥✰*💗 ੈ✩- 生活在互联网里！看成分互fo捏喵!!!!/我是低龄糖逼大傻福，实在抱歉！/超级严重失眠 -12现役初中生^✟❀信徒@Fislonely_❀灵宠@dbdbsjbsja❀小号@rinii165892\n❀✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 84,
+                "username": "Fislonely_"
+              },
+              {
+                "end": 109,
+                "start": 98,
+                "username": "dbdbsjbsja"
+              },
+              {
+                "end": 124,
+                "start": 112,
+                "username": "rinii165892"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/iRin19196",
+                "end": 23,
+                "expanded_url": "https://ngl.link/iRin19196",
+                "start": 0,
+                "url": "https://t.co/uWp3iQGWKL"
+              }
+            ]
+          }
+        },
+        "id": "1956544219751063552",
+        "location": "你看看你身后",
+        "name": "伊々 りん（完全病娇邪恶中2）",
+        "pinned_tweet_id": "2031370336944726139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024476491988578304/ndqIjzWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 867,
+          "like_count": 33967,
+          "listed_count": 1,
+          "media_count": 593,
+          "tweet_count": 12965
+        },
+        "url": "https://t.co/uWp3iQGWKL",
+        "username": "wu_si42846",
+        "verified": false
+      }
+    ]
+  }
+}

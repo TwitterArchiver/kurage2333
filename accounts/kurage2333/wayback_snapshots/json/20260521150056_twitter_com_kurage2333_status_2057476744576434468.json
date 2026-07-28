@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2057458541888454865",
+    "created_at": "2026-05-21T15:00:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T16:00:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057476744576434468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2057363646423117824",
+          "start": 0,
+          "username": "12sygdsbi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057476744576434468",
+    "in_reply_to_user_id": "2057363646423117824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057458541888454865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@12sygdsbi 骚货"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2057458541888454865",
+        "created_at": "2026-05-21T15:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057476744576434468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2057363646423117824",
+              "start": 0,
+              "username": "12sygdsbi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057476744576434468",
+        "in_reply_to_user_id": "2057363646423117824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057458541888454865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@12sygdsbi 骚货"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057363646423117824",
+        "conversation_id": "2057458541888454865",
+        "created_at": "2026-05-21T13:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T14:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057458541888454865"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057458541888454865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尼吗奶子真的长出来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 345,
+          "like_count": 3592,
+          "listed_count": 2,
+          "media_count": 96,
+          "tweet_count": 1147
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T07:32:40.000Z",
+        "description": "mtm/mua/mao/神秘烟男/健全人最好还是别看我的空间了",
+        "id": "2057363646423117824",
+        "name": "12",
+        "pinned_tweet_id": "2057366686211428663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057374664301907968/Tggw9B0r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 61,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 58
+        },
+        "username": "12sygdsbi",
+        "verified": false
+      }
+    ]
+  }
+}

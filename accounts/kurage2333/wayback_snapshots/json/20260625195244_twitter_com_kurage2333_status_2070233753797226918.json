@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2069660280037265575",
+    "created_at": "2026-06-25T19:52:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T20:52:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070233753797226918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1680367973884735488",
+          "start": 0,
+          "username": "imgyeong8077"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070233753797226918",
+    "in_reply_to_user_id": "1680367973884735488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070233566848626732",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@imgyeong8077 发你啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2069660280037265575",
+        "created_at": "2026-06-25T19:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T20:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070233753797226918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1680367973884735488",
+              "start": 0,
+              "username": "imgyeong8077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070233753797226918",
+        "in_reply_to_user_id": "1680367973884735488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070233566848626732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@imgyeong8077 发你啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680367973884735488",
+        "conversation_id": "2069660280037265575",
+        "created_at": "2026-06-25T19:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T20:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070233566848626732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070233566848626732",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069660280037265575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 宝宝求一下原图可以嘛🥹🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 342,
+          "like_count": 3837,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 1347
+        },
+        "url": "",
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T00:05:29.000Z",
+        "description": "小璟/6P97｜08｜双性恋｜我🔪🚬🍺💊LGBTQ+友好 \n喜欢体验新鲜事物 什么都往这里扔\n查看主页喜欢你就我就fo你 乖宝宝们请和我互fo^o^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%92%9F%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%92%9F%E7%92%9F%E7%92%9F%E7%92%9F%E7%92%9F%E7%92%9F0.o",
+                "start": 0,
+                "url": "https://t.co/KSf6miGkl9"
+              }
+            ]
+          }
+        },
+        "id": "1680367973884735488",
+        "name": "璟璟璟璟璟璟0.o",
+        "pinned_tweet_id": "2040823390152651093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043407189533237248/1sRY0hb__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 169,
+          "like_count": 1519,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 1134
+        },
+        "url": "https://t.co/KSf6miGkl9",
+        "username": "imgyeong8077",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2053488616618512409",
+    "created_at": "2026-05-11T11:05:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T12:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053793609129103529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2053486803902992387",
+          "start": 0,
+          "username": "daijiao68"
+        },
+        {
+          "end": 20,
+          "id": "1643490407094030338",
+          "start": 11,
+          "username": "Usam8964"
+        },
+        {
+          "end": 35,
+          "id": "1769358210811547648",
+          "start": 21,
+          "username": "dai_jiao70886"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053793609129103529",
+    "in_reply_to_user_id": "2053486803902992387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053488616618512409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daijiao68 @Usam8964 @dai_jiao70886 敲敲宝宝"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053488603611955200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH91AVCagAA1aKc.jpg",
+        "width": 923
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2053488616618512409",
+        "created_at": "2026-05-11T11:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T12:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053793609129103529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2053486803902992387",
+              "start": 0,
+              "username": "daijiao68"
+            },
+            {
+              "end": 20,
+              "id": "1643490407094030338",
+              "start": 11,
+              "username": "Usam8964"
+            },
+            {
+              "end": 35,
+              "id": "1769358210811547648",
+              "start": 21,
+              "username": "dai_jiao70886"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053793609129103529",
+        "in_reply_to_user_id": "2053486803902992387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053488616618512409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daijiao68 @Usam8964 @dai_jiao70886 敲敲宝宝"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053488603611955200"
+          ]
+        },
+        "author_id": "2053486803902992387",
+        "conversation_id": "2053488616618512409",
+        "created_at": "2026-05-10T14:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053488616618512409"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 41,
+              "tag": "门槛妹"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 40,
+              "id": "1769358210811547648",
+              "start": 26,
+              "username": "dai_jiao70886"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WMhmNn7S6B",
+              "end": 69,
+              "expanded_url": "https://x.com/daijiao68/status/2053488616618512409/photo/1",
+              "media_key": "3_2053488603611955200",
+              "start": 46,
+              "url": "https://t.co/WMhmNn7S6B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053488616618512409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 568,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我哭了我的前世在这里，求宝宝们再续前缘 ꒦ິ^꒦ິ @dai_jiao70886 #门槛妹 https://t.co/WMhmNn7S6B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 68,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 45,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 279,
+          "like_count": 3348,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 945
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T14:46:44.000Z",
+        "description": "我是小矢／消逝｜重生2.0版本｜od｜自毁｜精神病全肯定｜同类互fo漏掉敲我｜🚪52详情置顶｜",
+        "id": "2053486803902992387",
+        "location": "天國",
+        "name": "消逝",
+        "pinned_tweet_id": "2053490550800797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053488065747009536/zeTBKU0y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 15,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 10
+        },
+        "username": "daijiao68",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）Gganbu:@bolckAshley\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3749,
+          "following_count": 1226,
+          "like_count": 58285,
+          "listed_count": 6,
+          "media_count": 505,
+          "tweet_count": 7078
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-17T13:41:04.000Z",
+        "description": "小矢/消逝  ｜沉浸在药片子的温柔乡｜同类互fo漏掉记得敲我｜🚪52 详情置顶",
+        "id": "1769358210811547648",
+        "name": "Ireu一x 。.:*♡",
+        "pinned_tweet_id": "2048461615788646557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033799162605494272/IQUfwxw0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1688,
+          "following_count": 263,
+          "like_count": 169,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 608
+        },
+        "username": "dai_jiao70886",
+        "verified": false
+      }
+    ]
+  }
+}

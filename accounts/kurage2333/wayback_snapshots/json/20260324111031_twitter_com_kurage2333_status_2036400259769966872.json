@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2036400259769966872",
+    "created_at": "2026-03-24T11:10:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T12:10:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036400259769966872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1885765075996393472",
+          "start": 3,
+          "username": "maitakoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036400259769966872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036238625407639687",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maitakoo: 我想到500fo\n互关宝宝们帮我转转 同类我们来互fo吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2036400259769966872",
+        "created_at": "2026-03-24T11:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T12:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036400259769966872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1885765075996393472",
+              "start": 3,
+              "username": "maitakoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036400259769966872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036238625407639687",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maitakoo: 我想到500fo\n互关宝宝们帮我转转 同类我们来互fo吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885765075996393472",
+        "conversation_id": "2036238625407639687",
+        "created_at": "2026-03-24T00:28:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T01:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036238625407639687"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036238625407639687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1154,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "我想到500fo\n互关宝宝们帮我转转 同类我们来互fo吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口🪼咕噜咕噜..... 血臭臭的…. 🩵💙匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 53,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 30,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 1,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 287
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T19:00:23.000Z",
+        "description": "10世代｜双相｜od&sh｜LGBTQIA+友好｜同类随缘互fo\n提问箱https://t.co/AG60232YzV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%96%84%E6%B…",
+                "end": 59,
+                "expanded_url": "https://ngl.link/%E8%96%84%E6%B0%B7%E6%AE%89%E6%83%85",
+                "start": 36,
+                "url": "https://t.co/AG60232YzV"
+              }
+            ]
+          }
+        },
+        "id": "1885765075996393472",
+        "location": "California, USA",
+        "name": "薄氷殉情",
+        "pinned_tweet_id": "2026673425104953549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989006426828943360/mqOM-NSZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 145,
+          "like_count": 2774,
+          "listed_count": 0,
+          "media_count": 205,
+          "tweet_count": 1831
+        },
+        "username": "maitakoo",
+        "verified": false
+      }
+    ]
+  }
+}

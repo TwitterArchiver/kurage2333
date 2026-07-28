@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2054469154464563498",
+    "created_at": "2026-05-14T05:52:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T06:52:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054801899816468861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1708553963216539648",
+          "start": 0,
+          "username": "nib453486831128"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054801899816468861",
+    "in_reply_to_user_id": "1708553963216539648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054796674732843461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nib453486831128 谢谢呀～亲亲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2054469154464563498",
+        "created_at": "2026-05-14T05:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T06:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054801899816468861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1708553963216539648",
+              "start": 0,
+              "username": "nib453486831128"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054801899816468861",
+        "in_reply_to_user_id": "1708553963216539648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054796674732843461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nib453486831128 谢谢呀～亲亲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708553963216539648",
+        "conversation_id": "2054469154464563498",
+        "created_at": "2026-05-14T05:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T06:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054796674732843461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054796674732843461",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054469154464563498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 好萌一妹子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 296,
+          "like_count": 3503,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1045
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T18:48:16.000Z",
+        "description": "一个游魂，喜欢聊天",
+        "id": "1708553963216539648",
+        "name": "观测者x",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980170804617682944/TfxpgS7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 51,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 200
+        },
+        "username": "nib453486831128",
+        "verified": false
+      }
+    ]
+  }
+}

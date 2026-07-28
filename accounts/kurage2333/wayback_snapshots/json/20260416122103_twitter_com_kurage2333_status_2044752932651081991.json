@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2044519949537055118",
+    "created_at": "2026-04-16T12:21:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T13:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044752932651081991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1696183319892008960",
+          "start": 0,
+          "username": "ChiDe21350"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044752932651081991",
+    "in_reply_to_user_id": "1696183319892008960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044752209162990063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChiDe21350 🤤我睡醒就吃了 但是我睡醒就快晚上了 凌晨我不吃东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2044519949537055118",
+        "created_at": "2026-04-16T12:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T13:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044752932651081991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1696183319892008960",
+              "start": 0,
+              "username": "ChiDe21350"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044752932651081991",
+        "in_reply_to_user_id": "1696183319892008960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044752209162990063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChiDe21350 🤤我睡醒就吃了 但是我睡醒就快晚上了 凌晨我不吃东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1696183319892008960",
+        "conversation_id": "2044519949537055118",
+        "created_at": "2026-04-16T12:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T13:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044752209162990063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044752209162990063",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044519949537055118",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 吃点吧 热量缺口也不是这样玩的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼主人：@阿普唑仑 🩵💙互fo/大欢迎匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 56,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 33,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 206,
+          "like_count": 2893,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 663
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-28T15:30:07.000Z",
+        "description": "",
+        "id": "1696183319892008960",
+        "name": "爱吃炸鸡的啦啦啦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893530770687533056/NH8Ko1Yr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 655,
+          "like_count": 6637,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 508
+        },
+        "username": "ChiDe21350",
+        "verified": false
+      }
+    ]
+  }
+}

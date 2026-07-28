@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2041100084876550310",
+    "created_at": "2026-04-06T10:52:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T11:52:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041106874758725884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1834481927505522688",
+          "start": 0,
+          "username": "7_nodesu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041106874758725884",
+    "in_reply_to_user_id": "1834481927505522688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041100084876550310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@7_nodesu 我去不早说"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1578,
+        "media_key": "3_2041100079918911488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFNxtV6WkAASJfk.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2041100084876550310",
+        "created_at": "2026-04-06T10:52:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T11:52:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041106874758725884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1834481927505522688",
+              "start": 0,
+              "username": "7_nodesu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041106874758725884",
+        "in_reply_to_user_id": "1834481927505522688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041100084876550310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@7_nodesu 我去不早说"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041100079918911488"
+          ]
+        },
+        "author_id": "1834481927505522688",
+        "conversation_id": "2041100084876550310",
+        "created_at": "2026-04-06T10:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T11:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041100084876550310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uQuIVhvQOm",
+              "end": 31,
+              "expanded_url": "https://x.com/7_nodesu/status/2041100084876550310/photo/1",
+              "media_key": "3_2041100079918911488",
+              "start": 8,
+              "url": "https://t.co/uQuIVhvQOm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041100084876550310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "庄子中亦有记载 https://t.co/uQuIVhvQOm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口🪼主人：@阿普唑仑 🩵💙匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 45,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 22,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 118,
+          "like_count": 2373,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 444
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-13T06:39:33.000Z",
+        "description": "awwwww",
+        "id": "1834481927505522688",
+        "location": "England, United Kingdom",
+        "name": "awww",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952301329075904512/LglQJgXi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 482,
+          "like_count": 2903,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 2372
+        },
+        "username": "7_nodesu",
+        "verified": false
+      }
+    ]
+  }
+}

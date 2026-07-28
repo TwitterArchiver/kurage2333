@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2040085010309640270",
+    "created_at": "2026-04-03T16:03:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T17:03:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040097932226281891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1891151651685502976",
+          "start": 0,
+          "username": "Seoyeon_xiaoxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040097932226281891",
+    "in_reply_to_user_id": "1891151651685502976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040097801623728507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Seoyeon_xiaoxue 嘿嘿！爱死你了！❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2040085010309640270",
+        "created_at": "2026-04-03T16:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T17:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040097932226281891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1891151651685502976",
+              "start": 0,
+              "username": "Seoyeon_xiaoxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040097932226281891",
+        "in_reply_to_user_id": "1891151651685502976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040097801623728507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seoyeon_xiaoxue 嘿嘿！爱死你了！❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891151651685502976",
+        "conversation_id": "2040085010309640270",
+        "created_at": "2026-04-03T16:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T17:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040097801623728507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040097801623728507",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040085010309640270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 半双马尾好可爱！🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口🪼咕噜咕噜..... 血臭臭的…. 🩵💙匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 53,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 30,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 99,
+          "like_count": 2081,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 364
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-16T15:44:36.000Z",
+        "description": "自伤｜没有任何恶意 关注你是喜欢你。",
+        "id": "1891151651685502976",
+        "name": "小雪",
+        "pinned_tweet_id": "2023061600182399385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032574719577280513/3ozs9pfM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 82,
+          "like_count": 1596,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 141
+        },
+        "username": "Seoyeon_xiaoxue",
+        "verified": false
+      }
+    ]
+  }
+}

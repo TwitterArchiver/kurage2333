@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2070018272226136470",
+    "created_at": "2026-06-25T07:57:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T08:57:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070053847045951852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1885641757469380608",
+          "start": 0,
+          "username": "nishuodeduiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070053847045951852",
+    "in_reply_to_user_id": "1885641757469380608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070018272226136470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nishuodeduiiii 强强。？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2070018255021105152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLouorEbYAAORyr.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2070018272226136470",
+        "created_at": "2026-06-25T07:57:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T08:57:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070053847045951852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1885641757469380608",
+              "start": 0,
+              "username": "nishuodeduiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070053847045951852",
+        "in_reply_to_user_id": "1885641757469380608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070018272226136470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nishuodeduiiii 强强。？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070018255021105152"
+          ]
+        },
+        "author_id": "1885641757469380608",
+        "conversation_id": "2070018272226136470",
+        "created_at": "2026-06-25T05:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T06:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070018272226136470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8fOGIkDeYD",
+              "end": 72,
+              "expanded_url": "https://x.com/nishuodeduiiii/status/2070018272226136470/photo/1",
+              "media_key": "3_2070018255021105152",
+              "start": 49,
+              "url": "https://t.co/8fOGIkDeYD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070018272226136470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 997,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "高考出分了 679 河南省711 忽然觉得考前定下的目标中科大也不是很想上 欲报南京大学 望周知 https://t.co/8fOGIkDeYD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 342,
+          "like_count": 3835,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 1345
+        },
+        "url": "",
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T10:50:09.000Z",
+        "description": "许愿你永远在我身边\n\n“革命死了，革命万岁！”\n\n欢迎互fo 关注鱼泡泡（你说得对）谢谢喵\n\n马主义者 不完全的卢主义者 \n大概我可能应该是极左\n\n小号 暴躁的我@GrlIntrpted\n八月一号解锁小小号 小男娘形态的我……",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 81,
+                "username": "GrlIntrpted"
+              }
+            ]
+          }
+        },
+        "id": "1885641757469380608",
+        "location": "雨一直下",
+        "name": "鱼鱼鱼鱼鱼泡泡",
+        "pinned_tweet_id": "2050039994975490411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067124899685277696/W2-SjgOp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 547,
+          "like_count": 1708,
+          "listed_count": 3,
+          "media_count": 258,
+          "tweet_count": 3071
+        },
+        "url": "",
+        "username": "nishuodeduiiii",
+        "verified": false
+      }
+    ]
+  }
+}

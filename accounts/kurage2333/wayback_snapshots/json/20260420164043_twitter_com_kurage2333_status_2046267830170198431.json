@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2046267830170198431",
+    "created_at": "2026-04-20T16:40:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T17:40:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046267830170198431"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1727277830025973760",
+          "start": 3,
+          "username": "yuriano3479"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046267830170198431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045852124832268350",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuriano3479: 那群看到自残就在下面冷嘲热讽的人、有没有想过尊重别人是最基本的教养啊？尤其这是别人的病痛，你们已经畜生到连共情自己的同类都做不到了吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2046267830170198431",
+        "created_at": "2026-04-20T16:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046267830170198431"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1727277830025973760",
+              "start": 3,
+              "username": "yuriano3479"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046267830170198431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045852124832268350",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuriano3479: 那群看到自残就在下面冷嘲热讽的人、有没有想过尊重别人是最基本的教养啊？尤其这是别人的病痛，你们已经畜生到连共情自己的同类都做不到了吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727277830025973760",
+        "conversation_id": "2045852124832268350",
+        "created_at": "2026-04-19T13:08:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T14:08:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045852124832268350"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045852124832268350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7023,
+          "like_count": 250,
+          "quote_count": 1,
+          "reply_count": 59,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "那群看到自残就在下面冷嘲热讽的人、有没有想过尊重别人是最基本的教养啊？尤其这是别人的病痛，你们已经畜生到连共情自己的同类都做不到了吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼主人：@阿普唑仑 🩵💙互fo/大欢迎！💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 60,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 37,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 227,
+          "like_count": 3093,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 757
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-22T10:48:32.000Z",
+        "description": "☠️🪽我是优理。喜欢我就请关注吧^^什么都发｜欢迎互fo/DM○｜中文/日本語/Eng",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkbio.co/8020909Yo7hsb",
+                "end": 23,
+                "expanded_url": "https://linkbio.co/8020909Yo7hsb",
+                "start": 0,
+                "url": "https://t.co/dUGLHyy8uQ"
+              }
+            ]
+          }
+        },
+        "id": "1727277830025973760",
+        "location": "天国",
+        "name": "yuriiano",
+        "pinned_tweet_id": "2038174961668669522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037149597009928198/mPcUl3UR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 969,
+          "following_count": 357,
+          "like_count": 5289,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 1573
+        },
+        "url": "https://t.co/dUGLHyy8uQ",
+        "username": "yuriano3479",
+        "verified": false
+      }
+    ]
+  }
+}

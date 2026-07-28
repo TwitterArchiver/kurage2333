@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2035545726122684567",
+    "created_at": "2026-03-22T16:40:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T17:40:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035758547649372341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1472219833261772801",
+          "start": 0,
+          "username": "xxx_jjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035758547649372341",
+    "in_reply_to_user_id": "1472219833261772801",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035545726122684567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxx_jjkk 笑死我。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2035545723153039360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD-2DOiaQAAcP-O.jpg",
+        "width": 560
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2035545723417305088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD-2DPhaoAAnA_O.jpg",
+        "width": 557
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2035545723706724352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD-2DQma0AAdIpR.jpg",
+        "width": 545
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2035545723849388032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD-2DRIbsAAMxWk.jpg",
+        "width": 542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2035545726122684567",
+        "created_at": "2026-03-22T16:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T17:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035758547649372341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1472219833261772801",
+              "start": 0,
+              "username": "xxx_jjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035758547649372341",
+        "in_reply_to_user_id": "1472219833261772801",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035545726122684567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxx_jjkk 笑死我。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035545723153039360",
+            "3_2035545723417305088",
+            "3_2035545723706724352",
+            "3_2035545723849388032"
+          ]
+        },
+        "author_id": "1472219833261772801",
+        "conversation_id": "2035545726122684567",
+        "created_at": "2026-03-22T02:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T03:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035545726122684567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Td5rkFQoMk",
+              "end": 121,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2035545726122684567/photo/1",
+              "media_key": "3_2035545723153039360",
+              "start": 98,
+              "url": "https://t.co/Td5rkFQoMk"
+            },
+            {
+              "display_url": "pic.x.com/Td5rkFQoMk",
+              "end": 121,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2035545726122684567/photo/1",
+              "media_key": "3_2035545723417305088",
+              "start": 98,
+              "url": "https://t.co/Td5rkFQoMk"
+            },
+            {
+              "display_url": "pic.x.com/Td5rkFQoMk",
+              "end": 121,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2035545726122684567/photo/1",
+              "media_key": "3_2035545723706724352",
+              "start": 98,
+              "url": "https://t.co/Td5rkFQoMk"
+            },
+            {
+              "display_url": "pic.x.com/Td5rkFQoMk",
+              "end": 121,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2035545726122684567/photo/1",
+              "media_key": "3_2035545723849388032",
+              "start": 98,
+              "url": "https://t.co/Td5rkFQoMk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035545726122684567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 18099,
+          "like_count": 228,
+          "quote_count": 5,
+          "reply_count": 19,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "来来来，有没有小白不懂od圈的文化。广州禁毒官方出的教学指南，还有官方手拿正版盒子，可以方便你截图就上淘宝拼多多京东搜索，非常方便和正规！再也不怕买到假药了。\n(他还挺潮，穿champion呢) https://t.co/Td5rkFQoMk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口🪼咕噜咕噜..... 血臭臭的…. 🩵💙匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 53,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 30,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 80,
+          "like_count": 1374,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 244
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T14:59:07.000Z",
+        "description": "我这一生都存进这小小的屏幕里\n当我离去了\n至少这里曾有我活过的痕迹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xxxynyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xxxynyn",
+                "start": 0,
+                "url": "https://t.co/yz1Ew7xhf4"
+              }
+            ]
+          }
+        },
+        "id": "1472219833261772801",
+        "name": "旖旎",
+        "pinned_tweet_id": "2032136848383099280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035262095277862912/s0vuE8mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 388,
+          "like_count": 7972,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1148
+        },
+        "url": "https://t.co/yz1Ew7xhf4",
+        "username": "xxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

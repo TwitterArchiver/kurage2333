@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054114671570079744",
+        "3_2054114671578484736",
+        "3_2054114671574368256",
+        "3_2054114671582662657"
+      ]
+    },
+    "author_id": "1987604380896600064",
+    "conversation_id": "2054114681376428425",
+    "created_at": "2026-05-12T08:21:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T09:21:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054114681376428425"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/W7J49Q406X",
+          "end": 23,
+          "expanded_url": "https://x.com/kurage2333/status/2054114681376428425/photo/1",
+          "media_key": "3_2054114671570079744",
+          "start": 0,
+          "url": "https://t.co/W7J49Q406X"
+        },
+        {
+          "display_url": "pic.x.com/W7J49Q406X",
+          "end": 23,
+          "expanded_url": "https://x.com/kurage2333/status/2054114681376428425/photo/1",
+          "media_key": "3_2054114671578484736",
+          "start": 0,
+          "url": "https://t.co/W7J49Q406X"
+        },
+        {
+          "display_url": "pic.x.com/W7J49Q406X",
+          "end": 23,
+          "expanded_url": "https://x.com/kurage2333/status/2054114681376428425/photo/1",
+          "media_key": "3_2054114671574368256",
+          "start": 0,
+          "url": "https://t.co/W7J49Q406X"
+        },
+        {
+          "display_url": "pic.x.com/W7J49Q406X",
+          "end": 23,
+          "expanded_url": "https://x.com/kurage2333/status/2054114681376428425/photo/1",
+          "media_key": "3_2054114671582662657",
+          "start": 0,
+          "url": "https://t.co/W7J49Q406X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054114681376428425",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/W7J49Q406X"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2054114671570079744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIGuaR7aUAAB7jR.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2054114671578484736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIGuaR9akAACh7f.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2054114671574368256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIGuaR8bwAAtUrh.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2054114671582662657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIGuaR-aUAExW6Q.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054114671570079744",
+            "3_2054114671578484736",
+            "3_2054114671574368256",
+            "3_2054114671582662657"
+          ]
+        },
+        "author_id": "1987604380896600064",
+        "conversation_id": "2054114681376428425",
+        "created_at": "2026-05-12T08:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T09:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054114681376428425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W7J49Q406X",
+              "end": 23,
+              "expanded_url": "https://x.com/kurage2333/status/2054114681376428425/photo/1",
+              "media_key": "3_2054114671570079744",
+              "start": 0,
+              "url": "https://t.co/W7J49Q406X"
+            },
+            {
+              "display_url": "pic.x.com/W7J49Q406X",
+              "end": 23,
+              "expanded_url": "https://x.com/kurage2333/status/2054114681376428425/photo/1",
+              "media_key": "3_2054114671578484736",
+              "start": 0,
+              "url": "https://t.co/W7J49Q406X"
+            },
+            {
+              "display_url": "pic.x.com/W7J49Q406X",
+              "end": 23,
+              "expanded_url": "https://x.com/kurage2333/status/2054114681376428425/photo/1",
+              "media_key": "3_2054114671574368256",
+              "start": 0,
+              "url": "https://t.co/W7J49Q406X"
+            },
+            {
+              "display_url": "pic.x.com/W7J49Q406X",
+              "end": 23,
+              "expanded_url": "https://x.com/kurage2333/status/2054114681376428425/photo/1",
+              "media_key": "3_2054114671582662657",
+              "start": 0,
+              "url": "https://t.co/W7J49Q406X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054114681376428425",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/W7J49Q406X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 68,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 45,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 287,
+          "like_count": 3367,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 953
+        },
+        "username": "kurage2333",
+        "verified": false
+      }
+    ]
+  }
+}

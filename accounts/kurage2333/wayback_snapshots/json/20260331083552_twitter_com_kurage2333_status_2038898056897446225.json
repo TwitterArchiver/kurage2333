@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2038704268220547120",
+    "created_at": "2026-03-31T08:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T09:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038898056897446225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2014098182184009728",
+          "start": 0,
+          "username": "HuffmanAlm86735"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038898056897446225",
+    "in_reply_to_user_id": "2014098182184009728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038809590763270159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuffmanAlm86735 不要死😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2038704268220547120",
+        "created_at": "2026-03-31T08:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T09:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038898056897446225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2014098182184009728",
+              "start": 0,
+              "username": "HuffmanAlm86735"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038898056897446225",
+        "in_reply_to_user_id": "2014098182184009728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038809590763270159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuffmanAlm86735 不要死😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2014098182184009728",
+        "conversation_id": "2038704268220547120",
+        "created_at": "2026-03-31T02:44:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T03:44:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038809590763270159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038809590763270159",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038704268220547120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 俺不死 俺夏天死（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口🪼咕噜咕噜..... 血臭臭的…. 🩵💙匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 53,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 30,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 96,
+          "like_count": 2005,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 336
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-21T22:10:25.000Z",
+        "description": "小愿/愿酱|互fo|生产日期2010 10.14\n国内联系方式只给女生\n我就这么一直静静的看着你👀\n接血图定制喵 只要是凉席的我就接😋价格你定 不是很低就ok\n俺是听障人（但是可以正常交流 线下不说话只打字就可以正常交流！）",
+        "id": "2014098182184009728",
+        "location": "天天天国地狱国",
+        "name": "スパイダーブレード",
+        "pinned_tweet_id": "2034200911174918626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035762485735940096/AxOkMmGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 230,
+          "like_count": 4420,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 758
+        },
+        "username": "HuffmanAlm86735",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2061862103175315732",
+    "created_at": "2026-06-02T20:01:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T21:01:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061901042015690809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2047867480576794624",
+          "start": 0,
+          "username": "yuganbb823"
+        },
+        {
+          "end": 23,
+          "id": "1829867271592026112",
+          "start": 12,
+          "username": "Shivam3228"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061901042015690809",
+    "in_reply_to_user_id": "2047867480576794624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061889065197146270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuganbb823 @Shivam3228 亲亲亲亲亲亲亲亲亲！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2061862103175315732",
+        "created_at": "2026-06-02T20:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T21:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061901042015690809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2047867480576794624",
+              "start": 0,
+              "username": "yuganbb823"
+            },
+            {
+              "end": 23,
+              "id": "1829867271592026112",
+              "start": 12,
+              "username": "Shivam3228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061901042015690809",
+        "in_reply_to_user_id": "2047867480576794624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061889065197146270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuganbb823 @Shivam3228 亲亲亲亲亲亲亲亲亲！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047867480576794624",
+        "conversation_id": "2061862103175315732",
+        "created_at": "2026-06-02T19:13:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T20:13:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061889065197146270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            },
+            {
+              "end": 23,
+              "id": "1829867271592026112",
+              "start": 12,
+              "username": "Shivam3228"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061889065197146270",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061862103175315732",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 @Shivam3228 萌萌萌萌萌萌萌萌萌萌萌萌萌！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 349,
+          "like_count": 3656,
+          "listed_count": 2,
+          "media_count": 103,
+          "tweet_count": 1232
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T02:40:37.000Z",
+        "description": "鱼干 | od | 餐券 | 🔪🩸 | 只跟同类互fo 直fo是因为喜欢你呀 |",
+        "id": "2047867480576794624",
+        "location": "你身后",
+        "name": "为何人生如此凄惨",
+        "pinned_tweet_id": "2061102606643044586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058530430505107456/xZ6M8S5D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 167,
+          "like_count": 3143,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 486
+        },
+        "username": "yuganbb823",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T13:02:22.000Z",
+        "description": "在线时间15:00～5:00\n大号@Yijin_0v0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "Yijin_0v0"
+              }
+            ]
+          }
+        },
+        "id": "1829867271592026112",
+        "location": "你看看你身后",
+        "name": "七号雨木木",
+        "pinned_tweet_id": "2061781359342047285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058860881585594368/GxGn2fBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 349,
+          "like_count": 912,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 522
+        },
+        "username": "Shivam3228",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043259362869907456"
+      ]
+    },
+    "author_id": "1987604380896600064",
+    "conversation_id": "2043259372609134873",
+    "created_at": "2026-04-12T09:26:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T10:26:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043259372609134873"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DK9z86L2g8",
+          "end": 44,
+          "expanded_url": "https://x.com/kurage2333/status/2043259372609134873/photo/1",
+          "media_key": "3_2043259362869907456",
+          "start": 21,
+          "url": "https://t.co/DK9z86L2g8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043259372609134873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啦啦啦！100fo啦！爱你们一辈子！❤️ https://t.co/DK9z86L2g8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043259362869907456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFsdkJvaEAAZkz8.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043259362869907456"
+          ]
+        },
+        "author_id": "1987604380896600064",
+        "conversation_id": "2043259372609134873",
+        "created_at": "2026-04-12T09:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T10:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043259372609134873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DK9z86L2g8",
+              "end": 44,
+              "expanded_url": "https://x.com/kurage2333/status/2043259372609134873/photo/1",
+              "media_key": "3_2043259362869907456",
+              "start": 21,
+              "url": "https://t.co/DK9z86L2g8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043259372609134873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啦啦啦！100fo啦！爱你们一辈子！❤️ https://t.co/DK9z86L2g8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口🪼主人：@阿普唑仑 🩵💙匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 45,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 22,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 156,
+          "like_count": 2677,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 552
+        },
+        "username": "kurage2333",
+        "verified": false
+      }
+    ]
+  }
+}

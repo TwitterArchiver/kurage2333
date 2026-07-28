@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2054852965358522573",
+    "created_at": "2026-05-14T09:33:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T10:33:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054857715953045925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2039759562815733760",
+          "start": 0,
+          "username": "12sgcsb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054857715953045925",
+    "in_reply_to_user_id": "2039759562815733760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054852965358522573",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@12sgcsb 哈哈哈哈哈哈哈哈哈哈哈哈哈哈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2054852954369495040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRN3_rbEAAWPEQ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054852955048984576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRN4CNbQAAFVAZ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2054852956269502464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRN4Gwa4AAA6fn.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2054852965358522573",
+        "created_at": "2026-05-14T09:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054857715953045925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2039759562815733760",
+              "start": 0,
+              "username": "12sgcsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054857715953045925",
+        "in_reply_to_user_id": "2039759562815733760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054852965358522573",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@12sgcsb 哈哈哈哈哈哈哈哈哈哈哈哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054852954369495040",
+            "3_2054852955048984576",
+            "3_2054852956269502464"
+          ]
+        },
+        "author_id": "2039759562815733760",
+        "conversation_id": "2054852965358522573",
+        "created_at": "2026-05-14T09:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054852965358522573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WwouWuY9St",
+              "end": 34,
+              "expanded_url": "https://x.com/12sgcsb/status/2054852965358522573/photo/1",
+              "media_key": "3_2054852954369495040",
+              "start": 11,
+              "url": "https://t.co/WwouWuY9St"
+            },
+            {
+              "display_url": "pic.x.com/WwouWuY9St",
+              "end": 34,
+              "expanded_url": "https://x.com/12sgcsb/status/2054852965358522573/photo/1",
+              "media_key": "3_2054852955048984576",
+              "start": 11,
+              "url": "https://t.co/WwouWuY9St"
+            },
+            {
+              "display_url": "pic.x.com/WwouWuY9St",
+              "end": 34,
+              "expanded_url": "https://x.com/12sgcsb/status/2054852965358522573/photo/1",
+              "media_key": "3_2054852956269502464",
+              "start": 11,
+              "url": "https://t.co/WwouWuY9St"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054852965358522573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那你想耍帅点烟拍照时 https://t.co/WwouWuY9St"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 303,
+          "like_count": 3530,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1067
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T17:39:35.000Z",
+        "description": "12/烟袋/可咨询/不推销了，老实了",
+        "id": "2039759562815733760",
+        "location": "Kowloon City District",
+        "name": "12（已老实）",
+        "pinned_tweet_id": "2054094373688868965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054091024755269634/yyjNfYaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 145,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 147
+        },
+        "username": "12sgcsb",
+        "verified": false
+      }
+    ]
+  }
+}

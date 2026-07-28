@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2045930919647924681",
+    "created_at": "2026-04-20T06:48:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T07:48:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046118816082731359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1490976522362302465",
+          "start": 0,
+          "username": "miss_u_shen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046118816082731359",
+    "in_reply_to_user_id": "1490976522362302465",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046067387414544790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miss_u_shen w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2045930919647924681",
+        "created_at": "2026-04-20T06:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T07:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046118816082731359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1490976522362302465",
+              "start": 0,
+              "username": "miss_u_shen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046118816082731359",
+        "in_reply_to_user_id": "1490976522362302465",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046067387414544790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miss_u_shen w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490976522362302465",
+        "conversation_id": "2045930919647924681",
+        "created_at": "2026-04-20T03:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T04:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046067387414544790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1987604380896600064",
+              "start": 0,
+              "username": "kurage2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046067387414544790",
+        "in_reply_to_user_id": "1987604380896600064",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045930919647924681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kurage2333 oder"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼主人：@阿普唑仑 🩵💙互fo/大欢迎！💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 60,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 37,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 224,
+          "like_count": 3078,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 750
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T09:11:27.000Z",
+        "description": "“You may know a person and see their face, but you cannot know their heart.”\n-这里是精神病的日记本，一直更新奇异搞笑遗书哪天不回就是死啦",
+        "id": "1490976522362302465",
+        "location": "ㅤㅤㅤㅤ",
+        "name": "坂本龍一",
+        "pinned_tweet_id": "1882598938395697606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026231673411764224/A7nsKyEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8993,
+          "following_count": 1154,
+          "like_count": 7611,
+          "listed_count": 18,
+          "media_count": 1936,
+          "tweet_count": 14233
+        },
+        "username": "miss_u_shen",
+        "verified": false
+      }
+    ]
+  }
+}

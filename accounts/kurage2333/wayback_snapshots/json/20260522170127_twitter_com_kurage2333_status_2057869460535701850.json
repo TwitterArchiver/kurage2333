@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2057863065669132792",
+    "created_at": "2026-05-22T17:01:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T18:01:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057869460535701850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1960635273714524163",
+          "start": 0,
+          "username": "satsukiqaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057869460535701850",
+    "in_reply_to_user_id": "1960635273714524163",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057863065669132792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@satsukiqaq 来力！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2057863065669132792",
+        "created_at": "2026-05-22T17:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T18:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057869460535701850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1960635273714524163",
+              "start": 0,
+              "username": "satsukiqaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057869460535701850",
+        "in_reply_to_user_id": "1960635273714524163",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057863065669132792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@satsukiqaq 来力！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960635273714524163",
+        "conversation_id": "2057863065669132792",
+        "created_at": "2026-05-22T16:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057863065669132792"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057863065669132792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们谁愿意fo我置顶负能号来看负能（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼\n主人：@阿普唑仑 \n🩵💙同类百分百互fo/抑郁症/焦虑症/09💙🩵\n匿名信 https://t.co/tG3r80z6fL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 73,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 50,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 341,
+          "like_count": 3558,
+          "listed_count": 2,
+          "media_count": 97,
+          "tweet_count": 1155
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-27T09:27:40.000Z",
+        "description": "さつき/见欢/佐言/🇨🇳\n無言フオロー失礼します\n看家产本当上手ww\n互fo大欢迎\n家机@serolasqaq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 44,
+                "username": "serolasqaq"
+              }
+            ]
+          }
+        },
+        "id": "1960635273714524163",
+        "name": "satsukiTT",
+        "pinned_tweet_id": "2050562609322279047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986838800077889543/Vd8y6t-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 102,
+          "like_count": 4316,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1215
+        },
+        "username": "satsukiqaq",
+        "verified": false
+      }
+    ]
+  }
+}

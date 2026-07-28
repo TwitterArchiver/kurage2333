@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2044726383520436224"
+      ]
+    },
+    "author_id": "1987604380896600064",
+    "conversation_id": "2044726454492266586",
+    "created_at": "2026-04-16T10:35:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T11:35:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044726454492266586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 24,
+          "id": "1834481927505522688",
+          "start": 15,
+          "username": "7_nodesu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZJDDBqUGH5",
+          "end": 48,
+          "expanded_url": "https://x.com/kurage2333/status/2044726454492266586/video/1",
+          "media_key": "13_2044726383520436224",
+          "start": 25,
+          "url": "https://t.co/ZJDDBqUGH5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044726454492266586",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和服女仆喵！乖乖买给琪琪的 ～@7_nodesu https://t.co/ZJDDBqUGH5"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5968,
+        "height": 1144,
+        "media_key": "13_2044726383520436224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2044726383520436224/img/VNTitKUlEmJiLF3F.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044726383520436224/vid/avc1/320x508/fj0vpdNRqDgbJmiM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044726383520436224/vid/avc1/480x762/hjET8sl0kxaF0pHt.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2044726383520436224/vid/avc1/720x1144/rOcpb15IpvUo_mvE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2044726383520436224/pl/kQueCnPNzSkM5j3k.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2044726383520436224"
+          ]
+        },
+        "author_id": "1987604380896600064",
+        "conversation_id": "2044726454492266586",
+        "created_at": "2026-04-16T10:35:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T11:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044726454492266586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1834481927505522688",
+              "start": 15,
+              "username": "7_nodesu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZJDDBqUGH5",
+              "end": 48,
+              "expanded_url": "https://x.com/kurage2333/status/2044726454492266586/video/1",
+              "media_key": "13_2044726383520436224",
+              "start": 25,
+              "url": "https://t.co/ZJDDBqUGH5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044726454492266586",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和服女仆喵！乖乖买给琪琪的 ～@7_nodesu https://t.co/ZJDDBqUGH5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口我爱教主🪼主人：@阿普唑仑 🩵💙互fo/大欢迎匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 56,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 33,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体（戒割中",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 206,
+          "like_count": 2881,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 656
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-13T06:39:33.000Z",
+        "description": "キメラだよー",
+        "id": "1834481927505522688",
+        "location": "England, United Kingdom",
+        "name": "Shino",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952301329075904512/LglQJgXi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 500,
+          "like_count": 3466,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 2489
+        },
+        "username": "7_nodesu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "2035648788958953743",
+    "created_at": "2026-03-22T14:26:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T15:26:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035724824887398770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1472219833261772801",
+          "start": 0,
+          "username": "xxx_jjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035724824887398770",
+    "in_reply_to_user_id": "1472219833261772801",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035648788958953743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxx_jjkk 我不行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1547,
+        "media_key": "3_2035648777324003328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEATxxPbAAA2NOE.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2224,
+        "media_key": "3_2035648777605042176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEATxySbUAAQcJu.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1027,
+        "media_key": "3_2035648778540392448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEATx1xboAAB2pq.jpg",
+        "width": 1070
+      },
+      {
+        "height": 1894,
+        "media_key": "3_2035648779936993280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEATx6-aEAAJqYT.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "2035648788958953743",
+        "created_at": "2026-03-22T14:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T15:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035724824887398770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1472219833261772801",
+              "start": 0,
+              "username": "xxx_jjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035724824887398770",
+        "in_reply_to_user_id": "1472219833261772801",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035648788958953743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxx_jjkk 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035648777324003328",
+            "3_2035648777605042176",
+            "3_2035648778540392448",
+            "3_2035648779936993280"
+          ]
+        },
+        "author_id": "1472219833261772801",
+        "conversation_id": "2035648788958953743",
+        "created_at": "2026-03-22T09:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T10:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035648788958953743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rZrGu8is3X",
+              "end": 44,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2035648788958953743/photo/1",
+              "media_key": "3_2035648777324003328",
+              "start": 21,
+              "url": "https://t.co/rZrGu8is3X"
+            },
+            {
+              "display_url": "pic.x.com/rZrGu8is3X",
+              "end": 44,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2035648788958953743/photo/1",
+              "media_key": "3_2035648777605042176",
+              "start": 21,
+              "url": "https://t.co/rZrGu8is3X"
+            },
+            {
+              "display_url": "pic.x.com/rZrGu8is3X",
+              "end": 44,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2035648788958953743/photo/1",
+              "media_key": "3_2035648778540392448",
+              "start": 21,
+              "url": "https://t.co/rZrGu8is3X"
+            },
+            {
+              "display_url": "pic.x.com/rZrGu8is3X",
+              "end": 44,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2035648788958953743/photo/1",
+              "media_key": "3_2035648779936993280",
+              "start": 21,
+              "url": "https://t.co/rZrGu8is3X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035648788958953743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3961,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晶哥生气了。很害怕。\n你们觉得他像晶吗？ https://t.co/rZrGu8is3X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "🪼我爱术力口🪼咕噜咕噜..... 血臭臭的…. 🩵💙匿名信 https://t.co/tG3r80z6fL 💙🩵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurage28745",
+                "end": 53,
+                "expanded_url": "https://ngl.link/kurage28745",
+                "start": 30,
+                "url": "https://t.co/tG3r80z6fL"
+              }
+            ]
+          }
+        },
+        "id": "1987604380896600064",
+        "location": "深海底",
+        "name": "水母体",
+        "pinned_tweet_id": "2034337533652599256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002564844029927425/a81kR6DN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 80,
+          "like_count": 1313,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 235
+        },
+        "username": "kurage2333",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T14:59:07.000Z",
+        "description": "我这一生都存进这小小的屏幕里\n当我离去了\n至少这里曾有我活过的痕迹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xxxynyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xxxynyn",
+                "start": 0,
+                "url": "https://t.co/yz1Ew7xhf4"
+              }
+            ]
+          }
+        },
+        "id": "1472219833261772801",
+        "name": "旖旎",
+        "pinned_tweet_id": "2032136848383099280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035262095277862912/s0vuE8mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 386,
+          "like_count": 7938,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1143
+        },
+        "url": "https://t.co/yz1Ew7xhf4",
+        "username": "xxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

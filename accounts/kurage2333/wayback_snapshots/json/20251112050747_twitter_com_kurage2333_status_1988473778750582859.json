@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987604380896600064",
+    "conversation_id": "1988473778750582859",
+    "created_at": "2025-11-12T05:07:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-12T06:07:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988473778750582859"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1988473778750582859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "都快怀疑自己是不是抖m了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987604380896600064",
+        "conversation_id": "1988473778750582859",
+        "created_at": "2025-11-12T05:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T06:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988473778750582859"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988473778750582859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "都快怀疑自己是不是抖m了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-09T19:33:41.000Z",
+        "description": "会有很多负面内容不要骂我。",
+        "id": "1987604380896600064",
+        "location": "地球外",
+        "name": "咕噜母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988471635280629760/PVSuNkoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 6
+        },
+        "username": "kurage2333",
+        "verified": false
+      }
+    ]
+  }
+}
